@@ -1,0 +1,28 @@
+dataset:
+  MNIST: /your path/MNIST
+  high_AGMNIST_all: /your path/illusoryimgs/high-MNIST
+  fashion_MNIST: /your path/fashion_MNIST/
+  fanshion_mnist_AG: /your path/fashion_MNIST/
+
+name:
+  MNIST: MNIST
+  high_AGMNIST: high_MNIST
+  fashion_MNIST: fashion_MNIST
+  fanshion_mnist_AG: ag_fashion_mnist
+
+
+# train 16 32 8 for nyud and PASCAL-Context 10 8 2 for bsds PASCAL12: 10 64 16
+batch_size: 40 
+max_epoch: 100
+decay_rate: 0.1
+decay_steps: 5
+
+# optimization AdamW or SGD
+method: SGD
+lr: 1.0e-3
+momentum: 0.9
+weight_decay: 1.0e-3
+
+# save
+sava_epoch: 2
+save_name: model.pth

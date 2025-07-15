@@ -1,0 +1,2001 @@
+SGD	0.01
+2024-09-08 09:49:34.438571: step [0,   100/1500], acc=35.0000, loss = 2.598 (1698.6 examples/sec; 0.024 sec/batch)
+2024-09-08 09:50:13.230707: step [0,   200/1500], acc=20.0000, loss = 2.039 (1696.5 examples/sec; 0.024 sec/batch)
+2024-09-08 09:50:53.096414: step [0,   300/1500], acc=27.5000, loss = 1.715 (1702.8 examples/sec; 0.023 sec/batch)
+2024-09-08 09:51:33.637599: step [0,   400/1500], acc=55.0000, loss = 1.506 (1692.4 examples/sec; 0.024 sec/batch)
+2024-09-08 09:52:14.465208: step [0,   500/1500], acc=55.0000, loss = 1.307 (1697.7 examples/sec; 0.024 sec/batch)
+2024-09-08 09:52:55.370106: step [0,   600/1500], acc=67.5000, loss = 1.186 (1692.7 examples/sec; 0.024 sec/batch)
+2024-09-08 09:53:36.549037: step [0,   700/1500], acc=60.0000, loss = 1.144 (1709.6 examples/sec; 0.023 sec/batch)
+2024-09-08 09:54:17.705902: step [0,   800/1500], acc=55.0000, loss = 1.075 (1735.5 examples/sec; 0.023 sec/batch)
+2024-09-08 09:54:58.733658: step [0,   900/1500], acc=75.0000, loss = 0.983 (1714.1 examples/sec; 0.023 sec/batch)
+2024-09-08 09:55:40.025038: step [0,  1000/1500], acc=77.5000, loss = 0.896 (1715.1 examples/sec; 0.023 sec/batch)
+2024-09-08 09:56:20.840424: step [0,  1100/1500], acc=65.0000, loss = 0.856 (1690.7 examples/sec; 0.024 sec/batch)
+2024-09-08 09:57:01.792308: step [0,  1200/1500], acc=75.0000, loss = 0.825 (1663.0 examples/sec; 0.024 sec/batch)
+2024-09-08 09:57:42.853040: step [0,  1300/1500], acc=70.0000, loss = 0.744 (1719.7 examples/sec; 0.023 sec/batch)
+2024-09-08 09:58:23.795076: step [0,  1400/1500], acc=75.0000, loss = 0.749 (1683.8 examples/sec; 0.024 sec/batch)
+2024-09-08 09:59:04.844232: step [0,  1500/1500], acc=72.5000, loss = 0.686 (1774.2 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 09:59:45.231212, epoch: 0, acc_TOP1: 80.8200, acc_TOP5: 99.1100, loss_test: 0.541, avg_time: 0.020138, avg_FPS:49.657
+SGD	0.01
+2024-09-08 10:00:45.453439: step [1,   100/1500], acc=80.0000, loss = 0.648 (1675.6 examples/sec; 0.024 sec/batch)
+2024-09-08 10:01:26.172940: step [1,   200/1500], acc=80.0000, loss = 0.622 (1320.4 examples/sec; 0.030 sec/batch)
+2024-09-08 10:02:07.164263: step [1,   300/1500], acc=87.5000, loss = 0.582 (1659.5 examples/sec; 0.024 sec/batch)
+2024-09-08 10:02:48.118413: step [1,   400/1500], acc=87.5000, loss = 0.531 (1687.6 examples/sec; 0.024 sec/batch)
+2024-09-08 10:03:29.181889: step [1,   500/1500], acc=87.5000, loss = 0.512 (1693.5 examples/sec; 0.024 sec/batch)
+2024-09-08 10:04:10.197092: step [1,   600/1500], acc=87.5000, loss = 0.504 (1715.9 examples/sec; 0.023 sec/batch)
+2024-09-08 10:04:51.032956: step [1,   700/1500], acc=82.5000, loss = 0.482 (1688.5 examples/sec; 0.024 sec/batch)
+2024-09-08 10:05:31.933186: step [1,   800/1500], acc=85.0000, loss = 0.440 (1702.6 examples/sec; 0.023 sec/batch)
+2024-09-08 10:06:12.861385: step [1,   900/1500], acc=82.5000, loss = 0.437 (910.8 examples/sec; 0.044 sec/batch)
+2024-09-08 10:06:53.826116: step [1,  1000/1500], acc=87.5000, loss = 0.404 (1647.7 examples/sec; 0.024 sec/batch)
+2024-09-08 10:07:34.749339: step [1,  1100/1500], acc=90.0000, loss = 0.408 (1707.4 examples/sec; 0.023 sec/batch)
+2024-09-08 10:08:15.564334: step [1,  1200/1500], acc=87.5000, loss = 0.415 (1706.7 examples/sec; 0.023 sec/batch)
+2024-09-08 10:08:56.473128: step [1,  1300/1500], acc=82.5000, loss = 0.420 (1408.2 examples/sec; 0.028 sec/batch)
+2024-09-08 10:09:37.467113: step [1,  1400/1500], acc=80.0000, loss = 0.371 (1331.8 examples/sec; 0.030 sec/batch)
+2024-09-08 10:10:18.411454: step [1,  1500/1500], acc=90.0000, loss = 0.395 (1754.7 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 10:10:58.680545, epoch: 1, acc_TOP1: 91.4500, acc_TOP5: 99.7600, loss_test: 0.261, avg_time: 0.020183, avg_FPS:49.547
+SGD	0.01
+2024-09-08 10:11:59.270722: step [2,   100/1500], acc=80.0000, loss = 0.389 (1704.3 examples/sec; 0.023 sec/batch)
+2024-09-08 10:12:39.845162: step [2,   200/1500], acc=87.5000, loss = 0.352 (1693.1 examples/sec; 0.024 sec/batch)
+2024-09-08 10:13:20.671847: step [2,   300/1500], acc=92.5000, loss = 0.322 (1714.6 examples/sec; 0.023 sec/batch)
+2024-09-08 10:14:01.593375: step [2,   400/1500], acc=82.5000, loss = 0.339 (884.9 examples/sec; 0.045 sec/batch)
+2024-09-08 10:14:42.415366: step [2,   500/1500], acc=85.0000, loss = 0.332 (1326.8 examples/sec; 0.030 sec/batch)
+2024-09-08 10:15:23.183686: step [2,   600/1500], acc=90.0000, loss = 0.336 (1337.5 examples/sec; 0.030 sec/batch)
+2024-09-08 10:16:04.120071: step [2,   700/1500], acc=87.5000, loss = 0.328 (1715.3 examples/sec; 0.023 sec/batch)
+2024-09-08 10:16:45.111564: step [2,   800/1500], acc=90.0000, loss = 0.337 (1690.6 examples/sec; 0.024 sec/batch)
+2024-09-08 10:17:26.271609: step [2,   900/1500], acc=92.5000, loss = 0.322 (1696.3 examples/sec; 0.024 sec/batch)
+2024-09-08 10:18:07.200992: step [2,  1000/1500], acc=90.0000, loss = 0.314 (1684.2 examples/sec; 0.024 sec/batch)
+2024-09-08 10:18:48.217908: step [2,  1100/1500], acc=92.5000, loss = 0.285 (1686.1 examples/sec; 0.024 sec/batch)
+2024-09-08 10:19:29.198276: step [2,  1200/1500], acc=97.5000, loss = 0.303 (1688.0 examples/sec; 0.024 sec/batch)
+2024-09-08 10:20:10.323100: step [2,  1300/1500], acc=82.5000, loss = 0.283 (1684.6 examples/sec; 0.024 sec/batch)
+2024-09-08 10:20:51.195358: step [2,  1400/1500], acc=95.0000, loss = 0.297 (1696.0 examples/sec; 0.024 sec/batch)
+2024-09-08 10:21:32.055393: step [2,  1500/1500], acc=87.5000, loss = 0.287 (1791.9 examples/sec; 0.022 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 10:22:12.249923, epoch: 2, acc_TOP1: 94.4700, acc_TOP5: 99.8900, loss_test: 0.172, avg_time: 0.020038, avg_FPS:49.904
+SGD	0.01
+2024-09-08 10:23:13.076639: step [3,   100/1500], acc=90.0000, loss = 0.279 (692.0 examples/sec; 0.058 sec/batch)
+2024-09-08 10:23:53.458303: step [3,   200/1500], acc=90.0000, loss = 0.271 (1696.7 examples/sec; 0.024 sec/batch)
+2024-09-08 10:24:34.251391: step [3,   300/1500], acc=87.5000, loss = 0.274 (1329.4 examples/sec; 0.030 sec/batch)
+2024-09-08 10:25:14.957839: step [3,   400/1500], acc=97.5000, loss = 0.252 (1685.9 examples/sec; 0.024 sec/batch)
+2024-09-08 10:25:56.006754: step [3,   500/1500], acc=90.0000, loss = 0.256 (1625.1 examples/sec; 0.025 sec/batch)
+2024-09-08 10:26:36.792298: step [3,   600/1500], acc=87.5000, loss = 0.245 (1632.6 examples/sec; 0.025 sec/batch)
+2024-09-08 10:27:17.518000: step [3,   700/1500], acc=90.0000, loss = 0.250 (1715.0 examples/sec; 0.023 sec/batch)
+2024-09-08 10:27:58.402752: step [3,   800/1500], acc=92.5000, loss = 0.254 (1712.4 examples/sec; 0.023 sec/batch)
+2024-09-08 10:28:39.351286: step [3,   900/1500], acc=95.0000, loss = 0.230 (1711.6 examples/sec; 0.023 sec/batch)
+2024-09-08 10:29:20.098318: step [3,  1000/1500], acc=95.0000, loss = 0.244 (1417.3 examples/sec; 0.028 sec/batch)
+2024-09-08 10:30:00.937209: step [3,  1100/1500], acc=95.0000, loss = 0.259 (1713.9 examples/sec; 0.023 sec/batch)
+2024-09-08 10:30:41.930148: step [3,  1200/1500], acc=92.5000, loss = 0.241 (1710.2 examples/sec; 0.023 sec/batch)
+2024-09-08 10:31:22.898030: step [3,  1300/1500], acc=87.5000, loss = 0.244 (1708.1 examples/sec; 0.023 sec/batch)
+2024-09-08 10:32:03.852384: step [3,  1400/1500], acc=90.0000, loss = 0.246 (1677.7 examples/sec; 0.024 sec/batch)
+2024-09-08 10:32:44.571316: step [3,  1500/1500], acc=95.0000, loss = 0.235 (1738.9 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 10:33:25.710049, epoch: 3, acc_TOP1: 95.2700, acc_TOP5: 99.9000, loss_test: 0.140, avg_time: 0.024324, avg_FPS:41.111
+SGD	0.01
+2024-09-08 10:34:26.382388: step [4,   100/1500], acc=87.5000, loss = 0.226 (1325.4 examples/sec; 0.030 sec/batch)
+2024-09-08 10:35:06.713014: step [4,   200/1500], acc=92.5000, loss = 0.251 (1671.3 examples/sec; 0.024 sec/batch)
+2024-09-08 10:35:47.264585: step [4,   300/1500], acc=85.0000, loss = 0.225 (1700.5 examples/sec; 0.024 sec/batch)
+2024-09-08 10:36:28.026193: step [4,   400/1500], acc=95.0000, loss = 0.233 (1521.2 examples/sec; 0.026 sec/batch)
+2024-09-08 10:37:09.044834: step [4,   500/1500], acc=92.5000, loss = 0.221 (1577.8 examples/sec; 0.025 sec/batch)
+2024-09-08 10:37:50.084447: step [4,   600/1500], acc=95.0000, loss = 0.214 (1612.2 examples/sec; 0.025 sec/batch)
+2024-09-08 10:38:31.121706: step [4,   700/1500], acc=95.0000, loss = 0.240 (1638.5 examples/sec; 0.024 sec/batch)
+2024-09-08 10:39:12.088608: step [4,   800/1500], acc=95.0000, loss = 0.250 (1586.4 examples/sec; 0.025 sec/batch)
+2024-09-08 10:39:53.086786: step [4,   900/1500], acc=90.0000, loss = 0.223 (1601.0 examples/sec; 0.025 sec/batch)
+2024-09-08 10:40:34.004576: step [4,  1000/1500], acc=97.5000, loss = 0.207 (1572.2 examples/sec; 0.025 sec/batch)
+2024-09-08 10:41:14.934091: step [4,  1100/1500], acc=97.5000, loss = 0.218 (1609.1 examples/sec; 0.025 sec/batch)
+2024-09-08 10:41:55.943996: step [4,  1200/1500], acc=92.5000, loss = 0.240 (1601.3 examples/sec; 0.025 sec/batch)
+2024-09-08 10:42:36.859542: step [4,  1300/1500], acc=92.5000, loss = 0.226 (1548.4 examples/sec; 0.026 sec/batch)
+2024-09-08 10:43:17.879918: step [4,  1400/1500], acc=92.5000, loss = 0.203 (1573.1 examples/sec; 0.025 sec/batch)
+2024-09-08 10:43:58.809555: step [4,  1500/1500], acc=92.5000, loss = 0.204 (1510.1 examples/sec; 0.026 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 10:44:39.705926, epoch: 4, acc_TOP1: 95.7900, acc_TOP5: 99.8800, loss_test: 0.134, avg_time: 0.021595, avg_FPS:46.306
+SGD	0.01
+2024-09-08 10:45:41.173546: step [5,   100/1500], acc=95.0000, loss = 0.193 (1579.8 examples/sec; 0.025 sec/batch)
+2024-09-08 10:46:22.637509: step [5,   200/1500], acc=97.5000, loss = 0.215 (907.5 examples/sec; 0.044 sec/batch)
+2024-09-08 10:47:03.962745: step [5,   300/1500], acc=95.0000, loss = 0.216 (1618.6 examples/sec; 0.025 sec/batch)
+2024-09-08 10:47:45.542248: step [5,   400/1500], acc=92.5000, loss = 0.214 (1481.8 examples/sec; 0.027 sec/batch)
+2024-09-08 10:48:27.042127: step [5,   500/1500], acc=92.5000, loss = 0.215 (1567.6 examples/sec; 0.026 sec/batch)
+2024-09-08 10:49:08.297826: step [5,   600/1500], acc=95.0000, loss = 0.216 (1606.7 examples/sec; 0.025 sec/batch)
+2024-09-08 10:49:49.266888: step [5,   700/1500], acc=92.5000, loss = 0.216 (1568.5 examples/sec; 0.026 sec/batch)
+2024-09-08 10:50:30.379805: step [5,   800/1500], acc=92.5000, loss = 0.209 (1566.1 examples/sec; 0.026 sec/batch)
+2024-09-08 10:51:11.629712: step [5,   900/1500], acc=97.5000, loss = 0.214 (922.6 examples/sec; 0.043 sec/batch)
+2024-09-08 10:51:52.869215: step [5,  1000/1500], acc=95.0000, loss = 0.219 (1597.7 examples/sec; 0.025 sec/batch)
+2024-09-08 10:52:34.162278: step [5,  1100/1500], acc=95.0000, loss = 0.206 (1569.5 examples/sec; 0.025 sec/batch)
+2024-09-08 10:53:15.272023: step [5,  1200/1500], acc=92.5000, loss = 0.201 (1659.7 examples/sec; 0.024 sec/batch)
+2024-09-08 10:53:56.232198: step [5,  1300/1500], acc=92.5000, loss = 0.203 (1573.7 examples/sec; 0.025 sec/batch)
+2024-09-08 10:54:37.358634: step [5,  1400/1500], acc=92.5000, loss = 0.210 (1605.0 examples/sec; 0.025 sec/batch)
+2024-09-08 10:55:18.499068: step [5,  1500/1500], acc=95.0000, loss = 0.208 (1657.8 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 10:55:59.421494, epoch: 5, acc_TOP1: 95.3600, acc_TOP5: 99.9300, loss_test: 0.139, avg_time: 0.023086, avg_FPS:43.316
+SGD	0.01
+2024-09-08 10:57:02.540647: step [6,   100/1500], acc=97.5000, loss = 0.196 (1580.5 examples/sec; 0.025 sec/batch)
+2024-09-08 10:57:43.573867: step [6,   200/1500], acc=95.0000, loss = 0.213 (1523.3 examples/sec; 0.026 sec/batch)
+2024-09-08 10:58:24.584764: step [6,   300/1500], acc=97.5000, loss = 0.199 (1568.6 examples/sec; 0.025 sec/batch)
+2024-09-08 10:59:05.657006: step [6,   400/1500], acc=92.5000, loss = 0.201 (1570.8 examples/sec; 0.025 sec/batch)
+2024-09-08 10:59:47.049894: step [6,   500/1500], acc=97.5000, loss = 0.214 (1516.4 examples/sec; 0.026 sec/batch)
+2024-09-08 11:00:28.161643: step [6,   600/1500], acc=92.5000, loss = 0.182 (1575.4 examples/sec; 0.025 sec/batch)
+2024-09-08 11:01:09.579498: step [6,   700/1500], acc=92.5000, loss = 0.214 (1457.6 examples/sec; 0.027 sec/batch)
+2024-09-08 11:01:50.610703: step [6,   800/1500], acc=95.0000, loss = 0.217 (1589.6 examples/sec; 0.025 sec/batch)
+2024-09-08 11:02:31.772065: step [6,   900/1500], acc=97.5000, loss = 0.212 (1631.0 examples/sec; 0.025 sec/batch)
+2024-09-08 11:03:12.933403: step [6,  1000/1500], acc=95.0000, loss = 0.210 (1513.1 examples/sec; 0.026 sec/batch)
+2024-09-08 11:03:53.854784: step [6,  1100/1500], acc=97.5000, loss = 0.187 (1610.7 examples/sec; 0.025 sec/batch)
+2024-09-08 11:04:35.075918: step [6,  1200/1500], acc=87.5000, loss = 0.181 (1637.8 examples/sec; 0.024 sec/batch)
+2024-09-08 11:05:16.489620: step [6,  1300/1500], acc=82.5000, loss = 0.196 (1587.3 examples/sec; 0.025 sec/batch)
+2024-09-08 11:05:57.771627: step [6,  1400/1500], acc=92.5000, loss = 0.200 (1627.4 examples/sec; 0.025 sec/batch)
+2024-09-08 11:06:38.973260: step [6,  1500/1500], acc=97.5000, loss = 0.199 (1713.1 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 11:07:21.413021, epoch: 6, acc_TOP1: 96.3500, acc_TOP5: 99.9400, loss_test: 0.114, avg_time: 0.022778, avg_FPS:43.902
+SGD	0.01
+2024-09-08 11:08:25.099463: step [7,   100/1500], acc=97.5000, loss = 0.208 (1631.3 examples/sec; 0.025 sec/batch)
+2024-09-08 11:09:06.024885: step [7,   200/1500], acc=95.0000, loss = 0.220 (1633.4 examples/sec; 0.024 sec/batch)
+2024-09-08 11:09:47.340779: step [7,   300/1500], acc=97.5000, loss = 0.195 (1598.2 examples/sec; 0.025 sec/batch)
+2024-09-08 11:10:28.705674: step [7,   400/1500], acc=95.0000, loss = 0.199 (1614.7 examples/sec; 0.025 sec/batch)
+2024-09-08 11:11:09.923306: step [7,   500/1500], acc=95.0000, loss = 0.193 (1618.5 examples/sec; 0.025 sec/batch)
+2024-09-08 11:11:51.449453: step [7,   600/1500], acc=97.5000, loss = 0.201 (1628.6 examples/sec; 0.025 sec/batch)
+2024-09-08 11:12:32.905992: step [7,   700/1500], acc=90.0000, loss = 0.182 (1224.8 examples/sec; 0.033 sec/batch)
+2024-09-08 11:13:14.434556: step [7,   800/1500], acc=90.0000, loss = 0.195 (1612.9 examples/sec; 0.025 sec/batch)
+2024-09-08 11:13:56.108575: step [7,   900/1500], acc=95.0000, loss = 0.185 (1507.0 examples/sec; 0.027 sec/batch)
+2024-09-08 11:14:38.193014: step [7,  1000/1500], acc=90.0000, loss = 0.207 (915.9 examples/sec; 0.044 sec/batch)
+2024-09-08 11:15:19.791974: step [7,  1100/1500], acc=97.5000, loss = 0.200 (1648.2 examples/sec; 0.024 sec/batch)
+2024-09-08 11:16:02.101369: step [7,  1200/1500], acc=100.0000, loss = 0.201 (1533.8 examples/sec; 0.026 sec/batch)
+2024-09-08 11:16:44.049277: step [7,  1300/1500], acc=100.0000, loss = 0.194 (1640.9 examples/sec; 0.024 sec/batch)
+2024-09-08 11:17:25.694096: step [7,  1400/1500], acc=97.5000, loss = 0.196 (1543.1 examples/sec; 0.026 sec/batch)
+2024-09-08 11:18:06.980321: step [7,  1500/1500], acc=95.0000, loss = 0.182 (1706.5 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 11:18:49.753411, epoch: 7, acc_TOP1: 96.4600, acc_TOP5: 99.9600, loss_test: 0.104, avg_time: 0.024516, avg_FPS:40.790
+SGD	0.01
+2024-09-08 11:19:51.937303: step [8,   100/1500], acc=100.0000, loss = 0.182 (1635.9 examples/sec; 0.024 sec/batch)
+2024-09-08 11:20:32.912141: step [8,   200/1500], acc=100.0000, loss = 0.209 (1573.3 examples/sec; 0.025 sec/batch)
+2024-09-08 11:21:13.843785: step [8,   300/1500], acc=92.5000, loss = 0.175 (848.2 examples/sec; 0.047 sec/batch)
+2024-09-08 11:21:54.805937: step [8,   400/1500], acc=97.5000, loss = 0.189 (1593.9 examples/sec; 0.025 sec/batch)
+2024-09-08 11:22:35.777557: step [8,   500/1500], acc=95.0000, loss = 0.204 (1263.6 examples/sec; 0.032 sec/batch)
+2024-09-08 11:23:17.133475: step [8,   600/1500], acc=92.5000, loss = 0.195 (1268.3 examples/sec; 0.032 sec/batch)
+2024-09-08 11:23:58.731125: step [8,   700/1500], acc=95.0000, loss = 0.197 (1274.0 examples/sec; 0.031 sec/batch)
+2024-09-08 11:24:40.307760: step [8,   800/1500], acc=95.0000, loss = 0.182 (681.9 examples/sec; 0.059 sec/batch)
+2024-09-08 11:25:21.897104: step [8,   900/1500], acc=90.0000, loss = 0.215 (1613.2 examples/sec; 0.025 sec/batch)
+2024-09-08 11:26:03.516115: step [8,  1000/1500], acc=92.5000, loss = 0.185 (1654.4 examples/sec; 0.024 sec/batch)
+2024-09-08 11:26:45.015149: step [8,  1100/1500], acc=97.5000, loss = 0.203 (1589.7 examples/sec; 0.025 sec/batch)
+2024-09-08 11:27:26.794529: step [8,  1200/1500], acc=90.0000, loss = 0.191 (1616.0 examples/sec; 0.025 sec/batch)
+2024-09-08 11:28:08.226960: step [8,  1300/1500], acc=100.0000, loss = 0.210 (1662.0 examples/sec; 0.024 sec/batch)
+2024-09-08 11:28:49.920536: step [8,  1400/1500], acc=95.0000, loss = 0.191 (1633.0 examples/sec; 0.024 sec/batch)
+2024-09-08 11:29:31.423647: step [8,  1500/1500], acc=92.5000, loss = 0.176 (1719.1 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 11:30:12.647883, epoch: 8, acc_TOP1: 96.3000, acc_TOP5: 99.9200, loss_test: 0.114, avg_time: 0.024605, avg_FPS:40.642
+SGD	0.01
+2024-09-08 11:31:13.965445: step [9,   100/1500], acc=100.0000, loss = 0.203 (1640.0 examples/sec; 0.024 sec/batch)
+2024-09-08 11:31:55.128360: step [9,   200/1500], acc=95.0000, loss = 0.199 (1650.2 examples/sec; 0.024 sec/batch)
+2024-09-08 11:32:36.739931: step [9,   300/1500], acc=100.0000, loss = 0.207 (1610.4 examples/sec; 0.025 sec/batch)
+2024-09-08 11:33:17.835940: step [9,   400/1500], acc=87.5000, loss = 0.184 (1636.4 examples/sec; 0.024 sec/batch)
+2024-09-08 11:33:59.366853: step [9,   500/1500], acc=97.5000, loss = 0.203 (1587.8 examples/sec; 0.025 sec/batch)
+2024-09-08 11:34:40.698713: step [9,   600/1500], acc=95.0000, loss = 0.189 (1597.4 examples/sec; 0.025 sec/batch)
+2024-09-08 11:35:22.144229: step [9,   700/1500], acc=95.0000, loss = 0.192 (1591.0 examples/sec; 0.025 sec/batch)
+2024-09-08 11:36:03.851568: step [9,   800/1500], acc=97.5000, loss = 0.209 (1273.8 examples/sec; 0.031 sec/batch)
+2024-09-08 11:36:45.284477: step [9,   900/1500], acc=92.5000, loss = 0.201 (1647.4 examples/sec; 0.024 sec/batch)
+2024-09-08 11:37:26.856174: step [9,  1000/1500], acc=95.0000, loss = 0.206 (1645.0 examples/sec; 0.024 sec/batch)
+2024-09-08 11:38:08.171428: step [9,  1100/1500], acc=95.0000, loss = 0.170 (1647.9 examples/sec; 0.024 sec/batch)
+2024-09-08 11:38:49.852041: step [9,  1200/1500], acc=97.5000, loss = 0.188 (1631.2 examples/sec; 0.025 sec/batch)
+2024-09-08 11:39:31.610092: step [9,  1300/1500], acc=95.0000, loss = 0.182 (1625.8 examples/sec; 0.025 sec/batch)
+2024-09-08 11:40:13.175634: step [9,  1400/1500], acc=97.5000, loss = 0.178 (1627.4 examples/sec; 0.025 sec/batch)
+2024-09-08 11:40:54.342114: step [9,  1500/1500], acc=100.0000, loss = 0.201 (1717.4 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 11:41:35.667119, epoch: 9, acc_TOP1: 95.1600, acc_TOP5: 99.9200, loss_test: 0.146, avg_time: 0.020153, avg_FPS:49.621
+SGD	0.01
+2024-09-08 11:42:36.027976: step [10,   100/1500], acc=95.0000, loss = 0.175 (1633.1 examples/sec; 0.024 sec/batch)
+2024-09-08 11:43:17.080408: step [10,   200/1500], acc=97.5000, loss = 0.192 (1597.1 examples/sec; 0.025 sec/batch)
+2024-09-08 11:43:58.342737: step [10,   300/1500], acc=97.5000, loss = 0.172 (1594.3 examples/sec; 0.025 sec/batch)
+2024-09-08 11:44:39.780946: step [10,   400/1500], acc=95.0000, loss = 0.197 (1648.0 examples/sec; 0.024 sec/batch)
+2024-09-08 11:45:21.639798: step [10,   500/1500], acc=92.5000, loss = 0.191 (1638.4 examples/sec; 0.024 sec/batch)
+2024-09-08 11:46:03.415997: step [10,   600/1500], acc=92.5000, loss = 0.196 (1082.6 examples/sec; 0.037 sec/batch)
+2024-09-08 11:46:45.008448: step [10,   700/1500], acc=95.0000, loss = 0.190 (1626.4 examples/sec; 0.025 sec/batch)
+2024-09-08 11:47:26.458994: step [10,   800/1500], acc=92.5000, loss = 0.173 (1613.2 examples/sec; 0.025 sec/batch)
+2024-09-08 11:48:08.012010: step [10,   900/1500], acc=92.5000, loss = 0.206 (1627.0 examples/sec; 0.025 sec/batch)
+2024-09-08 11:48:49.275156: step [10,  1000/1500], acc=97.5000, loss = 0.175 (1683.5 examples/sec; 0.024 sec/batch)
+2024-09-08 11:49:30.955804: step [10,  1100/1500], acc=92.5000, loss = 0.186 (1602.0 examples/sec; 0.025 sec/batch)
+2024-09-08 11:50:12.574404: step [10,  1200/1500], acc=95.0000, loss = 0.199 (1532.4 examples/sec; 0.026 sec/batch)
+2024-09-08 11:50:54.153864: step [10,  1300/1500], acc=97.5000, loss = 0.201 (1532.4 examples/sec; 0.026 sec/batch)
+2024-09-08 11:51:35.553565: step [10,  1400/1500], acc=95.0000, loss = 0.216 (1621.5 examples/sec; 0.025 sec/batch)
+2024-09-08 11:52:17.224737: step [10,  1500/1500], acc=92.5000, loss = 0.184 (1711.6 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 11:52:59.233500, epoch: 10, acc_TOP1: 95.8000, acc_TOP5: 99.9400, loss_test: 0.132, avg_time: 0.023352, avg_FPS:42.822
+SGD	0.01
+2024-09-08 11:54:02.586896: step [11,   100/1500], acc=92.5000, loss = 0.175 (908.0 examples/sec; 0.044 sec/batch)
+2024-09-08 11:54:43.570890: step [11,   200/1500], acc=82.5000, loss = 0.208 (1646.1 examples/sec; 0.024 sec/batch)
+2024-09-08 11:55:24.940865: step [11,   300/1500], acc=90.0000, loss = 0.199 (1112.9 examples/sec; 0.036 sec/batch)
+2024-09-08 11:56:06.301964: step [11,   400/1500], acc=95.0000, loss = 0.195 (1586.5 examples/sec; 0.025 sec/batch)
+2024-09-08 11:56:47.936147: step [11,   500/1500], acc=92.5000, loss = 0.206 (1116.2 examples/sec; 0.036 sec/batch)
+2024-09-08 11:57:29.442077: step [11,   600/1500], acc=92.5000, loss = 0.191 (1651.7 examples/sec; 0.024 sec/batch)
+2024-09-08 11:58:11.415460: step [11,   700/1500], acc=95.0000, loss = 0.191 (1599.4 examples/sec; 0.025 sec/batch)
+2024-09-08 11:58:52.881186: step [11,   800/1500], acc=92.5000, loss = 0.180 (1657.6 examples/sec; 0.024 sec/batch)
+2024-09-08 11:59:34.471770: step [11,   900/1500], acc=92.5000, loss = 0.190 (907.3 examples/sec; 0.044 sec/batch)
+2024-09-08 12:00:15.970484: step [11,  1000/1500], acc=87.5000, loss = 0.185 (865.0 examples/sec; 0.046 sec/batch)
+2024-09-08 12:00:57.592491: step [11,  1100/1500], acc=92.5000, loss = 0.217 (1620.8 examples/sec; 0.025 sec/batch)
+2024-09-08 12:01:39.137595: step [11,  1200/1500], acc=92.5000, loss = 0.190 (1640.2 examples/sec; 0.024 sec/batch)
+2024-09-08 12:02:20.864413: step [11,  1300/1500], acc=92.5000, loss = 0.183 (1612.5 examples/sec; 0.025 sec/batch)
+2024-09-08 12:03:02.623634: step [11,  1400/1500], acc=95.0000, loss = 0.190 (1617.1 examples/sec; 0.025 sec/batch)
+2024-09-08 12:03:44.323616: step [11,  1500/1500], acc=90.0000, loss = 0.214 (1729.8 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 12:04:26.953101, epoch: 11, acc_TOP1: 96.6500, acc_TOP5: 99.9700, loss_test: 0.104, avg_time: 0.023103, avg_FPS:43.285
+SGD	0.01
+2024-09-08 12:05:30.917188: step [12,   100/1500], acc=90.0000, loss = 0.198 (1537.7 examples/sec; 0.026 sec/batch)
+2024-09-08 12:06:12.339880: step [12,   200/1500], acc=90.0000, loss = 0.187 (1588.8 examples/sec; 0.025 sec/batch)
+2024-09-08 12:06:54.664063: step [12,   300/1500], acc=92.5000, loss = 0.179 (1581.6 examples/sec; 0.025 sec/batch)
+2024-09-08 12:07:37.196261: step [12,   400/1500], acc=92.5000, loss = 0.233 (1639.0 examples/sec; 0.024 sec/batch)
+2024-09-08 12:08:19.860967: step [12,   500/1500], acc=95.0000, loss = 0.183 (883.5 examples/sec; 0.045 sec/batch)
+2024-09-08 12:09:02.254955: step [12,   600/1500], acc=95.0000, loss = 0.204 (1599.1 examples/sec; 0.025 sec/batch)
+2024-09-08 12:09:44.704059: step [12,   700/1500], acc=92.5000, loss = 0.181 (1591.3 examples/sec; 0.025 sec/batch)
+2024-09-08 12:10:26.958083: step [12,   800/1500], acc=92.5000, loss = 0.202 (1614.8 examples/sec; 0.025 sec/batch)
+2024-09-08 12:11:09.251409: step [12,   900/1500], acc=97.5000, loss = 0.204 (1615.8 examples/sec; 0.025 sec/batch)
+2024-09-08 12:11:51.690671: step [12,  1000/1500], acc=97.5000, loss = 0.194 (1620.4 examples/sec; 0.025 sec/batch)
+2024-09-08 12:12:34.313550: step [12,  1100/1500], acc=92.5000, loss = 0.198 (1375.5 examples/sec; 0.029 sec/batch)
+2024-09-08 12:13:16.381302: step [12,  1200/1500], acc=92.5000, loss = 0.188 (1576.6 examples/sec; 0.025 sec/batch)
+2024-09-08 12:13:58.424671: step [12,  1300/1500], acc=100.0000, loss = 0.168 (1630.2 examples/sec; 0.025 sec/batch)
+2024-09-08 12:14:40.582479: step [12,  1400/1500], acc=92.5000, loss = 0.196 (1625.8 examples/sec; 0.025 sec/batch)
+2024-09-08 12:15:22.738859: step [12,  1500/1500], acc=100.0000, loss = 0.186 (1749.0 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 12:16:04.482643, epoch: 12, acc_TOP1: 96.4900, acc_TOP5: 99.9400, loss_test: 0.103, avg_time: 0.022738, avg_FPS:43.978
+SGD	0.01
+2024-09-08 12:17:07.493611: step [13,   100/1500], acc=90.0000, loss = 0.174 (1617.2 examples/sec; 0.025 sec/batch)
+2024-09-08 12:17:48.963490: step [13,   200/1500], acc=95.0000, loss = 0.184 (1279.3 examples/sec; 0.031 sec/batch)
+2024-09-08 12:18:30.676828: step [13,   300/1500], acc=97.5000, loss = 0.198 (1599.2 examples/sec; 0.025 sec/batch)
+2024-09-08 12:19:12.334720: step [13,   400/1500], acc=95.0000, loss = 0.183 (1553.8 examples/sec; 0.026 sec/batch)
+2024-09-08 12:19:54.440787: step [13,   500/1500], acc=85.0000, loss = 0.191 (1598.1 examples/sec; 0.025 sec/batch)
+2024-09-08 12:20:36.400603: step [13,   600/1500], acc=95.0000, loss = 0.203 (1585.3 examples/sec; 0.025 sec/batch)
+2024-09-08 12:21:18.495932: step [13,   700/1500], acc=95.0000, loss = 0.196 (1644.0 examples/sec; 0.024 sec/batch)
+2024-09-08 12:22:00.610960: step [13,   800/1500], acc=100.0000, loss = 0.184 (1523.6 examples/sec; 0.026 sec/batch)
+2024-09-08 12:22:42.581959: step [13,   900/1500], acc=92.5000, loss = 0.187 (1603.5 examples/sec; 0.025 sec/batch)
+2024-09-08 12:23:24.621042: step [13,  1000/1500], acc=97.5000, loss = 0.179 (1641.0 examples/sec; 0.024 sec/batch)
+2024-09-08 12:24:06.517763: step [13,  1100/1500], acc=95.0000, loss = 0.179 (1639.5 examples/sec; 0.024 sec/batch)
+2024-09-08 12:24:48.566089: step [13,  1200/1500], acc=87.5000, loss = 0.171 (1622.9 examples/sec; 0.025 sec/batch)
+2024-09-08 12:25:29.918159: step [13,  1300/1500], acc=92.5000, loss = 0.210 (1582.0 examples/sec; 0.025 sec/batch)
+2024-09-08 12:26:11.662658: step [13,  1400/1500], acc=95.0000, loss = 0.204 (1625.8 examples/sec; 0.025 sec/batch)
+2024-09-08 12:26:53.986734: step [13,  1500/1500], acc=100.0000, loss = 0.179 (1718.2 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 12:27:35.568789, epoch: 13, acc_TOP1: 96.4900, acc_TOP5: 99.9400, loss_test: 0.106, avg_time: 0.022661, avg_FPS:44.128
+SGD	0.01
+2024-09-08 12:28:38.325947: step [14,   100/1500], acc=100.0000, loss = 0.169 (863.2 examples/sec; 0.046 sec/batch)
+2024-09-08 12:29:19.759102: step [14,   200/1500], acc=97.5000, loss = 0.212 (1621.3 examples/sec; 0.025 sec/batch)
+2024-09-08 12:30:01.296380: step [14,   300/1500], acc=77.5000, loss = 0.199 (1621.4 examples/sec; 0.025 sec/batch)
+2024-09-08 12:30:43.299408: step [14,   400/1500], acc=92.5000, loss = 0.179 (1630.9 examples/sec; 0.025 sec/batch)
+2024-09-08 12:31:25.130605: step [14,   500/1500], acc=95.0000, loss = 0.194 (1603.9 examples/sec; 0.025 sec/batch)
+2024-09-08 12:32:07.216479: step [14,   600/1500], acc=100.0000, loss = 0.188 (1624.4 examples/sec; 0.025 sec/batch)
+2024-09-08 12:32:49.562948: step [14,   700/1500], acc=95.0000, loss = 0.192 (1570.8 examples/sec; 0.025 sec/batch)
+2024-09-08 12:33:31.214838: step [14,   800/1500], acc=90.0000, loss = 0.181 (1626.6 examples/sec; 0.025 sec/batch)
+2024-09-08 12:34:13.266240: step [14,   900/1500], acc=97.5000, loss = 0.191 (1511.1 examples/sec; 0.026 sec/batch)
+2024-09-08 12:34:55.382971: step [14,  1000/1500], acc=97.5000, loss = 0.175 (1638.8 examples/sec; 0.024 sec/batch)
+2024-09-08 12:35:37.747867: step [14,  1100/1500], acc=92.5000, loss = 0.175 (1624.6 examples/sec; 0.025 sec/batch)
+2024-09-08 12:36:19.795817: step [14,  1200/1500], acc=97.5000, loss = 0.164 (1631.6 examples/sec; 0.025 sec/batch)
+2024-09-08 12:37:01.975593: step [14,  1300/1500], acc=95.0000, loss = 0.185 (1621.9 examples/sec; 0.025 sec/batch)
+2024-09-08 12:37:43.927656: step [14,  1400/1500], acc=95.0000, loss = 0.176 (1566.0 examples/sec; 0.026 sec/batch)
+2024-09-08 12:38:26.209471: step [14,  1500/1500], acc=90.0000, loss = 0.205 (1724.6 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 12:39:10.457948, epoch: 14, acc_TOP1: 96.0800, acc_TOP5: 99.9100, loss_test: 0.120, avg_time: 0.022877, avg_FPS:43.712
+SGD	0.01
+2024-09-08 12:40:13.729890: step [15,   100/1500], acc=95.0000, loss = 0.189 (1596.4 examples/sec; 0.025 sec/batch)
+2024-09-08 12:40:55.185456: step [15,   200/1500], acc=92.5000, loss = 0.175 (1659.3 examples/sec; 0.024 sec/batch)
+2024-09-08 12:41:36.869293: step [15,   300/1500], acc=97.5000, loss = 0.195 (1591.2 examples/sec; 0.025 sec/batch)
+2024-09-08 12:42:19.018207: step [15,   400/1500], acc=95.0000, loss = 0.187 (1276.0 examples/sec; 0.031 sec/batch)
+2024-09-08 12:43:01.387958: step [15,   500/1500], acc=97.5000, loss = 0.188 (968.3 examples/sec; 0.041 sec/batch)
+2024-09-08 12:43:43.396731: step [15,   600/1500], acc=95.0000, loss = 0.198 (1511.4 examples/sec; 0.026 sec/batch)
+2024-09-08 12:44:25.487499: step [15,   700/1500], acc=97.5000, loss = 0.195 (1593.3 examples/sec; 0.025 sec/batch)
+2024-09-08 12:45:07.686065: step [15,   800/1500], acc=97.5000, loss = 0.183 (1616.0 examples/sec; 0.025 sec/batch)
+2024-09-08 12:45:50.032453: step [15,   900/1500], acc=97.5000, loss = 0.182 (1346.2 examples/sec; 0.030 sec/batch)
+2024-09-08 12:46:31.962139: step [15,  1000/1500], acc=97.5000, loss = 0.177 (1147.1 examples/sec; 0.035 sec/batch)
+2024-09-08 12:47:13.987865: step [15,  1100/1500], acc=87.5000, loss = 0.186 (1602.2 examples/sec; 0.025 sec/batch)
+2024-09-08 12:47:56.269180: step [15,  1200/1500], acc=95.0000, loss = 0.189 (1594.6 examples/sec; 0.025 sec/batch)
+2024-09-08 12:48:37.651049: step [15,  1300/1500], acc=97.5000, loss = 0.178 (1638.3 examples/sec; 0.024 sec/batch)
+2024-09-08 12:49:19.390268: step [15,  1400/1500], acc=97.5000, loss = 0.177 (1633.7 examples/sec; 0.024 sec/batch)
+2024-09-08 12:50:01.511265: step [15,  1500/1500], acc=90.0000, loss = 0.187 (1679.1 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 12:50:45.261082, epoch: 15, acc_TOP1: 96.8100, acc_TOP5: 99.9400, loss_test: 0.102, avg_time: 0.022568, avg_FPS:44.311
+SGD	0.01
+2024-09-08 12:51:49.051160: step [16,   100/1500], acc=95.0000, loss = 0.183 (1536.0 examples/sec; 0.026 sec/batch)
+2024-09-08 12:52:30.021275: step [16,   200/1500], acc=97.5000, loss = 0.193 (1655.7 examples/sec; 0.024 sec/batch)
+2024-09-08 12:53:11.015480: step [16,   300/1500], acc=95.0000, loss = 0.183 (1618.8 examples/sec; 0.025 sec/batch)
+2024-09-08 12:53:52.083204: step [16,   400/1500], acc=92.5000, loss = 0.193 (1623.7 examples/sec; 0.025 sec/batch)
+2024-09-08 12:54:33.096718: step [16,   500/1500], acc=100.0000, loss = 0.184 (1635.2 examples/sec; 0.024 sec/batch)
+2024-09-08 12:55:14.155262: step [16,   600/1500], acc=100.0000, loss = 0.161 (1613.3 examples/sec; 0.025 sec/batch)
+2024-09-08 12:55:55.054167: step [16,   700/1500], acc=90.0000, loss = 0.206 (1592.6 examples/sec; 0.025 sec/batch)
+2024-09-08 12:56:36.170722: step [16,   800/1500], acc=90.0000, loss = 0.182 (1662.2 examples/sec; 0.024 sec/batch)
+2024-09-08 12:57:17.020938: step [16,   900/1500], acc=95.0000, loss = 0.209 (1598.6 examples/sec; 0.025 sec/batch)
+2024-09-08 12:57:57.870056: step [16,  1000/1500], acc=97.5000, loss = 0.177 (1651.3 examples/sec; 0.024 sec/batch)
+2024-09-08 12:58:38.738704: step [16,  1100/1500], acc=97.5000, loss = 0.184 (1631.7 examples/sec; 0.025 sec/batch)
+2024-09-08 12:59:19.552773: step [16,  1200/1500], acc=97.5000, loss = 0.184 (1575.0 examples/sec; 0.025 sec/batch)
+2024-09-08 13:00:00.361399: step [16,  1300/1500], acc=97.5000, loss = 0.154 (1656.6 examples/sec; 0.024 sec/batch)
+2024-09-08 13:00:41.264656: step [16,  1400/1500], acc=95.0000, loss = 0.206 (1614.5 examples/sec; 0.025 sec/batch)
+2024-09-08 13:01:22.177363: step [16,  1500/1500], acc=97.5000, loss = 0.177 (1701.7 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 13:02:04.035740, epoch: 16, acc_TOP1: 96.9600, acc_TOP5: 99.9400, loss_test: 0.095, avg_time: 0.022781, avg_FPS:43.897
+SGD	0.01
+2024-09-08 13:03:07.152086: step [17,   100/1500], acc=92.5000, loss = 0.179 (1597.1 examples/sec; 0.025 sec/batch)
+2024-09-08 13:03:47.776571: step [17,   200/1500], acc=95.0000, loss = 0.182 (1655.5 examples/sec; 0.024 sec/batch)
+2024-09-08 13:04:28.625180: step [17,   300/1500], acc=90.0000, loss = 0.188 (810.0 examples/sec; 0.049 sec/batch)
+2024-09-08 13:05:09.628193: step [17,   400/1500], acc=92.5000, loss = 0.170 (1614.5 examples/sec; 0.025 sec/batch)
+2024-09-08 13:05:50.448824: step [17,   500/1500], acc=90.0000, loss = 0.168 (1581.0 examples/sec; 0.025 sec/batch)
+2024-09-08 13:06:31.524973: step [17,   600/1500], acc=92.5000, loss = 0.177 (1602.0 examples/sec; 0.025 sec/batch)
+2024-09-08 13:07:12.537485: step [17,   700/1500], acc=90.0000, loss = 0.182 (1604.6 examples/sec; 0.025 sec/batch)
+2024-09-08 13:07:53.501511: step [17,   800/1500], acc=95.0000, loss = 0.200 (1614.8 examples/sec; 0.025 sec/batch)
+2024-09-08 13:08:34.432557: step [17,   900/1500], acc=87.5000, loss = 0.192 (1576.3 examples/sec; 0.025 sec/batch)
+2024-09-08 13:09:15.269509: step [17,  1000/1500], acc=92.5000, loss = 0.203 (1596.8 examples/sec; 0.025 sec/batch)
+2024-09-08 13:09:56.163738: step [17,  1100/1500], acc=95.0000, loss = 0.148 (1654.4 examples/sec; 0.024 sec/batch)
+2024-09-08 13:10:37.096529: step [17,  1200/1500], acc=92.5000, loss = 0.195 (1600.7 examples/sec; 0.025 sec/batch)
+2024-09-08 13:11:18.123295: step [17,  1300/1500], acc=90.0000, loss = 0.173 (1643.8 examples/sec; 0.024 sec/batch)
+2024-09-08 13:11:58.809174: step [17,  1400/1500], acc=95.0000, loss = 0.162 (1649.0 examples/sec; 0.024 sec/batch)
+2024-09-08 13:12:39.657269: step [17,  1500/1500], acc=92.5000, loss = 0.184 (1692.8 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 13:13:20.953620, epoch: 17, acc_TOP1: 96.6200, acc_TOP5: 99.9300, loss_test: 0.109, avg_time: 0.022719, avg_FPS:44.016
+SGD	0.01
+2024-09-08 13:14:23.386388: step [18,   100/1500], acc=100.0000, loss = 0.184 (1526.2 examples/sec; 0.026 sec/batch)
+2024-09-08 13:15:03.676286: step [18,   200/1500], acc=97.5000, loss = 0.177 (1614.7 examples/sec; 0.025 sec/batch)
+2024-09-08 13:15:44.344619: step [18,   300/1500], acc=95.0000, loss = 0.155 (1601.6 examples/sec; 0.025 sec/batch)
+2024-09-08 13:16:25.024853: step [18,   400/1500], acc=92.5000, loss = 0.172 (1599.9 examples/sec; 0.025 sec/batch)
+2024-09-08 13:17:05.711527: step [18,   500/1500], acc=92.5000, loss = 0.192 (1616.5 examples/sec; 0.025 sec/batch)
+2024-09-08 13:17:46.548363: step [18,   600/1500], acc=87.5000, loss = 0.194 (1588.9 examples/sec; 0.025 sec/batch)
+2024-09-08 13:18:27.321268: step [18,   700/1500], acc=97.5000, loss = 0.167 (871.1 examples/sec; 0.046 sec/batch)
+2024-09-08 13:19:08.280421: step [18,   800/1500], acc=97.5000, loss = 0.181 (1581.9 examples/sec; 0.025 sec/batch)
+2024-09-08 13:19:49.273005: step [18,   900/1500], acc=95.0000, loss = 0.179 (1537.8 examples/sec; 0.026 sec/batch)
+2024-09-08 13:20:30.195441: step [18,  1000/1500], acc=97.5000, loss = 0.179 (1612.7 examples/sec; 0.025 sec/batch)
+2024-09-08 13:21:11.209378: step [18,  1100/1500], acc=100.0000, loss = 0.179 (1617.1 examples/sec; 0.025 sec/batch)
+2024-09-08 13:21:52.355577: step [18,  1200/1500], acc=95.0000, loss = 0.187 (1653.3 examples/sec; 0.024 sec/batch)
+2024-09-08 13:22:33.327441: step [18,  1300/1500], acc=95.0000, loss = 0.161 (1591.2 examples/sec; 0.025 sec/batch)
+2024-09-08 13:23:14.274530: step [18,  1400/1500], acc=95.0000, loss = 0.175 (1624.2 examples/sec; 0.025 sec/batch)
+2024-09-08 13:23:55.175210: step [18,  1500/1500], acc=90.0000, loss = 0.180 (1673.7 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 13:24:37.126310, epoch: 18, acc_TOP1: 96.7300, acc_TOP5: 99.9500, loss_test: 0.098, avg_time: 0.023997, avg_FPS:41.672
+SGD	0.01
+2024-09-08 13:25:40.059401: step [19,   100/1500], acc=100.0000, loss = 0.163 (1626.0 examples/sec; 0.025 sec/batch)
+2024-09-08 13:26:20.952888: step [19,   200/1500], acc=95.0000, loss = 0.189 (1636.8 examples/sec; 0.024 sec/batch)
+2024-09-08 13:27:01.808060: step [19,   300/1500], acc=97.5000, loss = 0.182 (1653.1 examples/sec; 0.024 sec/batch)
+2024-09-08 13:27:42.722183: step [19,   400/1500], acc=100.0000, loss = 0.174 (1546.6 examples/sec; 0.026 sec/batch)
+2024-09-08 13:28:23.655035: step [19,   500/1500], acc=95.0000, loss = 0.178 (1588.9 examples/sec; 0.025 sec/batch)
+2024-09-08 13:29:04.602644: step [19,   600/1500], acc=97.5000, loss = 0.163 (1543.2 examples/sec; 0.026 sec/batch)
+2024-09-08 13:29:45.606936: step [19,   700/1500], acc=92.5000, loss = 0.191 (1639.7 examples/sec; 0.024 sec/batch)
+2024-09-08 13:30:26.566727: step [19,   800/1500], acc=92.5000, loss = 0.169 (1604.2 examples/sec; 0.025 sec/batch)
+2024-09-08 13:31:07.556511: step [19,   900/1500], acc=90.0000, loss = 0.166 (1588.2 examples/sec; 0.025 sec/batch)
+2024-09-08 13:31:48.520484: step [19,  1000/1500], acc=90.0000, loss = 0.173 (1596.3 examples/sec; 0.025 sec/batch)
+2024-09-08 13:32:29.384070: step [19,  1100/1500], acc=95.0000, loss = 0.169 (1649.0 examples/sec; 0.024 sec/batch)
+2024-09-08 13:33:10.328230: step [19,  1200/1500], acc=100.0000, loss = 0.182 (1164.8 examples/sec; 0.034 sec/batch)
+2024-09-08 13:33:51.371721: step [19,  1300/1500], acc=90.0000, loss = 0.173 (1604.3 examples/sec; 0.025 sec/batch)
+2024-09-08 13:34:32.318272: step [19,  1400/1500], acc=97.5000, loss = 0.182 (1625.4 examples/sec; 0.025 sec/batch)
+2024-09-08 13:35:13.283163: step [19,  1500/1500], acc=97.5000, loss = 0.181 (1721.9 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 13:35:54.883652, epoch: 19, acc_TOP1: 95.9400, acc_TOP5: 99.9200, loss_test: 0.121, avg_time: 0.022866, avg_FPS:43.732
+SGD	0.001
+2024-09-08 13:36:57.506632: step [20,   100/1500], acc=100.0000, loss = 0.148 (1578.8 examples/sec; 0.025 sec/batch)
+2024-09-08 13:37:38.104741: step [20,   200/1500], acc=97.5000, loss = 0.120 (1612.9 examples/sec; 0.025 sec/batch)
+2024-09-08 13:38:18.849371: step [20,   300/1500], acc=97.5000, loss = 0.109 (1627.6 examples/sec; 0.025 sec/batch)
+2024-09-08 13:38:59.824649: step [20,   400/1500], acc=97.5000, loss = 0.100 (1557.8 examples/sec; 0.026 sec/batch)
+2024-09-08 13:39:40.777203: step [20,   500/1500], acc=95.0000, loss = 0.110 (1628.4 examples/sec; 0.025 sec/batch)
+2024-09-08 13:40:21.715552: step [20,   600/1500], acc=100.0000, loss = 0.098 (1517.7 examples/sec; 0.026 sec/batch)
+2024-09-08 13:41:02.479845: step [20,   700/1500], acc=97.5000, loss = 0.093 (1594.3 examples/sec; 0.025 sec/batch)
+2024-09-08 13:41:43.383788: step [20,   800/1500], acc=92.5000, loss = 0.109 (1627.5 examples/sec; 0.025 sec/batch)
+2024-09-08 13:42:24.252413: step [20,   900/1500], acc=95.0000, loss = 0.108 (1634.8 examples/sec; 0.024 sec/batch)
+2024-09-08 13:43:05.119276: step [20,  1000/1500], acc=97.5000, loss = 0.111 (1650.9 examples/sec; 0.024 sec/batch)
+2024-09-08 13:43:45.917911: step [20,  1100/1500], acc=97.5000, loss = 0.102 (1598.8 examples/sec; 0.025 sec/batch)
+2024-09-08 13:44:26.749512: step [20,  1200/1500], acc=95.0000, loss = 0.101 (1616.8 examples/sec; 0.025 sec/batch)
+2024-09-08 13:45:07.644175: step [20,  1300/1500], acc=92.5000, loss = 0.107 (1568.5 examples/sec; 0.026 sec/batch)
+2024-09-08 13:45:48.391913: step [20,  1400/1500], acc=97.5000, loss = 0.095 (1578.8 examples/sec; 0.025 sec/batch)
+2024-09-08 13:46:29.368844: step [20,  1500/1500], acc=97.5000, loss = 0.098 (1739.8 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 13:47:11.135427, epoch: 20, acc_TOP1: 97.9400, acc_TOP5: 99.9700, loss_test: 0.063, avg_time: 0.022779, avg_FPS:43.900
+SGD	0.001
+2024-09-08 13:48:14.284220: step [21,   100/1500], acc=92.5000, loss = 0.103 (1579.0 examples/sec; 0.025 sec/batch)
+2024-09-08 13:48:54.686531: step [21,   200/1500], acc=97.5000, loss = 0.091 (1662.9 examples/sec; 0.024 sec/batch)
+2024-09-08 13:49:35.183224: step [21,   300/1500], acc=97.5000, loss = 0.097 (1577.6 examples/sec; 0.025 sec/batch)
+2024-09-08 13:50:15.835520: step [21,   400/1500], acc=95.0000, loss = 0.089 (1601.6 examples/sec; 0.025 sec/batch)
+2024-09-08 13:50:56.535643: step [21,   500/1500], acc=100.0000, loss = 0.091 (1637.2 examples/sec; 0.024 sec/batch)
+2024-09-08 13:51:37.166093: step [21,   600/1500], acc=97.5000, loss = 0.083 (1546.9 examples/sec; 0.026 sec/batch)
+2024-09-08 13:52:17.806697: step [21,   700/1500], acc=100.0000, loss = 0.109 (1623.4 examples/sec; 0.025 sec/batch)
+2024-09-08 13:52:58.609698: step [21,   800/1500], acc=92.5000, loss = 0.102 (1670.2 examples/sec; 0.024 sec/batch)
+2024-09-08 13:53:39.418697: step [21,   900/1500], acc=100.0000, loss = 0.089 (1522.9 examples/sec; 0.026 sec/batch)
+2024-09-08 13:54:20.349768: step [21,  1000/1500], acc=97.5000, loss = 0.094 (1637.2 examples/sec; 0.024 sec/batch)
+2024-09-08 13:55:00.886564: step [21,  1100/1500], acc=100.0000, loss = 0.104 (1604.1 examples/sec; 0.025 sec/batch)
+2024-09-08 13:55:41.600059: step [21,  1200/1500], acc=100.0000, loss = 0.093 (1668.4 examples/sec; 0.024 sec/batch)
+2024-09-08 13:56:22.359600: step [21,  1300/1500], acc=92.5000, loss = 0.094 (1618.1 examples/sec; 0.025 sec/batch)
+2024-09-08 13:57:03.009194: step [21,  1400/1500], acc=95.0000, loss = 0.095 (1628.3 examples/sec; 0.025 sec/batch)
+2024-09-08 13:57:43.741003: step [21,  1500/1500], acc=100.0000, loss = 0.083 (1720.7 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 13:58:26.013353, epoch: 21, acc_TOP1: 97.9600, acc_TOP5: 99.9600, loss_test: 0.061, avg_time: 0.023187, avg_FPS:43.128
+SGD	0.001
+2024-09-08 13:59:28.575163: step [22,   100/1500], acc=100.0000, loss = 0.088 (1629.4 examples/sec; 0.025 sec/batch)
+2024-09-08 14:00:08.734759: step [22,   200/1500], acc=100.0000, loss = 0.087 (1647.1 examples/sec; 0.024 sec/batch)
+2024-09-08 14:00:49.304649: step [22,   300/1500], acc=97.5000, loss = 0.086 (1630.2 examples/sec; 0.025 sec/batch)
+2024-09-08 14:01:29.886183: step [22,   400/1500], acc=100.0000, loss = 0.090 (1615.9 examples/sec; 0.025 sec/batch)
+2024-09-08 14:02:10.610563: step [22,   500/1500], acc=92.5000, loss = 0.089 (1594.4 examples/sec; 0.025 sec/batch)
+2024-09-08 14:02:51.035461: step [22,   600/1500], acc=100.0000, loss = 0.096 (1620.4 examples/sec; 0.025 sec/batch)
+2024-09-08 14:03:31.851575: step [22,   700/1500], acc=97.5000, loss = 0.078 (1622.7 examples/sec; 0.025 sec/batch)
+2024-09-08 14:04:12.401256: step [22,   800/1500], acc=100.0000, loss = 0.091 (1659.3 examples/sec; 0.024 sec/batch)
+2024-09-08 14:04:53.063758: step [22,   900/1500], acc=95.0000, loss = 0.092 (1582.1 examples/sec; 0.025 sec/batch)
+2024-09-08 14:05:33.628645: step [22,  1000/1500], acc=100.0000, loss = 0.077 (1603.0 examples/sec; 0.025 sec/batch)
+2024-09-08 14:06:13.938025: step [22,  1100/1500], acc=95.0000, loss = 0.100 (1616.6 examples/sec; 0.025 sec/batch)
+2024-09-08 14:06:54.599031: step [22,  1200/1500], acc=97.5000, loss = 0.089 (1624.9 examples/sec; 0.025 sec/batch)
+2024-09-08 14:07:35.069642: step [22,  1300/1500], acc=100.0000, loss = 0.090 (1562.9 examples/sec; 0.026 sec/batch)
+2024-09-08 14:08:15.692621: step [22,  1400/1500], acc=97.5000, loss = 0.087 (1655.3 examples/sec; 0.024 sec/batch)
+2024-09-08 14:08:56.179191: step [22,  1500/1500], acc=92.5000, loss = 0.088 (1665.6 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 14:09:38.242426, epoch: 22, acc_TOP1: 98.2100, acc_TOP5: 99.9600, loss_test: 0.057, avg_time: 0.022821, avg_FPS:43.819
+SGD	0.001
+2024-09-08 14:10:40.824544: step [23,   100/1500], acc=100.0000, loss = 0.089 (1555.0 examples/sec; 0.026 sec/batch)
+2024-09-08 14:11:21.092234: step [23,   200/1500], acc=100.0000, loss = 0.090 (1443.7 examples/sec; 0.028 sec/batch)
+2024-09-08 14:12:01.599222: step [23,   300/1500], acc=100.0000, loss = 0.091 (1633.2 examples/sec; 0.024 sec/batch)
+2024-09-08 14:12:42.342962: step [23,   400/1500], acc=100.0000, loss = 0.081 (1513.3 examples/sec; 0.026 sec/batch)
+2024-09-08 14:13:23.140735: step [23,   500/1500], acc=100.0000, loss = 0.081 (1633.8 examples/sec; 0.024 sec/batch)
+2024-09-08 14:14:03.605363: step [23,   600/1500], acc=100.0000, loss = 0.094 (1634.3 examples/sec; 0.024 sec/batch)
+2024-09-08 14:14:44.056367: step [23,   700/1500], acc=97.5000, loss = 0.090 (1633.3 examples/sec; 0.024 sec/batch)
+2024-09-08 14:15:24.701242: step [23,   800/1500], acc=100.0000, loss = 0.081 (1641.0 examples/sec; 0.024 sec/batch)
+2024-09-08 14:16:05.525274: step [23,   900/1500], acc=95.0000, loss = 0.089 (1535.6 examples/sec; 0.026 sec/batch)
+2024-09-08 14:16:46.177364: step [23,  1000/1500], acc=90.0000, loss = 0.084 (1664.7 examples/sec; 0.024 sec/batch)
+2024-09-08 14:17:26.847331: step [23,  1100/1500], acc=97.5000, loss = 0.074 (1623.9 examples/sec; 0.025 sec/batch)
+2024-09-08 14:18:07.825247: step [23,  1200/1500], acc=100.0000, loss = 0.089 (1655.3 examples/sec; 0.024 sec/batch)
+2024-09-08 14:18:48.582360: step [23,  1300/1500], acc=97.5000, loss = 0.095 (1598.4 examples/sec; 0.025 sec/batch)
+2024-09-08 14:19:29.231844: step [23,  1400/1500], acc=95.0000, loss = 0.104 (1589.4 examples/sec; 0.025 sec/batch)
+2024-09-08 14:20:09.634963: step [23,  1500/1500], acc=95.0000, loss = 0.085 (1662.6 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 14:20:50.972373, epoch: 23, acc_TOP1: 98.1400, acc_TOP5: 99.9600, loss_test: 0.058, avg_time: 0.023014, avg_FPS:43.452
+SGD	0.001
+2024-09-08 14:21:53.792259: step [24,   100/1500], acc=95.0000, loss = 0.091 (1607.4 examples/sec; 0.025 sec/batch)
+2024-09-08 14:22:33.665254: step [24,   200/1500], acc=97.5000, loss = 0.084 (1641.0 examples/sec; 0.024 sec/batch)
+2024-09-08 14:23:14.046275: step [24,   300/1500], acc=95.0000, loss = 0.076 (1611.0 examples/sec; 0.025 sec/batch)
+2024-09-08 14:23:54.715321: step [24,   400/1500], acc=97.5000, loss = 0.078 (1622.8 examples/sec; 0.025 sec/batch)
+2024-09-08 14:24:35.243765: step [24,   500/1500], acc=97.5000, loss = 0.096 (1603.7 examples/sec; 0.025 sec/batch)
+2024-09-08 14:25:15.868300: step [24,   600/1500], acc=97.5000, loss = 0.075 (1237.9 examples/sec; 0.032 sec/batch)
+2024-09-08 14:25:56.286970: step [24,   700/1500], acc=100.0000, loss = 0.091 (1610.1 examples/sec; 0.025 sec/batch)
+2024-09-08 14:26:36.790633: step [24,   800/1500], acc=100.0000, loss = 0.081 (1686.1 examples/sec; 0.024 sec/batch)
+2024-09-08 14:27:17.589273: step [24,   900/1500], acc=100.0000, loss = 0.082 (1594.9 examples/sec; 0.025 sec/batch)
+2024-09-08 14:27:58.279330: step [24,  1000/1500], acc=95.0000, loss = 0.091 (1588.2 examples/sec; 0.025 sec/batch)
+2024-09-08 14:28:38.687753: step [24,  1100/1500], acc=97.5000, loss = 0.084 (1595.4 examples/sec; 0.025 sec/batch)
+2024-09-08 14:29:19.100590: step [24,  1200/1500], acc=95.0000, loss = 0.094 (1394.2 examples/sec; 0.029 sec/batch)
+2024-09-08 14:29:59.675977: step [24,  1300/1500], acc=95.0000, loss = 0.086 (1610.6 examples/sec; 0.025 sec/batch)
+2024-09-08 14:30:40.502714: step [24,  1400/1500], acc=97.5000, loss = 0.081 (860.2 examples/sec; 0.047 sec/batch)
+2024-09-08 14:31:21.036866: step [24,  1500/1500], acc=97.5000, loss = 0.086 (1719.2 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 14:32:02.465315, epoch: 24, acc_TOP1: 98.0400, acc_TOP5: 99.9700, loss_test: 0.058, avg_time: 0.022459, avg_FPS:44.526
+SGD	0.001
+2024-09-08 14:33:04.183714: step [25,   100/1500], acc=97.5000, loss = 0.083 (1587.5 examples/sec; 0.025 sec/batch)
+2024-09-08 14:33:44.609927: step [25,   200/1500], acc=97.5000, loss = 0.094 (1630.4 examples/sec; 0.025 sec/batch)
+2024-09-08 14:34:25.391304: step [25,   300/1500], acc=100.0000, loss = 0.080 (1591.6 examples/sec; 0.025 sec/batch)
+2024-09-08 14:35:06.360664: step [25,   400/1500], acc=100.0000, loss = 0.086 (1634.4 examples/sec; 0.024 sec/batch)
+2024-09-08 14:35:47.330430: step [25,   500/1500], acc=97.5000, loss = 0.095 (1646.1 examples/sec; 0.024 sec/batch)
+2024-09-08 14:36:28.215832: step [25,   600/1500], acc=100.0000, loss = 0.084 (1657.3 examples/sec; 0.024 sec/batch)
+2024-09-08 14:37:09.018022: step [25,   700/1500], acc=97.5000, loss = 0.082 (1594.2 examples/sec; 0.025 sec/batch)
+2024-09-08 14:37:49.990671: step [25,   800/1500], acc=95.0000, loss = 0.082 (1613.1 examples/sec; 0.025 sec/batch)
+2024-09-08 14:38:30.943546: step [25,   900/1500], acc=95.0000, loss = 0.072 (1645.6 examples/sec; 0.024 sec/batch)
+2024-09-08 14:39:11.887610: step [25,  1000/1500], acc=92.5000, loss = 0.086 (1641.2 examples/sec; 0.024 sec/batch)
+2024-09-08 14:39:52.779205: step [25,  1100/1500], acc=97.5000, loss = 0.077 (1553.1 examples/sec; 0.026 sec/batch)
+2024-09-08 14:40:33.617934: step [25,  1200/1500], acc=97.5000, loss = 0.102 (876.8 examples/sec; 0.046 sec/batch)
+2024-09-08 14:41:14.541685: step [25,  1300/1500], acc=97.5000, loss = 0.075 (1560.9 examples/sec; 0.026 sec/batch)
+2024-09-08 14:41:55.330263: step [25,  1400/1500], acc=97.5000, loss = 0.075 (1610.2 examples/sec; 0.025 sec/batch)
+2024-09-08 14:42:36.071638: step [25,  1500/1500], acc=95.0000, loss = 0.093 (1682.1 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 14:43:17.865064, epoch: 25, acc_TOP1: 98.2500, acc_TOP5: 99.9800, loss_test: 0.055, avg_time: 0.023057, avg_FPS:43.371
+SGD	0.001
+2024-09-08 14:44:20.684989: step [26,   100/1500], acc=97.5000, loss = 0.089 (1626.4 examples/sec; 0.025 sec/batch)
+2024-09-08 14:45:00.824348: step [26,   200/1500], acc=100.0000, loss = 0.087 (1544.7 examples/sec; 0.026 sec/batch)
+2024-09-08 14:45:41.357495: step [26,   300/1500], acc=95.0000, loss = 0.089 (1628.0 examples/sec; 0.025 sec/batch)
+2024-09-08 14:46:21.832246: step [26,   400/1500], acc=95.0000, loss = 0.086 (1622.6 examples/sec; 0.025 sec/batch)
+2024-09-08 14:47:02.303415: step [26,   500/1500], acc=97.5000, loss = 0.090 (1613.8 examples/sec; 0.025 sec/batch)
+2024-09-08 14:47:43.306627: step [26,   600/1500], acc=100.0000, loss = 0.082 (1630.3 examples/sec; 0.025 sec/batch)
+2024-09-08 14:48:24.258359: step [26,   700/1500], acc=97.5000, loss = 0.086 (1591.2 examples/sec; 0.025 sec/batch)
+2024-09-08 14:49:05.198380: step [26,   800/1500], acc=95.0000, loss = 0.071 (1612.7 examples/sec; 0.025 sec/batch)
+2024-09-08 14:49:46.102357: step [26,   900/1500], acc=100.0000, loss = 0.099 (1635.2 examples/sec; 0.024 sec/batch)
+2024-09-08 14:50:26.849805: step [26,  1000/1500], acc=97.5000, loss = 0.097 (1663.2 examples/sec; 0.024 sec/batch)
+2024-09-08 14:51:07.686827: step [26,  1100/1500], acc=97.5000, loss = 0.092 (1639.6 examples/sec; 0.024 sec/batch)
+2024-09-08 14:51:48.432321: step [26,  1200/1500], acc=95.0000, loss = 0.095 (1588.0 examples/sec; 0.025 sec/batch)
+2024-09-08 14:52:29.325610: step [26,  1300/1500], acc=92.5000, loss = 0.071 (1625.7 examples/sec; 0.025 sec/batch)
+2024-09-08 14:53:10.114038: step [26,  1400/1500], acc=100.0000, loss = 0.070 (1619.1 examples/sec; 0.025 sec/batch)
+2024-09-08 14:53:50.905314: step [26,  1500/1500], acc=95.0000, loss = 0.083 (1650.0 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 14:54:31.370750, epoch: 26, acc_TOP1: 98.1500, acc_TOP5: 99.9600, loss_test: 0.060, avg_time: 0.023059, avg_FPS:43.368
+SGD	0.001
+2024-09-08 14:55:33.541149: step [27,   100/1500], acc=97.5000, loss = 0.071 (1577.6 examples/sec; 0.025 sec/batch)
+2024-09-08 14:56:13.785957: step [27,   200/1500], acc=100.0000, loss = 0.074 (1624.0 examples/sec; 0.025 sec/batch)
+2024-09-08 14:56:54.228233: step [27,   300/1500], acc=100.0000, loss = 0.095 (1599.8 examples/sec; 0.025 sec/batch)
+2024-09-08 14:57:34.749799: step [27,   400/1500], acc=100.0000, loss = 0.092 (1610.0 examples/sec; 0.025 sec/batch)
+2024-09-08 14:58:15.215038: step [27,   500/1500], acc=97.5000, loss = 0.075 (1638.0 examples/sec; 0.024 sec/batch)
+2024-09-08 14:58:55.622445: step [27,   600/1500], acc=97.5000, loss = 0.085 (1661.9 examples/sec; 0.024 sec/batch)
+2024-09-08 14:59:36.197190: step [27,   700/1500], acc=92.5000, loss = 0.088 (1516.0 examples/sec; 0.026 sec/batch)
+2024-09-08 15:00:16.599244: step [27,   800/1500], acc=95.0000, loss = 0.086 (1671.4 examples/sec; 0.024 sec/batch)
+2024-09-08 15:00:57.049015: step [27,   900/1500], acc=95.0000, loss = 0.090 (1649.6 examples/sec; 0.024 sec/batch)
+2024-09-08 15:01:37.821433: step [27,  1000/1500], acc=97.5000, loss = 0.078 (1625.4 examples/sec; 0.025 sec/batch)
+2024-09-08 15:02:18.356773: step [27,  1100/1500], acc=97.5000, loss = 0.069 (1618.9 examples/sec; 0.025 sec/batch)
+2024-09-08 15:02:59.119699: step [27,  1200/1500], acc=97.5000, loss = 0.082 (1576.2 examples/sec; 0.025 sec/batch)
+2024-09-08 15:03:40.019998: step [27,  1300/1500], acc=97.5000, loss = 0.088 (1606.4 examples/sec; 0.025 sec/batch)
+2024-09-08 15:04:20.667392: step [27,  1400/1500], acc=100.0000, loss = 0.089 (1613.6 examples/sec; 0.025 sec/batch)
+2024-09-08 15:05:01.599227: step [27,  1500/1500], acc=95.0000, loss = 0.096 (1711.1 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 15:05:43.950200, epoch: 27, acc_TOP1: 98.3100, acc_TOP5: 99.9800, loss_test: 0.051, avg_time: 0.022789, avg_FPS:43.881
+SGD	0.001
+2024-09-08 15:06:46.619121: step [28,   100/1500], acc=100.0000, loss = 0.065 (1654.2 examples/sec; 0.024 sec/batch)
+2024-09-08 15:07:26.983644: step [28,   200/1500], acc=97.5000, loss = 0.091 (1617.0 examples/sec; 0.025 sec/batch)
+2024-09-08 15:08:07.775270: step [28,   300/1500], acc=100.0000, loss = 0.073 (1614.2 examples/sec; 0.025 sec/batch)
+2024-09-08 15:08:48.539399: step [28,   400/1500], acc=97.5000, loss = 0.090 (1635.1 examples/sec; 0.024 sec/batch)
+2024-09-08 15:09:29.498937: step [28,   500/1500], acc=97.5000, loss = 0.089 (1618.0 examples/sec; 0.025 sec/batch)
+2024-09-08 15:10:10.329202: step [28,   600/1500], acc=97.5000, loss = 0.079 (1654.9 examples/sec; 0.024 sec/batch)
+2024-09-08 15:10:51.170377: step [28,   700/1500], acc=97.5000, loss = 0.077 (1628.2 examples/sec; 0.025 sec/batch)
+2024-09-08 15:11:32.133469: step [28,   800/1500], acc=97.5000, loss = 0.081 (1631.4 examples/sec; 0.025 sec/batch)
+2024-09-08 15:12:12.819709: step [28,   900/1500], acc=97.5000, loss = 0.089 (1560.7 examples/sec; 0.026 sec/batch)
+2024-09-08 15:12:53.630384: step [28,  1000/1500], acc=92.5000, loss = 0.074 (1665.7 examples/sec; 0.024 sec/batch)
+2024-09-08 15:13:34.627448: step [28,  1100/1500], acc=100.0000, loss = 0.084 (1640.8 examples/sec; 0.024 sec/batch)
+2024-09-08 15:14:15.515784: step [28,  1200/1500], acc=100.0000, loss = 0.078 (1627.1 examples/sec; 0.025 sec/batch)
+2024-09-08 15:14:56.386712: step [28,  1300/1500], acc=100.0000, loss = 0.078 (1667.7 examples/sec; 0.024 sec/batch)
+2024-09-08 15:15:37.094690: step [28,  1400/1500], acc=100.0000, loss = 0.094 (1522.2 examples/sec; 0.026 sec/batch)
+2024-09-08 15:16:17.690348: step [28,  1500/1500], acc=100.0000, loss = 0.080 (1715.1 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 15:16:59.393177, epoch: 28, acc_TOP1: 98.0500, acc_TOP5: 99.9800, loss_test: 0.057, avg_time: 0.023172, avg_FPS:43.156
+SGD	0.001
+2024-09-08 15:18:01.782034: step [29,   100/1500], acc=100.0000, loss = 0.073 (1628.6 examples/sec; 0.025 sec/batch)
+2024-09-08 15:18:42.239910: step [29,   200/1500], acc=97.5000, loss = 0.085 (1212.2 examples/sec; 0.033 sec/batch)
+2024-09-08 15:19:22.956470: step [29,   300/1500], acc=97.5000, loss = 0.086 (1658.5 examples/sec; 0.024 sec/batch)
+2024-09-08 15:20:03.581849: step [29,   400/1500], acc=97.5000, loss = 0.081 (1597.3 examples/sec; 0.025 sec/batch)
+2024-09-08 15:20:44.344074: step [29,   500/1500], acc=100.0000, loss = 0.075 (1649.3 examples/sec; 0.024 sec/batch)
+2024-09-08 15:21:25.285025: step [29,   600/1500], acc=97.5000, loss = 0.086 (1594.1 examples/sec; 0.025 sec/batch)
+2024-09-08 15:22:06.228470: step [29,   700/1500], acc=97.5000, loss = 0.082 (1593.9 examples/sec; 0.025 sec/batch)
+2024-09-08 15:22:47.246756: step [29,   800/1500], acc=92.5000, loss = 0.073 (1581.7 examples/sec; 0.025 sec/batch)
+2024-09-08 15:23:28.205138: step [29,   900/1500], acc=97.5000, loss = 0.070 (1605.9 examples/sec; 0.025 sec/batch)
+2024-09-08 15:24:09.146807: step [29,  1000/1500], acc=97.5000, loss = 0.083 (1646.9 examples/sec; 0.024 sec/batch)
+2024-09-08 15:24:50.072095: step [29,  1100/1500], acc=95.0000, loss = 0.088 (1555.8 examples/sec; 0.026 sec/batch)
+2024-09-08 15:25:31.076826: step [29,  1200/1500], acc=100.0000, loss = 0.072 (1654.2 examples/sec; 0.024 sec/batch)
+2024-09-08 15:26:11.934882: step [29,  1300/1500], acc=92.5000, loss = 0.088 (1607.9 examples/sec; 0.025 sec/batch)
+2024-09-08 15:26:52.799991: step [29,  1400/1500], acc=97.5000, loss = 0.083 (1609.0 examples/sec; 0.025 sec/batch)
+2024-09-08 15:27:33.760923: step [29,  1500/1500], acc=97.5000, loss = 0.090 (1702.2 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 15:28:15.687256, epoch: 29, acc_TOP1: 98.0800, acc_TOP5: 99.9900, loss_test: 0.058, avg_time: 0.023138, avg_FPS:43.220
+SGD	0.001
+2024-09-08 15:29:18.425148: step [30,   100/1500], acc=97.5000, loss = 0.088 (1635.1 examples/sec; 0.024 sec/batch)
+2024-09-08 15:29:58.707689: step [30,   200/1500], acc=97.5000, loss = 0.094 (1570.5 examples/sec; 0.025 sec/batch)
+2024-09-08 15:30:39.430366: step [30,   300/1500], acc=100.0000, loss = 0.070 (1545.0 examples/sec; 0.026 sec/batch)
+2024-09-08 15:31:20.355844: step [30,   400/1500], acc=100.0000, loss = 0.085 (1137.2 examples/sec; 0.035 sec/batch)
+2024-09-08 15:32:01.315621: step [30,   500/1500], acc=100.0000, loss = 0.088 (1089.1 examples/sec; 0.037 sec/batch)
+2024-09-08 15:32:42.387747: step [30,   600/1500], acc=97.5000, loss = 0.083 (1514.4 examples/sec; 0.026 sec/batch)
+2024-09-08 15:33:23.385094: step [30,   700/1500], acc=95.0000, loss = 0.089 (1623.4 examples/sec; 0.025 sec/batch)
+2024-09-08 15:34:04.369374: step [30,   800/1500], acc=100.0000, loss = 0.079 (1602.2 examples/sec; 0.025 sec/batch)
+2024-09-08 15:34:45.427682: step [30,   900/1500], acc=100.0000, loss = 0.073 (1621.0 examples/sec; 0.025 sec/batch)
+2024-09-08 15:35:26.385698: step [30,  1000/1500], acc=95.0000, loss = 0.072 (1658.0 examples/sec; 0.024 sec/batch)
+2024-09-08 15:36:07.349883: step [30,  1100/1500], acc=97.5000, loss = 0.094 (1609.6 examples/sec; 0.025 sec/batch)
+2024-09-08 15:36:48.303994: step [30,  1200/1500], acc=95.0000, loss = 0.083 (926.0 examples/sec; 0.043 sec/batch)
+2024-09-08 15:37:29.312471: step [30,  1300/1500], acc=92.5000, loss = 0.076 (1624.2 examples/sec; 0.025 sec/batch)
+2024-09-08 15:38:10.288080: step [30,  1400/1500], acc=100.0000, loss = 0.089 (1473.4 examples/sec; 0.027 sec/batch)
+2024-09-08 15:38:51.251424: step [30,  1500/1500], acc=100.0000, loss = 0.090 (1739.5 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 15:39:33.367604, epoch: 30, acc_TOP1: 97.9900, acc_TOP5: 99.9800, loss_test: 0.058, avg_time: 0.022961, avg_FPS:43.553
+SGD	0.001
+2024-09-08 15:40:35.794173: step [31,   100/1500], acc=100.0000, loss = 0.074 (1601.2 examples/sec; 0.025 sec/batch)
+2024-09-08 15:41:16.391476: step [31,   200/1500], acc=100.0000, loss = 0.078 (1568.8 examples/sec; 0.025 sec/batch)
+2024-09-08 15:41:57.415758: step [31,   300/1500], acc=97.5000, loss = 0.081 (1613.4 examples/sec; 0.025 sec/batch)
+2024-09-08 15:42:38.328769: step [31,   400/1500], acc=97.5000, loss = 0.075 (1657.2 examples/sec; 0.024 sec/batch)
+2024-09-08 15:43:19.484173: step [31,   500/1500], acc=100.0000, loss = 0.097 (1565.3 examples/sec; 0.026 sec/batch)
+2024-09-08 15:44:00.381912: step [31,   600/1500], acc=97.5000, loss = 0.078 (1593.1 examples/sec; 0.025 sec/batch)
+2024-09-08 15:44:41.436105: step [31,   700/1500], acc=100.0000, loss = 0.078 (1602.7 examples/sec; 0.025 sec/batch)
+2024-09-08 15:45:22.427088: step [31,   800/1500], acc=97.5000, loss = 0.087 (1612.6 examples/sec; 0.025 sec/batch)
+2024-09-08 15:46:03.363725: step [31,   900/1500], acc=100.0000, loss = 0.078 (1622.4 examples/sec; 0.025 sec/batch)
+2024-09-08 15:46:44.423701: step [31,  1000/1500], acc=100.0000, loss = 0.087 (1635.7 examples/sec; 0.024 sec/batch)
+2024-09-08 15:47:25.516152: step [31,  1100/1500], acc=100.0000, loss = 0.095 (1632.1 examples/sec; 0.025 sec/batch)
+2024-09-08 15:48:06.467748: step [31,  1200/1500], acc=95.0000, loss = 0.085 (1607.2 examples/sec; 0.025 sec/batch)
+2024-09-08 15:48:47.587725: step [31,  1300/1500], acc=97.5000, loss = 0.083 (1638.6 examples/sec; 0.024 sec/batch)
+2024-09-08 15:49:28.615541: step [31,  1400/1500], acc=100.0000, loss = 0.083 (1604.6 examples/sec; 0.025 sec/batch)
+2024-09-08 15:50:09.741498: step [31,  1500/1500], acc=97.5000, loss = 0.087 (1678.3 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 15:50:51.254760, epoch: 31, acc_TOP1: 98.2400, acc_TOP5: 99.9800, loss_test: 0.053, avg_time: 0.022466, avg_FPS:44.513
+SGD	0.001
+2024-09-08 15:51:53.885559: step [32,   100/1500], acc=95.0000, loss = 0.076 (1632.0 examples/sec; 0.025 sec/batch)
+2024-09-08 15:52:34.510795: step [32,   200/1500], acc=100.0000, loss = 0.082 (1582.3 examples/sec; 0.025 sec/batch)
+2024-09-08 15:53:15.320849: step [32,   300/1500], acc=100.0000, loss = 0.082 (1593.1 examples/sec; 0.025 sec/batch)
+2024-09-08 15:53:56.670479: step [32,   400/1500], acc=92.5000, loss = 0.100 (1571.2 examples/sec; 0.025 sec/batch)
+2024-09-08 15:54:37.669723: step [32,   500/1500], acc=100.0000, loss = 0.070 (1560.4 examples/sec; 0.026 sec/batch)
+2024-09-08 15:55:19.452915: step [32,   600/1500], acc=97.5000, loss = 0.092 (1611.6 examples/sec; 0.025 sec/batch)
+2024-09-08 15:56:00.830817: step [32,   700/1500], acc=100.0000, loss = 0.091 (1637.2 examples/sec; 0.024 sec/batch)
+2024-09-08 15:56:42.151715: step [32,   800/1500], acc=95.0000, loss = 0.067 (1615.5 examples/sec; 0.025 sec/batch)
+2024-09-08 15:57:23.088686: step [32,   900/1500], acc=97.5000, loss = 0.079 (1610.6 examples/sec; 0.025 sec/batch)
+2024-09-08 15:58:04.301482: step [32,  1000/1500], acc=100.0000, loss = 0.085 (1574.0 examples/sec; 0.025 sec/batch)
+2024-09-08 15:58:45.806152: step [32,  1100/1500], acc=92.5000, loss = 0.078 (1631.0 examples/sec; 0.025 sec/batch)
+2024-09-08 15:59:27.018842: step [32,  1200/1500], acc=95.0000, loss = 0.090 (1579.1 examples/sec; 0.025 sec/batch)
+2024-09-08 16:00:08.218174: step [32,  1300/1500], acc=97.5000, loss = 0.078 (1642.0 examples/sec; 0.024 sec/batch)
+2024-09-08 16:00:49.858209: step [32,  1400/1500], acc=100.0000, loss = 0.086 (1339.5 examples/sec; 0.030 sec/batch)
+2024-09-08 16:01:31.123910: step [32,  1500/1500], acc=95.0000, loss = 0.082 (1737.6 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 16:02:14.071604, epoch: 32, acc_TOP1: 98.2600, acc_TOP5: 99.9700, loss_test: 0.053, avg_time: 0.023223, avg_FPS:43.061
+SGD	0.001
+2024-09-08 16:03:17.045376: step [33,   100/1500], acc=95.0000, loss = 0.073 (1625.9 examples/sec; 0.025 sec/batch)
+2024-09-08 16:03:57.983866: step [33,   200/1500], acc=100.0000, loss = 0.076 (1524.6 examples/sec; 0.026 sec/batch)
+2024-09-08 16:04:38.943314: step [33,   300/1500], acc=97.5000, loss = 0.076 (1611.2 examples/sec; 0.025 sec/batch)
+2024-09-08 16:05:20.049433: step [33,   400/1500], acc=100.0000, loss = 0.081 (1643.7 examples/sec; 0.024 sec/batch)
+2024-09-08 16:06:01.058634: step [33,   500/1500], acc=95.0000, loss = 0.087 (1647.2 examples/sec; 0.024 sec/batch)
+2024-09-08 16:06:42.059481: step [33,   600/1500], acc=97.5000, loss = 0.085 (1601.2 examples/sec; 0.025 sec/batch)
+2024-09-08 16:07:23.617494: step [33,   700/1500], acc=97.5000, loss = 0.077 (1586.4 examples/sec; 0.025 sec/batch)
+2024-09-08 16:08:05.234059: step [33,   800/1500], acc=97.5000, loss = 0.075 (1632.9 examples/sec; 0.024 sec/batch)
+2024-09-08 16:08:46.865035: step [33,   900/1500], acc=100.0000, loss = 0.084 (1623.7 examples/sec; 0.025 sec/batch)
+2024-09-08 16:09:28.515903: step [33,  1000/1500], acc=95.0000, loss = 0.086 (1588.8 examples/sec; 0.025 sec/batch)
+2024-09-08 16:10:09.921572: step [33,  1100/1500], acc=92.5000, loss = 0.087 (1566.3 examples/sec; 0.026 sec/batch)
+2024-09-08 16:10:51.446143: step [33,  1200/1500], acc=97.5000, loss = 0.078 (1601.3 examples/sec; 0.025 sec/batch)
+2024-09-08 16:11:33.098040: step [33,  1300/1500], acc=95.0000, loss = 0.082 (1629.9 examples/sec; 0.025 sec/batch)
+2024-09-08 16:12:14.844451: step [33,  1400/1500], acc=97.5000, loss = 0.083 (1608.3 examples/sec; 0.025 sec/batch)
+2024-09-08 16:12:56.198941: step [33,  1500/1500], acc=90.0000, loss = 0.098 (1751.0 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 16:13:38.146775, epoch: 33, acc_TOP1: 98.2600, acc_TOP5: 99.9800, loss_test: 0.054, avg_time: 0.022833, avg_FPS:43.797
+SGD	0.001
+2024-09-08 16:14:41.202685: step [34,   100/1500], acc=97.5000, loss = 0.085 (1541.5 examples/sec; 0.026 sec/batch)
+2024-09-08 16:15:22.459594: step [34,   200/1500], acc=97.5000, loss = 0.084 (1489.1 examples/sec; 0.027 sec/batch)
+2024-09-08 16:16:03.977789: step [34,   300/1500], acc=97.5000, loss = 0.086 (1578.2 examples/sec; 0.025 sec/batch)
+2024-09-08 16:16:45.537617: step [34,   400/1500], acc=97.5000, loss = 0.068 (1659.6 examples/sec; 0.024 sec/batch)
+2024-09-08 16:17:27.307987: step [34,   500/1500], acc=100.0000, loss = 0.089 (1613.9 examples/sec; 0.025 sec/batch)
+2024-09-08 16:18:08.698321: step [34,   600/1500], acc=100.0000, loss = 0.079 (1648.5 examples/sec; 0.024 sec/batch)
+2024-09-08 16:18:50.070487: step [34,   700/1500], acc=92.5000, loss = 0.074 (1606.6 examples/sec; 0.025 sec/batch)
+2024-09-08 16:19:31.016896: step [34,   800/1500], acc=100.0000, loss = 0.085 (1604.7 examples/sec; 0.025 sec/batch)
+2024-09-08 16:20:12.257583: step [34,   900/1500], acc=97.5000, loss = 0.088 (1633.1 examples/sec; 0.024 sec/batch)
+2024-09-08 16:20:53.841697: step [34,  1000/1500], acc=97.5000, loss = 0.087 (1635.6 examples/sec; 0.024 sec/batch)
+2024-09-08 16:21:35.365008: step [34,  1100/1500], acc=97.5000, loss = 0.076 (1593.9 examples/sec; 0.025 sec/batch)
+2024-09-08 16:22:16.986490: step [34,  1200/1500], acc=95.0000, loss = 0.085 (1641.6 examples/sec; 0.024 sec/batch)
+2024-09-08 16:22:58.722955: step [34,  1300/1500], acc=95.0000, loss = 0.087 (1602.5 examples/sec; 0.025 sec/batch)
+2024-09-08 16:23:40.208722: step [34,  1400/1500], acc=92.5000, loss = 0.075 (1634.9 examples/sec; 0.024 sec/batch)
+2024-09-08 16:24:22.058004: step [34,  1500/1500], acc=100.0000, loss = 0.079 (1679.6 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 16:25:05.457804, epoch: 34, acc_TOP1: 98.3200, acc_TOP5: 99.9900, loss_test: 0.055, avg_time: 0.022831, avg_FPS:43.800
+SGD	0.001
+2024-09-08 16:26:09.355867: step [35,   100/1500], acc=92.5000, loss = 0.074 (1619.0 examples/sec; 0.025 sec/batch)
+2024-09-08 16:26:50.343121: step [35,   200/1500], acc=100.0000, loss = 0.070 (1606.6 examples/sec; 0.025 sec/batch)
+2024-09-08 16:27:31.527400: step [35,   300/1500], acc=97.5000, loss = 0.063 (1373.3 examples/sec; 0.029 sec/batch)
+2024-09-08 16:28:12.886844: step [35,   400/1500], acc=97.5000, loss = 0.073 (1629.2 examples/sec; 0.025 sec/batch)
+2024-09-08 16:28:54.301703: step [35,   500/1500], acc=95.0000, loss = 0.076 (1613.6 examples/sec; 0.025 sec/batch)
+2024-09-08 16:29:35.841445: step [35,   600/1500], acc=100.0000, loss = 0.097 (1618.8 examples/sec; 0.025 sec/batch)
+2024-09-08 16:30:17.921781: step [35,   700/1500], acc=95.0000, loss = 0.062 (1652.2 examples/sec; 0.024 sec/batch)
+2024-09-08 16:30:59.590323: step [35,   800/1500], acc=100.0000, loss = 0.082 (1614.7 examples/sec; 0.025 sec/batch)
+2024-09-08 16:31:41.067942: step [35,   900/1500], acc=97.5000, loss = 0.086 (1617.4 examples/sec; 0.025 sec/batch)
+2024-09-08 16:32:23.043289: step [35,  1000/1500], acc=95.0000, loss = 0.095 (1596.5 examples/sec; 0.025 sec/batch)
+2024-09-08 16:33:04.610387: step [35,  1100/1500], acc=97.5000, loss = 0.081 (1617.0 examples/sec; 0.025 sec/batch)
+2024-09-08 16:33:46.136002: step [35,  1200/1500], acc=100.0000, loss = 0.088 (1651.9 examples/sec; 0.024 sec/batch)
+2024-09-08 16:34:27.819194: step [35,  1300/1500], acc=97.5000, loss = 0.093 (1622.6 examples/sec; 0.025 sec/batch)
+2024-09-08 16:35:09.660318: step [35,  1400/1500], acc=90.0000, loss = 0.077 (1597.9 examples/sec; 0.025 sec/batch)
+2024-09-08 16:35:51.465152: step [35,  1500/1500], acc=95.0000, loss = 0.079 (1716.0 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 16:36:33.631364, epoch: 35, acc_TOP1: 98.2900, acc_TOP5: 99.9800, loss_test: 0.058, avg_time: 0.022871, avg_FPS:43.724
+SGD	0.001
+2024-09-08 16:37:37.288858: step [36,   100/1500], acc=100.0000, loss = 0.077 (1620.2 examples/sec; 0.025 sec/batch)
+2024-09-08 16:38:18.886916: step [36,   200/1500], acc=100.0000, loss = 0.085 (1623.6 examples/sec; 0.025 sec/batch)
+2024-09-08 16:39:00.307376: step [36,   300/1500], acc=97.5000, loss = 0.077 (1599.5 examples/sec; 0.025 sec/batch)
+2024-09-08 16:39:42.424716: step [36,   400/1500], acc=100.0000, loss = 0.075 (1627.2 examples/sec; 0.025 sec/batch)
+2024-09-08 16:40:24.007950: step [36,   500/1500], acc=97.5000, loss = 0.089 (1613.7 examples/sec; 0.025 sec/batch)
+2024-09-08 16:41:05.624083: step [36,   600/1500], acc=100.0000, loss = 0.073 (1621.5 examples/sec; 0.025 sec/batch)
+2024-09-08 16:41:47.939969: step [36,   700/1500], acc=97.5000, loss = 0.086 (1663.5 examples/sec; 0.024 sec/batch)
+2024-09-08 16:42:30.009126: step [36,   800/1500], acc=100.0000, loss = 0.086 (1619.0 examples/sec; 0.025 sec/batch)
+2024-09-08 16:43:12.427036: step [36,   900/1500], acc=97.5000, loss = 0.069 (1584.5 examples/sec; 0.025 sec/batch)
+2024-09-08 16:43:54.610541: step [36,  1000/1500], acc=100.0000, loss = 0.082 (1579.6 examples/sec; 0.025 sec/batch)
+2024-09-08 16:44:36.826706: step [36,  1100/1500], acc=97.5000, loss = 0.086 (1652.2 examples/sec; 0.024 sec/batch)
+2024-09-08 16:45:19.146346: step [36,  1200/1500], acc=97.5000, loss = 0.086 (1560.1 examples/sec; 0.026 sec/batch)
+2024-09-08 16:46:01.385017: step [36,  1300/1500], acc=97.5000, loss = 0.068 (1633.1 examples/sec; 0.024 sec/batch)
+2024-09-08 16:46:43.634883: step [36,  1400/1500], acc=97.5000, loss = 0.080 (1621.2 examples/sec; 0.025 sec/batch)
+2024-09-08 16:47:25.667313: step [36,  1500/1500], acc=100.0000, loss = 0.091 (1760.7 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 16:48:08.896234, epoch: 36, acc_TOP1: 98.1400, acc_TOP5: 99.9700, loss_test: 0.057, avg_time: 0.023246, avg_FPS:43.018
+SGD	0.001
+2024-09-08 16:49:12.624589: step [37,   100/1500], acc=100.0000, loss = 0.087 (1634.0 examples/sec; 0.024 sec/batch)
+2024-09-08 16:49:54.322163: step [37,   200/1500], acc=100.0000, loss = 0.070 (1676.5 examples/sec; 0.024 sec/batch)
+2024-09-08 16:50:36.425293: step [37,   300/1500], acc=100.0000, loss = 0.081 (1591.9 examples/sec; 0.025 sec/batch)
+2024-09-08 16:51:18.508480: step [37,   400/1500], acc=100.0000, loss = 0.082 (1627.3 examples/sec; 0.025 sec/batch)
+2024-09-08 16:52:00.636353: step [37,   500/1500], acc=90.0000, loss = 0.087 (1562.8 examples/sec; 0.026 sec/batch)
+2024-09-08 16:52:42.779894: step [37,   600/1500], acc=97.5000, loss = 0.085 (1565.5 examples/sec; 0.026 sec/batch)
+2024-09-08 16:53:24.860716: step [37,   700/1500], acc=100.0000, loss = 0.084 (1626.8 examples/sec; 0.025 sec/batch)
+2024-09-08 16:54:07.244384: step [37,   800/1500], acc=95.0000, loss = 0.092 (1594.1 examples/sec; 0.025 sec/batch)
+2024-09-08 16:54:49.432739: step [37,   900/1500], acc=95.0000, loss = 0.082 (1620.3 examples/sec; 0.025 sec/batch)
+2024-09-08 16:55:31.822454: step [37,  1000/1500], acc=95.0000, loss = 0.088 (1402.8 examples/sec; 0.029 sec/batch)
+2024-09-08 16:56:14.015281: step [37,  1100/1500], acc=97.5000, loss = 0.079 (1617.3 examples/sec; 0.025 sec/batch)
+2024-09-08 16:56:56.217153: step [37,  1200/1500], acc=95.0000, loss = 0.083 (921.9 examples/sec; 0.043 sec/batch)
+2024-09-08 16:57:38.410395: step [37,  1300/1500], acc=100.0000, loss = 0.086 (1617.2 examples/sec; 0.025 sec/batch)
+2024-09-08 16:58:20.934019: step [37,  1400/1500], acc=97.5000, loss = 0.078 (1600.0 examples/sec; 0.025 sec/batch)
+2024-09-08 16:59:03.265694: step [37,  1500/1500], acc=95.0000, loss = 0.082 (1675.7 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 16:59:47.215181, epoch: 37, acc_TOP1: 98.2700, acc_TOP5: 99.9900, loss_test: 0.053, avg_time: 0.022927, avg_FPS:43.617
+SGD	0.001
+2024-09-08 17:00:50.571357: step [38,   100/1500], acc=97.5000, loss = 0.086 (1644.7 examples/sec; 0.024 sec/batch)
+2024-09-08 17:01:32.207955: step [38,   200/1500], acc=97.5000, loss = 0.080 (1574.8 examples/sec; 0.025 sec/batch)
+2024-09-08 17:02:14.271954: step [38,   300/1500], acc=100.0000, loss = 0.075 (1625.4 examples/sec; 0.025 sec/batch)
+2024-09-08 17:02:56.616359: step [38,   400/1500], acc=95.0000, loss = 0.087 (1534.3 examples/sec; 0.026 sec/batch)
+2024-09-08 17:03:38.710427: step [38,   500/1500], acc=97.5000, loss = 0.092 (1599.4 examples/sec; 0.025 sec/batch)
+2024-09-08 17:04:20.885819: step [38,   600/1500], acc=97.5000, loss = 0.076 (1618.0 examples/sec; 0.025 sec/batch)
+2024-09-08 17:05:03.184029: step [38,   700/1500], acc=100.0000, loss = 0.081 (1582.9 examples/sec; 0.025 sec/batch)
+2024-09-08 17:05:45.579478: step [38,   800/1500], acc=95.0000, loss = 0.089 (1565.0 examples/sec; 0.026 sec/batch)
+2024-09-08 17:06:27.856005: step [38,   900/1500], acc=100.0000, loss = 0.082 (1554.0 examples/sec; 0.026 sec/batch)
+2024-09-08 17:07:10.279372: step [38,  1000/1500], acc=95.0000, loss = 0.082 (1570.2 examples/sec; 0.025 sec/batch)
+2024-09-08 17:07:52.842630: step [38,  1100/1500], acc=97.5000, loss = 0.085 (1622.6 examples/sec; 0.025 sec/batch)
+2024-09-08 17:08:35.164036: step [38,  1200/1500], acc=97.5000, loss = 0.078 (1633.5 examples/sec; 0.024 sec/batch)
+2024-09-08 17:09:17.220873: step [38,  1300/1500], acc=92.5000, loss = 0.076 (1618.9 examples/sec; 0.025 sec/batch)
+2024-09-08 17:09:59.634998: step [38,  1400/1500], acc=95.0000, loss = 0.092 (1642.9 examples/sec; 0.024 sec/batch)
+2024-09-08 17:10:42.232341: step [38,  1500/1500], acc=97.5000, loss = 0.081 (1684.4 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 17:11:24.828576, epoch: 38, acc_TOP1: 98.3800, acc_TOP5: 99.9800, loss_test: 0.053, avg_time: 0.022761, avg_FPS:43.935
+SGD	0.001
+2024-09-08 17:12:29.564755: step [39,   100/1500], acc=97.5000, loss = 0.064 (1624.4 examples/sec; 0.025 sec/batch)
+2024-09-08 17:13:11.296423: step [39,   200/1500], acc=97.5000, loss = 0.103 (1612.0 examples/sec; 0.025 sec/batch)
+2024-09-08 17:13:52.976436: step [39,   300/1500], acc=97.5000, loss = 0.079 (1575.6 examples/sec; 0.025 sec/batch)
+2024-09-08 17:14:34.840840: step [39,   400/1500], acc=92.5000, loss = 0.092 (1571.9 examples/sec; 0.025 sec/batch)
+2024-09-08 17:15:16.901041: step [39,   500/1500], acc=95.0000, loss = 0.082 (1648.6 examples/sec; 0.024 sec/batch)
+2024-09-08 17:15:59.005280: step [39,   600/1500], acc=95.0000, loss = 0.088 (1600.2 examples/sec; 0.025 sec/batch)
+2024-09-08 17:16:41.156509: step [39,   700/1500], acc=97.5000, loss = 0.078 (1641.8 examples/sec; 0.024 sec/batch)
+2024-09-08 17:17:23.779602: step [39,   800/1500], acc=97.5000, loss = 0.079 (1608.9 examples/sec; 0.025 sec/batch)
+2024-09-08 17:18:05.882536: step [39,   900/1500], acc=95.0000, loss = 0.085 (1647.9 examples/sec; 0.024 sec/batch)
+2024-09-08 17:18:47.580209: step [39,  1000/1500], acc=100.0000, loss = 0.074 (1618.3 examples/sec; 0.025 sec/batch)
+2024-09-08 17:19:29.667189: step [39,  1100/1500], acc=100.0000, loss = 0.084 (1555.1 examples/sec; 0.026 sec/batch)
+2024-09-08 17:20:11.825301: step [39,  1200/1500], acc=100.0000, loss = 0.078 (939.2 examples/sec; 0.043 sec/batch)
+2024-09-08 17:20:54.068605: step [39,  1300/1500], acc=97.5000, loss = 0.090 (1635.5 examples/sec; 0.024 sec/batch)
+2024-09-08 17:21:36.138993: step [39,  1400/1500], acc=92.5000, loss = 0.083 (1633.1 examples/sec; 0.024 sec/batch)
+2024-09-08 17:22:18.386618: step [39,  1500/1500], acc=100.0000, loss = 0.078 (1687.8 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 17:23:00.777295, epoch: 39, acc_TOP1: 98.3000, acc_TOP5: 99.9800, loss_test: 0.052, avg_time: 0.023137, avg_FPS:43.221
+SGD	0.001
+2024-09-08 17:24:04.852374: step [40,   100/1500], acc=97.5000, loss = 0.064 (1565.9 examples/sec; 0.026 sec/batch)
+2024-09-08 17:24:46.593576: step [40,   200/1500], acc=100.0000, loss = 0.084 (1635.4 examples/sec; 0.024 sec/batch)
+2024-09-08 17:25:28.836911: step [40,   300/1500], acc=97.5000, loss = 0.078 (1601.6 examples/sec; 0.025 sec/batch)
+2024-09-08 17:26:11.478691: step [40,   400/1500], acc=100.0000, loss = 0.076 (1548.3 examples/sec; 0.026 sec/batch)
+2024-09-08 17:26:54.260954: step [40,   500/1500], acc=100.0000, loss = 0.077 (1407.4 examples/sec; 0.028 sec/batch)
+2024-09-08 17:27:36.735485: step [40,   600/1500], acc=95.0000, loss = 0.097 (1526.9 examples/sec; 0.026 sec/batch)
+2024-09-08 17:28:18.935503: step [40,   700/1500], acc=97.5000, loss = 0.083 (1625.5 examples/sec; 0.025 sec/batch)
+2024-09-08 17:29:01.407862: step [40,   800/1500], acc=100.0000, loss = 0.079 (1605.0 examples/sec; 0.025 sec/batch)
+2024-09-08 17:29:43.820983: step [40,   900/1500], acc=100.0000, loss = 0.083 (1635.1 examples/sec; 0.024 sec/batch)
+2024-09-08 17:30:26.353346: step [40,  1000/1500], acc=97.5000, loss = 0.085 (1620.7 examples/sec; 0.025 sec/batch)
+2024-09-08 17:31:09.060787: step [40,  1100/1500], acc=95.0000, loss = 0.076 (1589.2 examples/sec; 0.025 sec/batch)
+2024-09-08 17:31:51.915721: step [40,  1200/1500], acc=100.0000, loss = 0.075 (1611.0 examples/sec; 0.025 sec/batch)
+2024-09-08 17:32:34.423482: step [40,  1300/1500], acc=100.0000, loss = 0.083 (1502.9 examples/sec; 0.027 sec/batch)
+2024-09-08 17:33:16.844642: step [40,  1400/1500], acc=100.0000, loss = 0.077 (1492.4 examples/sec; 0.027 sec/batch)
+2024-09-08 17:33:59.032541: step [40,  1500/1500], acc=97.5000, loss = 0.087 (1635.4 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 17:34:41.426225, epoch: 40, acc_TOP1: 98.2500, acc_TOP5: 99.9800, loss_test: 0.055, avg_time: 0.022862, avg_FPS:43.740
+SGD	0.001
+2024-09-08 17:35:46.010719: step [41,   100/1500], acc=97.5000, loss = 0.076 (913.4 examples/sec; 0.044 sec/batch)
+2024-09-08 17:36:28.100087: step [41,   200/1500], acc=97.5000, loss = 0.094 (1610.3 examples/sec; 0.025 sec/batch)
+2024-09-08 17:37:10.485274: step [41,   300/1500], acc=95.0000, loss = 0.090 (1603.2 examples/sec; 0.025 sec/batch)
+2024-09-08 17:37:52.978626: step [41,   400/1500], acc=97.5000, loss = 0.080 (1607.2 examples/sec; 0.025 sec/batch)
+2024-09-08 17:38:35.252811: step [41,   500/1500], acc=97.5000, loss = 0.072 (1312.0 examples/sec; 0.030 sec/batch)
+2024-09-08 17:39:17.736519: step [41,   600/1500], acc=97.5000, loss = 0.073 (1575.2 examples/sec; 0.025 sec/batch)
+2024-09-08 17:40:00.234732: step [41,   700/1500], acc=97.5000, loss = 0.077 (1664.0 examples/sec; 0.024 sec/batch)
+2024-09-08 17:40:42.239197: step [41,   800/1500], acc=100.0000, loss = 0.077 (1586.5 examples/sec; 0.025 sec/batch)
+2024-09-08 17:41:24.521877: step [41,   900/1500], acc=97.5000, loss = 0.077 (888.6 examples/sec; 0.045 sec/batch)
+2024-09-08 17:42:06.887544: step [41,  1000/1500], acc=97.5000, loss = 0.079 (1574.4 examples/sec; 0.025 sec/batch)
+2024-09-08 17:42:49.463818: step [41,  1100/1500], acc=95.0000, loss = 0.075 (1608.0 examples/sec; 0.025 sec/batch)
+2024-09-08 17:43:31.840663: step [41,  1200/1500], acc=95.0000, loss = 0.087 (1603.3 examples/sec; 0.025 sec/batch)
+2024-09-08 17:44:14.498308: step [41,  1300/1500], acc=97.5000, loss = 0.096 (1618.3 examples/sec; 0.025 sec/batch)
+2024-09-08 17:44:57.166845: step [41,  1400/1500], acc=95.0000, loss = 0.082 (1641.8 examples/sec; 0.024 sec/batch)
+2024-09-08 17:45:39.934360: step [41,  1500/1500], acc=97.5000, loss = 0.083 (1691.2 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 17:46:22.210423, epoch: 41, acc_TOP1: 98.3700, acc_TOP5: 99.9900, loss_test: 0.050, avg_time: 0.022727, avg_FPS:44.001
+SGD	0.001
+2024-09-08 17:47:26.526955: step [42,   100/1500], acc=95.0000, loss = 0.079 (1626.2 examples/sec; 0.025 sec/batch)
+2024-09-08 17:48:08.687996: step [42,   200/1500], acc=97.5000, loss = 0.093 (1563.3 examples/sec; 0.026 sec/batch)
+2024-09-08 17:48:51.074616: step [42,   300/1500], acc=100.0000, loss = 0.071 (1615.7 examples/sec; 0.025 sec/batch)
+2024-09-08 17:49:33.726669: step [42,   400/1500], acc=92.5000, loss = 0.086 (1675.5 examples/sec; 0.024 sec/batch)
+2024-09-08 17:50:16.434671: step [42,   500/1500], acc=100.0000, loss = 0.088 (1583.6 examples/sec; 0.025 sec/batch)
+2024-09-08 17:50:58.349886: step [42,   600/1500], acc=97.5000, loss = 0.082 (1512.6 examples/sec; 0.026 sec/batch)
+2024-09-08 17:51:40.458935: step [42,   700/1500], acc=100.0000, loss = 0.085 (1618.3 examples/sec; 0.025 sec/batch)
+2024-09-08 17:52:22.890886: step [42,   800/1500], acc=95.0000, loss = 0.080 (1617.5 examples/sec; 0.025 sec/batch)
+2024-09-08 17:53:05.440223: step [42,   900/1500], acc=100.0000, loss = 0.096 (1617.1 examples/sec; 0.025 sec/batch)
+2024-09-08 17:53:48.204862: step [42,  1000/1500], acc=97.5000, loss = 0.077 (1606.5 examples/sec; 0.025 sec/batch)
+2024-09-08 17:54:30.843969: step [42,  1100/1500], acc=100.0000, loss = 0.068 (1632.1 examples/sec; 0.025 sec/batch)
+2024-09-08 17:55:13.263569: step [42,  1200/1500], acc=100.0000, loss = 0.076 (1652.1 examples/sec; 0.024 sec/batch)
+2024-09-08 17:55:55.566614: step [42,  1300/1500], acc=97.5000, loss = 0.082 (1592.4 examples/sec; 0.025 sec/batch)
+2024-09-08 17:56:38.284576: step [42,  1400/1500], acc=100.0000, loss = 0.083 (1579.9 examples/sec; 0.025 sec/batch)
+2024-09-08 17:57:20.995019: step [42,  1500/1500], acc=100.0000, loss = 0.073 (1679.4 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 17:58:03.987606, epoch: 42, acc_TOP1: 97.9900, acc_TOP5: 99.9800, loss_test: 0.059, avg_time: 0.023427, avg_FPS:42.685
+SGD	0.001
+2024-09-08 17:59:08.414325: step [43,   100/1500], acc=97.5000, loss = 0.095 (1590.0 examples/sec; 0.025 sec/batch)
+2024-09-08 17:59:50.448678: step [43,   200/1500], acc=100.0000, loss = 0.079 (1591.0 examples/sec; 0.025 sec/batch)
+2024-09-08 18:00:32.716272: step [43,   300/1500], acc=100.0000, loss = 0.081 (1573.3 examples/sec; 0.025 sec/batch)
+2024-09-08 18:01:15.127262: step [43,   400/1500], acc=100.0000, loss = 0.079 (1619.9 examples/sec; 0.025 sec/batch)
+2024-09-08 18:01:57.533958: step [43,   500/1500], acc=95.0000, loss = 0.075 (1604.3 examples/sec; 0.025 sec/batch)
+2024-09-08 18:02:39.842794: step [43,   600/1500], acc=97.5000, loss = 0.090 (1584.0 examples/sec; 0.025 sec/batch)
+2024-09-08 18:03:22.448733: step [43,   700/1500], acc=97.5000, loss = 0.080 (1077.9 examples/sec; 0.037 sec/batch)
+2024-09-08 18:04:04.991101: step [43,   800/1500], acc=100.0000, loss = 0.071 (1576.7 examples/sec; 0.025 sec/batch)
+2024-09-08 18:04:47.323348: step [43,   900/1500], acc=100.0000, loss = 0.076 (1680.5 examples/sec; 0.024 sec/batch)
+2024-09-08 18:05:28.832840: step [43,  1000/1500], acc=95.0000, loss = 0.076 (1641.3 examples/sec; 0.024 sec/batch)
+2024-09-08 18:06:11.090303: step [43,  1100/1500], acc=100.0000, loss = 0.080 (1520.1 examples/sec; 0.026 sec/batch)
+2024-09-08 18:06:52.994991: step [43,  1200/1500], acc=90.0000, loss = 0.079 (922.7 examples/sec; 0.043 sec/batch)
+2024-09-08 18:07:35.286096: step [43,  1300/1500], acc=97.5000, loss = 0.082 (1639.2 examples/sec; 0.024 sec/batch)
+2024-09-08 18:08:17.516572: step [43,  1400/1500], acc=97.5000, loss = 0.088 (1593.1 examples/sec; 0.025 sec/batch)
+2024-09-08 18:08:59.506602: step [43,  1500/1500], acc=97.5000, loss = 0.087 (1721.3 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 18:09:42.641038, epoch: 43, acc_TOP1: 98.1200, acc_TOP5: 99.9900, loss_test: 0.055, avg_time: 0.022674, avg_FPS:44.103
+SGD	0.001
+2024-09-08 18:10:47.002157: step [44,   100/1500], acc=97.5000, loss = 0.072 (1596.2 examples/sec; 0.025 sec/batch)
+2024-09-08 18:11:28.937787: step [44,   200/1500], acc=97.5000, loss = 0.079 (1626.7 examples/sec; 0.025 sec/batch)
+2024-09-08 18:12:11.388548: step [44,   300/1500], acc=100.0000, loss = 0.089 (1050.3 examples/sec; 0.038 sec/batch)
+2024-09-08 18:12:53.680873: step [44,   400/1500], acc=100.0000, loss = 0.082 (1603.6 examples/sec; 0.025 sec/batch)
+2024-09-08 18:13:36.209874: step [44,   500/1500], acc=95.0000, loss = 0.087 (1652.7 examples/sec; 0.024 sec/batch)
+2024-09-08 18:14:18.216288: step [44,   600/1500], acc=97.5000, loss = 0.083 (1637.3 examples/sec; 0.024 sec/batch)
+2024-09-08 18:15:00.470741: step [44,   700/1500], acc=100.0000, loss = 0.088 (1582.4 examples/sec; 0.025 sec/batch)
+2024-09-08 18:15:42.635102: step [44,   800/1500], acc=97.5000, loss = 0.084 (1549.7 examples/sec; 0.026 sec/batch)
+2024-09-08 18:16:25.062476: step [44,   900/1500], acc=97.5000, loss = 0.094 (1625.3 examples/sec; 0.025 sec/batch)
+2024-09-08 18:17:07.360102: step [44,  1000/1500], acc=95.0000, loss = 0.081 (1593.7 examples/sec; 0.025 sec/batch)
+2024-09-08 18:17:49.670680: step [44,  1100/1500], acc=97.5000, loss = 0.076 (1576.5 examples/sec; 0.025 sec/batch)
+2024-09-08 18:18:31.560623: step [44,  1200/1500], acc=92.5000, loss = 0.078 (1663.0 examples/sec; 0.024 sec/batch)
+2024-09-08 18:19:13.485794: step [44,  1300/1500], acc=100.0000, loss = 0.072 (1623.1 examples/sec; 0.025 sec/batch)
+2024-09-08 18:19:55.620160: step [44,  1400/1500], acc=95.0000, loss = 0.091 (1661.2 examples/sec; 0.024 sec/batch)
+2024-09-08 18:20:37.664558: step [44,  1500/1500], acc=95.0000, loss = 0.080 (1707.2 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 18:21:19.700614, epoch: 44, acc_TOP1: 98.0600, acc_TOP5: 99.9800, loss_test: 0.058, avg_time: 0.022502, avg_FPS:44.441
+SGD	0.001
+2024-09-08 18:22:23.208216: step [45,   100/1500], acc=97.5000, loss = 0.073 (1625.7 examples/sec; 0.025 sec/batch)
+2024-09-08 18:23:04.542643: step [45,   200/1500], acc=90.0000, loss = 0.085 (1637.8 examples/sec; 0.024 sec/batch)
+2024-09-08 18:23:46.556485: step [45,   300/1500], acc=97.5000, loss = 0.074 (1629.5 examples/sec; 0.025 sec/batch)
+2024-09-08 18:24:28.727647: step [45,   400/1500], acc=97.5000, loss = 0.087 (1557.3 examples/sec; 0.026 sec/batch)
+2024-09-08 18:25:10.802755: step [45,   500/1500], acc=100.0000, loss = 0.089 (1567.7 examples/sec; 0.026 sec/batch)
+2024-09-08 18:25:52.902971: step [45,   600/1500], acc=100.0000, loss = 0.076 (1622.2 examples/sec; 0.025 sec/batch)
+2024-09-08 18:26:35.133488: step [45,   700/1500], acc=97.5000, loss = 0.082 (1602.5 examples/sec; 0.025 sec/batch)
+2024-09-08 18:27:17.384418: step [45,   800/1500], acc=95.0000, loss = 0.086 (1607.2 examples/sec; 0.025 sec/batch)
+2024-09-08 18:27:59.763698: step [45,   900/1500], acc=97.5000, loss = 0.078 (1621.5 examples/sec; 0.025 sec/batch)
+2024-09-08 18:28:42.093766: step [45,  1000/1500], acc=100.0000, loss = 0.080 (1563.6 examples/sec; 0.026 sec/batch)
+2024-09-08 18:29:24.237224: step [45,  1100/1500], acc=97.5000, loss = 0.090 (1660.2 examples/sec; 0.024 sec/batch)
+2024-09-08 18:30:06.406872: step [45,  1200/1500], acc=100.0000, loss = 0.076 (1602.5 examples/sec; 0.025 sec/batch)
+2024-09-08 18:30:48.782623: step [45,  1300/1500], acc=100.0000, loss = 0.085 (1628.9 examples/sec; 0.025 sec/batch)
+2024-09-08 18:31:30.776326: step [45,  1400/1500], acc=95.0000, loss = 0.073 (1634.0 examples/sec; 0.024 sec/batch)
+2024-09-08 18:32:12.923108: step [45,  1500/1500], acc=97.5000, loss = 0.091 (1615.3 examples/sec; 0.025 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 18:32:55.591700, epoch: 45, acc_TOP1: 98.3000, acc_TOP5: 99.9900, loss_test: 0.052, avg_time: 0.022827, avg_FPS:43.808
+SGD	0.001
+2024-09-08 18:33:59.401788: step [46,   100/1500], acc=100.0000, loss = 0.083 (974.0 examples/sec; 0.041 sec/batch)
+2024-09-08 18:34:40.821486: step [46,   200/1500], acc=100.0000, loss = 0.071 (1610.6 examples/sec; 0.025 sec/batch)
+2024-09-08 18:35:22.617421: step [46,   300/1500], acc=100.0000, loss = 0.088 (1581.0 examples/sec; 0.025 sec/batch)
+2024-09-08 18:36:04.594072: step [46,   400/1500], acc=97.5000, loss = 0.083 (1539.0 examples/sec; 0.026 sec/batch)
+2024-09-08 18:36:46.613920: step [46,   500/1500], acc=97.5000, loss = 0.085 (1619.3 examples/sec; 0.025 sec/batch)
+2024-09-08 18:37:28.608500: step [46,   600/1500], acc=100.0000, loss = 0.084 (1601.6 examples/sec; 0.025 sec/batch)
+2024-09-08 18:38:10.600718: step [46,   700/1500], acc=100.0000, loss = 0.070 (1629.4 examples/sec; 0.025 sec/batch)
+2024-09-08 18:38:52.840526: step [46,   800/1500], acc=100.0000, loss = 0.078 (1579.1 examples/sec; 0.025 sec/batch)
+2024-09-08 18:39:34.870175: step [46,   900/1500], acc=100.0000, loss = 0.076 (1641.0 examples/sec; 0.024 sec/batch)
+2024-09-08 18:40:16.871468: step [46,  1000/1500], acc=100.0000, loss = 0.087 (1572.5 examples/sec; 0.025 sec/batch)
+2024-09-08 18:40:58.683291: step [46,  1100/1500], acc=97.5000, loss = 0.089 (1626.5 examples/sec; 0.025 sec/batch)
+2024-09-08 18:41:40.715261: step [46,  1200/1500], acc=95.0000, loss = 0.083 (1552.8 examples/sec; 0.026 sec/batch)
+2024-09-08 18:42:22.733533: step [46,  1300/1500], acc=97.5000, loss = 0.078 (1603.4 examples/sec; 0.025 sec/batch)
+2024-09-08 18:43:04.758931: step [46,  1400/1500], acc=95.0000, loss = 0.083 (1625.0 examples/sec; 0.025 sec/batch)
+2024-09-08 18:43:46.703912: step [46,  1500/1500], acc=97.5000, loss = 0.082 (1685.3 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 18:44:29.198653, epoch: 46, acc_TOP1: 98.3100, acc_TOP5: 99.9700, loss_test: 0.055, avg_time: 0.023042, avg_FPS:43.399
+SGD	0.001
+2024-09-08 18:45:32.833534: step [47,   100/1500], acc=95.0000, loss = 0.093 (1537.6 examples/sec; 0.026 sec/batch)
+2024-09-08 18:46:14.238586: step [47,   200/1500], acc=100.0000, loss = 0.071 (1609.9 examples/sec; 0.025 sec/batch)
+2024-09-08 18:46:55.856293: step [47,   300/1500], acc=92.5000, loss = 0.076 (1582.2 examples/sec; 0.025 sec/batch)
+2024-09-08 18:47:37.680729: step [47,   400/1500], acc=95.0000, loss = 0.088 (1643.8 examples/sec; 0.024 sec/batch)
+2024-09-08 18:48:19.683808: step [47,   500/1500], acc=100.0000, loss = 0.074 (1618.9 examples/sec; 0.025 sec/batch)
+2024-09-08 18:49:01.567552: step [47,   600/1500], acc=92.5000, loss = 0.089 (1576.6 examples/sec; 0.025 sec/batch)
+2024-09-08 18:49:42.998441: step [47,   700/1500], acc=100.0000, loss = 0.075 (1595.3 examples/sec; 0.025 sec/batch)
+2024-09-08 18:50:24.860276: step [47,   800/1500], acc=100.0000, loss = 0.083 (1595.8 examples/sec; 0.025 sec/batch)
+2024-09-08 18:51:06.771635: step [47,   900/1500], acc=97.5000, loss = 0.075 (1608.1 examples/sec; 0.025 sec/batch)
+2024-09-08 18:51:48.954106: step [47,  1000/1500], acc=97.5000, loss = 0.075 (1603.9 examples/sec; 0.025 sec/batch)
+2024-09-08 18:52:30.994406: step [47,  1100/1500], acc=100.0000, loss = 0.079 (1610.8 examples/sec; 0.025 sec/batch)
+2024-09-08 18:53:12.929916: step [47,  1200/1500], acc=100.0000, loss = 0.090 (1575.4 examples/sec; 0.025 sec/batch)
+2024-09-08 18:53:54.973730: step [47,  1300/1500], acc=92.5000, loss = 0.088 (847.7 examples/sec; 0.047 sec/batch)
+2024-09-08 18:54:37.161697: step [47,  1400/1500], acc=97.5000, loss = 0.079 (1614.7 examples/sec; 0.025 sec/batch)
+2024-09-08 18:55:19.189937: step [47,  1500/1500], acc=100.0000, loss = 0.081 (1678.1 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 18:56:02.130458, epoch: 47, acc_TOP1: 98.2600, acc_TOP5: 99.9700, loss_test: 0.053, avg_time: 0.022864, avg_FPS:43.736
+SGD	0.001
+2024-09-08 18:57:06.129925: step [48,   100/1500], acc=100.0000, loss = 0.072 (1642.1 examples/sec; 0.024 sec/batch)
+2024-09-08 18:57:47.412463: step [48,   200/1500], acc=95.0000, loss = 0.082 (1627.7 examples/sec; 0.025 sec/batch)
+2024-09-08 18:58:29.135274: step [48,   300/1500], acc=97.5000, loss = 0.082 (1636.5 examples/sec; 0.024 sec/batch)
+2024-09-08 18:59:11.167854: step [48,   400/1500], acc=97.5000, loss = 0.076 (1602.9 examples/sec; 0.025 sec/batch)
+2024-09-08 18:59:53.086653: step [48,   500/1500], acc=100.0000, loss = 0.084 (1569.8 examples/sec; 0.025 sec/batch)
+2024-09-08 19:00:35.066450: step [48,   600/1500], acc=100.0000, loss = 0.088 (1648.5 examples/sec; 0.024 sec/batch)
+2024-09-08 19:01:17.068696: step [48,   700/1500], acc=100.0000, loss = 0.092 (1560.4 examples/sec; 0.026 sec/batch)
+2024-09-08 19:01:59.038451: step [48,   800/1500], acc=97.5000, loss = 0.068 (1621.9 examples/sec; 0.025 sec/batch)
+2024-09-08 19:02:41.034822: step [48,   900/1500], acc=100.0000, loss = 0.096 (1601.4 examples/sec; 0.025 sec/batch)
+2024-09-08 19:03:22.942406: step [48,  1000/1500], acc=97.5000, loss = 0.070 (1568.4 examples/sec; 0.026 sec/batch)
+2024-09-08 19:04:04.400872: step [48,  1100/1500], acc=97.5000, loss = 0.093 (1542.6 examples/sec; 0.026 sec/batch)
+2024-09-08 19:04:46.097472: step [48,  1200/1500], acc=100.0000, loss = 0.068 (1641.9 examples/sec; 0.024 sec/batch)
+2024-09-08 19:05:28.357260: step [48,  1300/1500], acc=90.0000, loss = 0.094 (1490.8 examples/sec; 0.027 sec/batch)
+2024-09-08 19:06:10.357753: step [48,  1400/1500], acc=97.5000, loss = 0.080 (1601.2 examples/sec; 0.025 sec/batch)
+2024-09-08 19:06:52.300488: step [48,  1500/1500], acc=95.0000, loss = 0.089 (1679.9 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 19:07:35.230918, epoch: 48, acc_TOP1: 98.3400, acc_TOP5: 99.9900, loss_test: 0.048, avg_time: 0.022887, avg_FPS:43.692
+SGD	0.001
+2024-09-08 19:08:38.392117: step [49,   100/1500], acc=95.0000, loss = 0.081 (1635.8 examples/sec; 0.024 sec/batch)
+2024-09-08 19:09:19.815006: step [49,   200/1500], acc=100.0000, loss = 0.097 (1594.8 examples/sec; 0.025 sec/batch)
+2024-09-08 19:10:01.447758: step [49,   300/1500], acc=95.0000, loss = 0.079 (1663.6 examples/sec; 0.024 sec/batch)
+2024-09-08 19:10:43.122847: step [49,   400/1500], acc=100.0000, loss = 0.073 (1604.5 examples/sec; 0.025 sec/batch)
+2024-09-08 19:11:25.104603: step [49,   500/1500], acc=97.5000, loss = 0.086 (935.8 examples/sec; 0.043 sec/batch)
+2024-09-08 19:12:06.944193: step [49,   600/1500], acc=97.5000, loss = 0.084 (1648.0 examples/sec; 0.024 sec/batch)
+2024-09-08 19:12:48.747781: step [49,   700/1500], acc=95.0000, loss = 0.084 (1618.8 examples/sec; 0.025 sec/batch)
+2024-09-08 19:13:30.680734: step [49,   800/1500], acc=97.5000, loss = 0.076 (1591.5 examples/sec; 0.025 sec/batch)
+2024-09-08 19:14:12.813087: step [49,   900/1500], acc=97.5000, loss = 0.075 (1590.6 examples/sec; 0.025 sec/batch)
+2024-09-08 19:14:54.442978: step [49,  1000/1500], acc=95.0000, loss = 0.087 (1610.9 examples/sec; 0.025 sec/batch)
+2024-09-08 19:15:36.190353: step [49,  1100/1500], acc=97.5000, loss = 0.085 (1520.4 examples/sec; 0.026 sec/batch)
+2024-09-08 19:16:17.790183: step [49,  1200/1500], acc=100.0000, loss = 0.092 (1568.8 examples/sec; 0.025 sec/batch)
+2024-09-08 19:16:59.091089: step [49,  1300/1500], acc=100.0000, loss = 0.079 (1602.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:17:40.270671: step [49,  1400/1500], acc=97.5000, loss = 0.077 (1619.6 examples/sec; 0.025 sec/batch)
+2024-09-08 19:18:21.458062: step [49,  1500/1500], acc=97.5000, loss = 0.076 (1697.4 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 19:19:03.333498, epoch: 49, acc_TOP1: 98.1200, acc_TOP5: 99.9900, loss_test: 0.057, avg_time: 0.022516, avg_FPS:44.413
+SGD	0.0001
+2024-09-08 19:20:06.555610: step [50,   100/1500], acc=100.0000, loss = 0.080 (1628.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:20:48.019463: step [50,   200/1500], acc=100.0000, loss = 0.069 (1083.1 examples/sec; 0.037 sec/batch)
+2024-09-08 19:21:29.514493: step [50,   300/1500], acc=95.0000, loss = 0.062 (1614.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:22:11.062180: step [50,   400/1500], acc=97.5000, loss = 0.071 (1620.0 examples/sec; 0.025 sec/batch)
+2024-09-08 19:22:53.062599: step [50,   500/1500], acc=100.0000, loss = 0.057 (1589.4 examples/sec; 0.025 sec/batch)
+2024-09-08 19:23:35.167344: step [50,   600/1500], acc=100.0000, loss = 0.061 (1607.0 examples/sec; 0.025 sec/batch)
+2024-09-08 19:24:17.018595: step [50,   700/1500], acc=95.0000, loss = 0.060 (1623.5 examples/sec; 0.025 sec/batch)
+2024-09-08 19:24:58.685519: step [50,   800/1500], acc=92.5000, loss = 0.068 (1650.9 examples/sec; 0.024 sec/batch)
+2024-09-08 19:25:40.246399: step [50,   900/1500], acc=97.5000, loss = 0.059 (1581.2 examples/sec; 0.025 sec/batch)
+2024-09-08 19:26:21.967531: step [50,  1000/1500], acc=100.0000, loss = 0.067 (1593.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:27:03.985124: step [50,  1100/1500], acc=95.0000, loss = 0.081 (1628.0 examples/sec; 0.025 sec/batch)
+2024-09-08 19:27:45.550258: step [50,  1200/1500], acc=97.5000, loss = 0.067 (1609.6 examples/sec; 0.025 sec/batch)
+2024-09-08 19:28:27.560542: step [50,  1300/1500], acc=97.5000, loss = 0.065 (1559.4 examples/sec; 0.026 sec/batch)
+2024-09-08 19:29:09.662494: step [50,  1400/1500], acc=97.5000, loss = 0.065 (1555.1 examples/sec; 0.026 sec/batch)
+2024-09-08 19:29:51.073540: step [50,  1500/1500], acc=100.0000, loss = 0.059 (1737.6 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 19:30:33.046618, epoch: 50, acc_TOP1: 98.3800, acc_TOP5: 99.9900, loss_test: 0.048, avg_time: 0.023120, avg_FPS:43.252
+SGD	0.0001
+2024-09-08 19:31:36.892130: step [51,   100/1500], acc=100.0000, loss = 0.064 (1614.5 examples/sec; 0.025 sec/batch)
+2024-09-08 19:32:18.245886: step [51,   200/1500], acc=100.0000, loss = 0.066 (1549.6 examples/sec; 0.026 sec/batch)
+2024-09-08 19:32:59.674069: step [51,   300/1500], acc=100.0000, loss = 0.052 (1614.0 examples/sec; 0.025 sec/batch)
+2024-09-08 19:33:41.435178: step [51,   400/1500], acc=97.5000, loss = 0.061 (1628.7 examples/sec; 0.025 sec/batch)
+2024-09-08 19:34:23.220392: step [51,   500/1500], acc=97.5000, loss = 0.060 (1553.3 examples/sec; 0.026 sec/batch)
+2024-09-08 19:35:04.968044: step [51,   600/1500], acc=97.5000, loss = 0.059 (1634.4 examples/sec; 0.024 sec/batch)
+2024-09-08 19:35:46.455785: step [51,   700/1500], acc=97.5000, loss = 0.063 (1564.1 examples/sec; 0.026 sec/batch)
+2024-09-08 19:36:28.129327: step [51,   800/1500], acc=100.0000, loss = 0.070 (1594.3 examples/sec; 0.025 sec/batch)
+2024-09-08 19:37:09.654793: step [51,   900/1500], acc=97.5000, loss = 0.062 (1632.2 examples/sec; 0.025 sec/batch)
+2024-09-08 19:37:51.171829: step [51,  1000/1500], acc=97.5000, loss = 0.054 (1521.2 examples/sec; 0.026 sec/batch)
+2024-09-08 19:38:33.121951: step [51,  1100/1500], acc=100.0000, loss = 0.053 (1632.4 examples/sec; 0.025 sec/batch)
+2024-09-08 19:39:15.132629: step [51,  1200/1500], acc=100.0000, loss = 0.053 (1607.5 examples/sec; 0.025 sec/batch)
+2024-09-08 19:39:57.291653: step [51,  1300/1500], acc=100.0000, loss = 0.068 (1573.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:40:39.520235: step [51,  1400/1500], acc=97.5000, loss = 0.070 (1581.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:41:21.607376: step [51,  1500/1500], acc=97.5000, loss = 0.058 (1734.2 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 19:42:04.006328, epoch: 51, acc_TOP1: 98.4400, acc_TOP5: 99.9900, loss_test: 0.046, avg_time: 0.023683, avg_FPS:42.225
+SGD	0.0001
+2024-09-08 19:43:08.245499: step [52,   100/1500], acc=95.0000, loss = 0.063 (1588.9 examples/sec; 0.025 sec/batch)
+2024-09-08 19:43:49.258876: step [52,   200/1500], acc=97.5000, loss = 0.054 (1641.8 examples/sec; 0.024 sec/batch)
+2024-09-08 19:44:31.031507: step [52,   300/1500], acc=100.0000, loss = 0.056 (1553.7 examples/sec; 0.026 sec/batch)
+2024-09-08 19:45:12.838382: step [52,   400/1500], acc=95.0000, loss = 0.062 (1603.6 examples/sec; 0.025 sec/batch)
+2024-09-08 19:45:54.620968: step [52,   500/1500], acc=97.5000, loss = 0.067 (1592.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:46:36.404997: step [52,   600/1500], acc=100.0000, loss = 0.060 (1626.6 examples/sec; 0.025 sec/batch)
+2024-09-08 19:47:18.012533: step [52,   700/1500], acc=100.0000, loss = 0.071 (1609.7 examples/sec; 0.025 sec/batch)
+2024-09-08 19:47:59.984486: step [52,   800/1500], acc=97.5000, loss = 0.065 (1476.1 examples/sec; 0.027 sec/batch)
+2024-09-08 19:48:41.847301: step [52,   900/1500], acc=97.5000, loss = 0.055 (1606.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:49:23.822554: step [52,  1000/1500], acc=100.0000, loss = 0.054 (1592.4 examples/sec; 0.025 sec/batch)
+2024-09-08 19:50:05.949204: step [52,  1100/1500], acc=97.5000, loss = 0.067 (1621.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:50:48.219273: step [52,  1200/1500], acc=100.0000, loss = 0.050 (1621.5 examples/sec; 0.025 sec/batch)
+2024-09-08 19:51:30.188317: step [52,  1300/1500], acc=100.0000, loss = 0.056 (1655.0 examples/sec; 0.024 sec/batch)
+2024-09-08 19:52:11.936133: step [52,  1400/1500], acc=95.0000, loss = 0.064 (1591.9 examples/sec; 0.025 sec/batch)
+2024-09-08 19:52:53.900618: step [52,  1500/1500], acc=92.5000, loss = 0.069 (1706.4 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 19:53:35.819805, epoch: 52, acc_TOP1: 98.5000, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.022960, avg_FPS:43.553
+SGD	0.0001
+2024-09-08 19:54:39.976176: step [53,   100/1500], acc=100.0000, loss = 0.056 (1565.3 examples/sec; 0.026 sec/batch)
+2024-09-08 19:55:21.283825: step [53,   200/1500], acc=100.0000, loss = 0.073 (1607.7 examples/sec; 0.025 sec/batch)
+2024-09-08 19:56:03.120801: step [53,   300/1500], acc=100.0000, loss = 0.053 (1525.0 examples/sec; 0.026 sec/batch)
+2024-09-08 19:56:44.576070: step [53,   400/1500], acc=100.0000, loss = 0.057 (1607.1 examples/sec; 0.025 sec/batch)
+2024-09-08 19:57:26.155947: step [53,   500/1500], acc=100.0000, loss = 0.062 (1578.9 examples/sec; 0.025 sec/batch)
+2024-09-08 19:58:07.630439: step [53,   600/1500], acc=95.0000, loss = 0.065 (1213.1 examples/sec; 0.033 sec/batch)
+2024-09-08 19:58:48.962982: step [53,   700/1500], acc=100.0000, loss = 0.053 (1656.6 examples/sec; 0.024 sec/batch)
+2024-09-08 19:59:30.547810: step [53,   800/1500], acc=97.5000, loss = 0.065 (1659.2 examples/sec; 0.024 sec/batch)
+2024-09-08 20:00:12.551564: step [53,   900/1500], acc=95.0000, loss = 0.058 (1625.1 examples/sec; 0.025 sec/batch)
+2024-09-08 20:00:54.354930: step [53,  1000/1500], acc=100.0000, loss = 0.063 (1499.4 examples/sec; 0.027 sec/batch)
+2024-09-08 20:01:36.159935: step [53,  1100/1500], acc=100.0000, loss = 0.056 (1618.0 examples/sec; 0.025 sec/batch)
+2024-09-08 20:02:18.080086: step [53,  1200/1500], acc=100.0000, loss = 0.054 (1594.4 examples/sec; 0.025 sec/batch)
+2024-09-08 20:02:59.954757: step [53,  1300/1500], acc=97.5000, loss = 0.054 (1513.0 examples/sec; 0.026 sec/batch)
+2024-09-08 20:03:41.675328: step [53,  1400/1500], acc=97.5000, loss = 0.053 (1594.4 examples/sec; 0.025 sec/batch)
+2024-09-08 20:04:23.281110: step [53,  1500/1500], acc=97.5000, loss = 0.061 (1726.6 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 20:05:05.440558, epoch: 53, acc_TOP1: 98.5400, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.023017, avg_FPS:43.446
+SGD	0.0001
+2024-09-08 20:06:09.238718: step [54,   100/1500], acc=95.0000, loss = 0.065 (1612.2 examples/sec; 0.025 sec/batch)
+2024-09-08 20:06:50.397835: step [54,   200/1500], acc=100.0000, loss = 0.063 (1615.8 examples/sec; 0.025 sec/batch)
+2024-09-08 20:07:31.408138: step [54,   300/1500], acc=100.0000, loss = 0.063 (1371.7 examples/sec; 0.029 sec/batch)
+2024-09-08 20:08:12.960270: step [54,   400/1500], acc=97.5000, loss = 0.052 (907.5 examples/sec; 0.044 sec/batch)
+2024-09-08 20:08:54.504862: step [54,   500/1500], acc=97.5000, loss = 0.062 (1638.9 examples/sec; 0.024 sec/batch)
+2024-09-08 20:09:35.759166: step [54,   600/1500], acc=100.0000, loss = 0.063 (1627.4 examples/sec; 0.025 sec/batch)
+2024-09-08 20:10:17.221901: step [54,   700/1500], acc=97.5000, loss = 0.057 (1558.3 examples/sec; 0.026 sec/batch)
+2024-09-08 20:10:58.434374: step [54,   800/1500], acc=97.5000, loss = 0.060 (1574.8 examples/sec; 0.025 sec/batch)
+2024-09-08 20:11:39.533706: step [54,   900/1500], acc=100.0000, loss = 0.055 (1668.2 examples/sec; 0.024 sec/batch)
+2024-09-08 20:12:20.969397: step [54,  1000/1500], acc=92.5000, loss = 0.065 (1521.6 examples/sec; 0.026 sec/batch)
+2024-09-08 20:13:02.171421: step [54,  1100/1500], acc=97.5000, loss = 0.048 (1067.7 examples/sec; 0.037 sec/batch)
+2024-09-08 20:13:43.693349: step [54,  1200/1500], acc=100.0000, loss = 0.059 (1622.4 examples/sec; 0.025 sec/batch)
+2024-09-08 20:14:25.094684: step [54,  1300/1500], acc=97.5000, loss = 0.060 (1577.8 examples/sec; 0.025 sec/batch)
+2024-09-08 20:15:06.240558: step [54,  1400/1500], acc=95.0000, loss = 0.056 (1576.5 examples/sec; 0.025 sec/batch)
+2024-09-08 20:15:47.447790: step [54,  1500/1500], acc=95.0000, loss = 0.062 (1688.9 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 20:16:30.575775, epoch: 54, acc_TOP1: 98.5100, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.023766, avg_FPS:42.076
+SGD	0.0001
+2024-09-08 20:17:33.833335: step [55,   100/1500], acc=100.0000, loss = 0.064 (1648.3 examples/sec; 0.024 sec/batch)
+2024-09-08 20:18:14.867459: step [55,   200/1500], acc=97.5000, loss = 0.054 (1600.2 examples/sec; 0.025 sec/batch)
+2024-09-08 20:18:56.089554: step [55,   300/1500], acc=97.5000, loss = 0.061 (1608.9 examples/sec; 0.025 sec/batch)
+2024-09-08 20:19:37.428491: step [55,   400/1500], acc=97.5000, loss = 0.051 (1620.6 examples/sec; 0.025 sec/batch)
+2024-09-08 20:20:18.975626: step [55,   500/1500], acc=97.5000, loss = 0.062 (1616.7 examples/sec; 0.025 sec/batch)
+2024-09-08 20:21:00.229215: step [55,   600/1500], acc=97.5000, loss = 0.064 (1662.9 examples/sec; 0.024 sec/batch)
+2024-09-08 20:21:41.545830: step [55,   700/1500], acc=92.5000, loss = 0.066 (1560.2 examples/sec; 0.026 sec/batch)
+2024-09-08 20:22:22.967580: step [55,   800/1500], acc=97.5000, loss = 0.065 (1606.3 examples/sec; 0.025 sec/batch)
+2024-09-08 20:23:04.706819: step [55,   900/1500], acc=97.5000, loss = 0.057 (1590.7 examples/sec; 0.025 sec/batch)
+2024-09-08 20:23:46.240357: step [55,  1000/1500], acc=100.0000, loss = 0.056 (1559.4 examples/sec; 0.026 sec/batch)
+2024-09-08 20:24:27.447396: step [55,  1100/1500], acc=100.0000, loss = 0.066 (1530.9 examples/sec; 0.026 sec/batch)
+2024-09-08 20:25:08.746634: step [55,  1200/1500], acc=100.0000, loss = 0.054 (1632.0 examples/sec; 0.025 sec/batch)
+2024-09-08 20:25:49.957301: step [55,  1300/1500], acc=95.0000, loss = 0.059 (1583.7 examples/sec; 0.025 sec/batch)
+2024-09-08 20:26:31.132700: step [55,  1400/1500], acc=95.0000, loss = 0.051 (1652.1 examples/sec; 0.024 sec/batch)
+2024-09-08 20:27:12.426327: step [55,  1500/1500], acc=100.0000, loss = 0.059 (1704.7 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 20:27:54.883834, epoch: 55, acc_TOP1: 98.5000, acc_TOP5: 99.9900, loss_test: 0.046, avg_time: 0.022896, avg_FPS:43.676
+SGD	0.0001
+2024-09-08 20:28:57.402714: step [56,   100/1500], acc=100.0000, loss = 0.059 (1586.7 examples/sec; 0.025 sec/batch)
+2024-09-08 20:29:38.253600: step [56,   200/1500], acc=90.0000, loss = 0.062 (1585.8 examples/sec; 0.025 sec/batch)
+2024-09-08 20:30:19.565574: step [56,   300/1500], acc=100.0000, loss = 0.055 (1642.5 examples/sec; 0.024 sec/batch)
+2024-09-08 20:31:00.680227: step [56,   400/1500], acc=100.0000, loss = 0.063 (1581.8 examples/sec; 0.025 sec/batch)
+2024-09-08 20:31:41.889336: step [56,   500/1500], acc=97.5000, loss = 0.069 (1556.5 examples/sec; 0.026 sec/batch)
+2024-09-08 20:32:23.613981: step [56,   600/1500], acc=100.0000, loss = 0.048 (1420.5 examples/sec; 0.028 sec/batch)
+2024-09-08 20:33:04.951483: step [56,   700/1500], acc=100.0000, loss = 0.051 (1557.7 examples/sec; 0.026 sec/batch)
+2024-09-08 20:33:45.939738: step [56,   800/1500], acc=100.0000, loss = 0.066 (1572.4 examples/sec; 0.025 sec/batch)
+2024-09-08 20:34:27.309523: step [56,   900/1500], acc=97.5000, loss = 0.066 (1656.9 examples/sec; 0.024 sec/batch)
+2024-09-08 20:35:08.445603: step [56,  1000/1500], acc=100.0000, loss = 0.059 (1615.6 examples/sec; 0.025 sec/batch)
+2024-09-08 20:35:49.592712: step [56,  1100/1500], acc=100.0000, loss = 0.063 (1432.6 examples/sec; 0.028 sec/batch)
+2024-09-08 20:36:30.788977: step [56,  1200/1500], acc=100.0000, loss = 0.053 (1609.7 examples/sec; 0.025 sec/batch)
+2024-09-08 20:37:11.915030: step [56,  1300/1500], acc=100.0000, loss = 0.062 (1079.0 examples/sec; 0.037 sec/batch)
+2024-09-08 20:37:52.802478: step [56,  1400/1500], acc=100.0000, loss = 0.053 (1616.6 examples/sec; 0.025 sec/batch)
+2024-09-08 20:38:34.035678: step [56,  1500/1500], acc=95.0000, loss = 0.057 (1644.3 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 20:39:15.329026, epoch: 56, acc_TOP1: 98.5100, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.022586, avg_FPS:44.275
+SGD	0.0001
+2024-09-08 20:40:18.004474: step [57,   100/1500], acc=100.0000, loss = 0.063 (1607.4 examples/sec; 0.025 sec/batch)
+2024-09-08 20:40:58.851023: step [57,   200/1500], acc=100.0000, loss = 0.055 (1627.7 examples/sec; 0.025 sec/batch)
+2024-09-08 20:41:39.994288: step [57,   300/1500], acc=100.0000, loss = 0.057 (1621.9 examples/sec; 0.025 sec/batch)
+2024-09-08 20:42:21.226021: step [57,   400/1500], acc=97.5000, loss = 0.056 (1605.5 examples/sec; 0.025 sec/batch)
+2024-09-08 20:43:02.629007: step [57,   500/1500], acc=100.0000, loss = 0.051 (1615.9 examples/sec; 0.025 sec/batch)
+2024-09-08 20:43:43.959408: step [57,   600/1500], acc=97.5000, loss = 0.060 (1549.9 examples/sec; 0.026 sec/batch)
+2024-09-08 20:44:25.288458: step [57,   700/1500], acc=97.5000, loss = 0.065 (1659.9 examples/sec; 0.024 sec/batch)
+2024-09-08 20:45:06.288046: step [57,   800/1500], acc=97.5000, loss = 0.057 (1650.4 examples/sec; 0.024 sec/batch)
+2024-09-08 20:45:47.630677: step [57,   900/1500], acc=97.5000, loss = 0.057 (1486.8 examples/sec; 0.027 sec/batch)
+2024-09-08 20:46:28.759583: step [57,  1000/1500], acc=100.0000, loss = 0.054 (1592.0 examples/sec; 0.025 sec/batch)
+2024-09-08 20:47:10.272203: step [57,  1100/1500], acc=97.5000, loss = 0.052 (1620.0 examples/sec; 0.025 sec/batch)
+2024-09-08 20:47:51.602822: step [57,  1200/1500], acc=97.5000, loss = 0.065 (1631.8 examples/sec; 0.025 sec/batch)
+2024-09-08 20:48:32.904484: step [57,  1300/1500], acc=97.5000, loss = 0.068 (1553.0 examples/sec; 0.026 sec/batch)
+2024-09-08 20:49:14.276690: step [57,  1400/1500], acc=100.0000, loss = 0.060 (1101.8 examples/sec; 0.036 sec/batch)
+2024-09-08 20:49:55.684163: step [57,  1500/1500], acc=95.0000, loss = 0.061 (1688.3 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 20:50:37.492193, epoch: 57, acc_TOP1: 98.5500, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.022919, avg_FPS:43.631
+SGD	0.0001
+2024-09-08 20:51:41.494920: step [58,   100/1500], acc=97.5000, loss = 0.055 (1610.3 examples/sec; 0.025 sec/batch)
+2024-09-08 20:52:22.354600: step [58,   200/1500], acc=97.5000, loss = 0.052 (1176.5 examples/sec; 0.034 sec/batch)
+2024-09-08 20:53:03.443377: step [58,   300/1500], acc=97.5000, loss = 0.060 (1620.1 examples/sec; 0.025 sec/batch)
+2024-09-08 20:53:44.830966: step [58,   400/1500], acc=97.5000, loss = 0.070 (1639.7 examples/sec; 0.024 sec/batch)
+2024-09-08 20:54:25.955995: step [58,   500/1500], acc=97.5000, loss = 0.067 (1584.2 examples/sec; 0.025 sec/batch)
+2024-09-08 20:55:07.104263: step [58,   600/1500], acc=97.5000, loss = 0.062 (1633.3 examples/sec; 0.024 sec/batch)
+2024-09-08 20:55:48.115907: step [58,   700/1500], acc=97.5000, loss = 0.057 (1076.4 examples/sec; 0.037 sec/batch)
+2024-09-08 20:56:29.486098: step [58,   800/1500], acc=100.0000, loss = 0.060 (1545.9 examples/sec; 0.026 sec/batch)
+2024-09-08 20:57:10.683204: step [58,   900/1500], acc=97.5000, loss = 0.056 (1659.5 examples/sec; 0.024 sec/batch)
+2024-09-08 20:57:51.770516: step [58,  1000/1500], acc=100.0000, loss = 0.063 (1621.2 examples/sec; 0.025 sec/batch)
+2024-09-08 20:58:33.131627: step [58,  1100/1500], acc=97.5000, loss = 0.045 (1623.2 examples/sec; 0.025 sec/batch)
+2024-09-08 20:59:14.112767: step [58,  1200/1500], acc=100.0000, loss = 0.055 (1640.9 examples/sec; 0.024 sec/batch)
+2024-09-08 20:59:55.298318: step [58,  1300/1500], acc=100.0000, loss = 0.053 (1573.1 examples/sec; 0.025 sec/batch)
+2024-09-08 21:00:36.510556: step [58,  1400/1500], acc=100.0000, loss = 0.060 (1605.5 examples/sec; 0.025 sec/batch)
+2024-09-08 21:01:17.884694: step [58,  1500/1500], acc=97.5000, loss = 0.052 (1698.8 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 21:02:01.832367, epoch: 58, acc_TOP1: 98.5600, acc_TOP5: 99.9900, loss_test: 0.044, avg_time: 0.022870, avg_FPS:43.725
+SGD	0.0001
+2024-09-08 21:03:05.095440: step [59,   100/1500], acc=100.0000, loss = 0.056 (1507.5 examples/sec; 0.027 sec/batch)
+2024-09-08 21:03:46.101713: step [59,   200/1500], acc=97.5000, loss = 0.060 (1559.4 examples/sec; 0.026 sec/batch)
+2024-09-08 21:04:27.213857: step [59,   300/1500], acc=97.5000, loss = 0.063 (1601.6 examples/sec; 0.025 sec/batch)
+2024-09-08 21:05:08.323992: step [59,   400/1500], acc=95.0000, loss = 0.065 (1278.6 examples/sec; 0.031 sec/batch)
+2024-09-08 21:05:49.567432: step [59,   500/1500], acc=95.0000, loss = 0.067 (1579.4 examples/sec; 0.025 sec/batch)
+2024-09-08 21:06:30.721087: step [59,   600/1500], acc=90.0000, loss = 0.045 (1635.6 examples/sec; 0.024 sec/batch)
+2024-09-08 21:07:12.160205: step [59,   700/1500], acc=100.0000, loss = 0.056 (1637.3 examples/sec; 0.024 sec/batch)
+2024-09-08 21:07:53.585957: step [59,   800/1500], acc=97.5000, loss = 0.056 (1653.9 examples/sec; 0.024 sec/batch)
+2024-09-08 21:08:34.722787: step [59,   900/1500], acc=97.5000, loss = 0.051 (1618.5 examples/sec; 0.025 sec/batch)
+2024-09-08 21:09:16.037880: step [59,  1000/1500], acc=97.5000, loss = 0.051 (1638.0 examples/sec; 0.024 sec/batch)
+2024-09-08 21:09:57.192166: step [59,  1100/1500], acc=100.0000, loss = 0.067 (1647.2 examples/sec; 0.024 sec/batch)
+2024-09-08 21:10:38.400525: step [59,  1200/1500], acc=95.0000, loss = 0.054 (1571.2 examples/sec; 0.025 sec/batch)
+2024-09-08 21:11:19.805255: step [59,  1300/1500], acc=97.5000, loss = 0.048 (1634.0 examples/sec; 0.024 sec/batch)
+2024-09-08 21:12:01.146270: step [59,  1400/1500], acc=100.0000, loss = 0.061 (1646.9 examples/sec; 0.024 sec/batch)
+2024-09-08 21:12:42.732344: step [59,  1500/1500], acc=97.5000, loss = 0.063 (1730.0 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 21:13:23.947814, epoch: 59, acc_TOP1: 98.5500, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.023036, avg_FPS:43.411
+SGD	0.0001
+2024-09-08 21:14:26.645638: step [60,   100/1500], acc=100.0000, loss = 0.049 (1622.4 examples/sec; 0.025 sec/batch)
+2024-09-08 21:15:07.828669: step [60,   200/1500], acc=97.5000, loss = 0.053 (1634.3 examples/sec; 0.024 sec/batch)
+2024-09-08 21:15:48.836591: step [60,   300/1500], acc=100.0000, loss = 0.056 (1604.0 examples/sec; 0.025 sec/batch)
+2024-09-08 21:16:30.040944: step [60,   400/1500], acc=100.0000, loss = 0.065 (1636.9 examples/sec; 0.024 sec/batch)
+2024-09-08 21:17:11.448938: step [60,   500/1500], acc=97.5000, loss = 0.052 (1588.9 examples/sec; 0.025 sec/batch)
+2024-09-08 21:17:52.784493: step [60,   600/1500], acc=100.0000, loss = 0.063 (1615.1 examples/sec; 0.025 sec/batch)
+2024-09-08 21:18:34.370028: step [60,   700/1500], acc=100.0000, loss = 0.051 (1588.0 examples/sec; 0.025 sec/batch)
+2024-09-08 21:19:15.735111: step [60,   800/1500], acc=100.0000, loss = 0.051 (1529.6 examples/sec; 0.026 sec/batch)
+2024-09-08 21:19:56.913140: step [60,   900/1500], acc=100.0000, loss = 0.070 (1647.2 examples/sec; 0.024 sec/batch)
+2024-09-08 21:20:38.239683: step [60,  1000/1500], acc=100.0000, loss = 0.052 (1609.5 examples/sec; 0.025 sec/batch)
+2024-09-08 21:21:19.422951: step [60,  1100/1500], acc=92.5000, loss = 0.052 (1613.7 examples/sec; 0.025 sec/batch)
+2024-09-08 21:22:00.787925: step [60,  1200/1500], acc=100.0000, loss = 0.064 (1624.6 examples/sec; 0.025 sec/batch)
+2024-09-08 21:22:41.943452: step [60,  1300/1500], acc=100.0000, loss = 0.057 (1550.0 examples/sec; 0.026 sec/batch)
+2024-09-08 21:23:23.099394: step [60,  1400/1500], acc=95.0000, loss = 0.058 (1641.3 examples/sec; 0.024 sec/batch)
+2024-09-08 21:24:04.049520: step [60,  1500/1500], acc=100.0000, loss = 0.056 (1713.3 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 21:24:46.445822, epoch: 60, acc_TOP1: 98.4000, acc_TOP5: 99.9900, loss_test: 0.047, avg_time: 0.023349, avg_FPS:42.829
+SGD	0.0001
+2024-09-08 21:25:49.169734: step [61,   100/1500], acc=100.0000, loss = 0.051 (1612.1 examples/sec; 0.025 sec/batch)
+2024-09-08 21:26:30.104791: step [61,   200/1500], acc=100.0000, loss = 0.053 (909.7 examples/sec; 0.044 sec/batch)
+2024-09-08 21:27:11.025681: step [61,   300/1500], acc=97.5000, loss = 0.058 (1573.7 examples/sec; 0.025 sec/batch)
+2024-09-08 21:27:52.413724: step [61,   400/1500], acc=97.5000, loss = 0.057 (1544.4 examples/sec; 0.026 sec/batch)
+2024-09-08 21:28:33.551985: step [61,   500/1500], acc=95.0000, loss = 0.063 (1541.6 examples/sec; 0.026 sec/batch)
+2024-09-08 21:29:14.780003: step [61,   600/1500], acc=97.5000, loss = 0.060 (1553.2 examples/sec; 0.026 sec/batch)
+2024-09-08 21:29:55.963757: step [61,   700/1500], acc=100.0000, loss = 0.056 (1619.2 examples/sec; 0.025 sec/batch)
+2024-09-08 21:30:37.385950: step [61,   800/1500], acc=95.0000, loss = 0.059 (1640.9 examples/sec; 0.024 sec/batch)
+2024-09-08 21:31:18.920519: step [61,   900/1500], acc=100.0000, loss = 0.055 (1654.6 examples/sec; 0.024 sec/batch)
+2024-09-08 21:32:00.402574: step [61,  1000/1500], acc=100.0000, loss = 0.053 (1568.1 examples/sec; 0.026 sec/batch)
+2024-09-08 21:32:41.786968: step [61,  1100/1500], acc=97.5000, loss = 0.055 (1669.4 examples/sec; 0.024 sec/batch)
+2024-09-08 21:33:23.172296: step [61,  1200/1500], acc=97.5000, loss = 0.056 (1622.2 examples/sec; 0.025 sec/batch)
+2024-09-08 21:34:04.522462: step [61,  1300/1500], acc=97.5000, loss = 0.066 (1603.1 examples/sec; 0.025 sec/batch)
+2024-09-08 21:34:45.926595: step [61,  1400/1500], acc=100.0000, loss = 0.050 (1518.5 examples/sec; 0.026 sec/batch)
+2024-09-08 21:35:27.239719: step [61,  1500/1500], acc=100.0000, loss = 0.062 (1634.6 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 21:36:09.592041, epoch: 61, acc_TOP1: 98.4600, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.025405, avg_FPS:39.363
+SGD	0.0001
+2024-09-08 21:37:12.331188: step [62,   100/1500], acc=100.0000, loss = 0.051 (1583.5 examples/sec; 0.025 sec/batch)
+2024-09-08 21:37:53.152520: step [62,   200/1500], acc=100.0000, loss = 0.050 (1594.9 examples/sec; 0.025 sec/batch)
+2024-09-08 21:38:34.239567: step [62,   300/1500], acc=95.0000, loss = 0.064 (944.2 examples/sec; 0.042 sec/batch)
+2024-09-08 21:39:15.099885: step [62,   400/1500], acc=97.5000, loss = 0.064 (1610.2 examples/sec; 0.025 sec/batch)
+2024-09-08 21:39:56.371203: step [62,   500/1500], acc=97.5000, loss = 0.061 (1616.7 examples/sec; 0.025 sec/batch)
+2024-09-08 21:40:37.399789: step [62,   600/1500], acc=95.0000, loss = 0.053 (1637.6 examples/sec; 0.024 sec/batch)
+2024-09-08 21:41:18.700968: step [62,   700/1500], acc=97.5000, loss = 0.049 (1632.2 examples/sec; 0.025 sec/batch)
+2024-09-08 21:41:59.677750: step [62,   800/1500], acc=95.0000, loss = 0.059 (1613.8 examples/sec; 0.025 sec/batch)
+2024-09-08 21:42:40.828334: step [62,   900/1500], acc=95.0000, loss = 0.061 (1108.3 examples/sec; 0.036 sec/batch)
+2024-09-08 21:43:22.019471: step [62,  1000/1500], acc=95.0000, loss = 0.053 (1617.3 examples/sec; 0.025 sec/batch)
+2024-09-08 21:44:03.161333: step [62,  1100/1500], acc=95.0000, loss = 0.062 (1093.9 examples/sec; 0.037 sec/batch)
+2024-09-08 21:44:44.164282: step [62,  1200/1500], acc=95.0000, loss = 0.050 (1617.7 examples/sec; 0.025 sec/batch)
+2024-09-08 21:45:25.272053: step [62,  1300/1500], acc=92.5000, loss = 0.057 (1096.5 examples/sec; 0.036 sec/batch)
+2024-09-08 21:46:06.435263: step [62,  1400/1500], acc=100.0000, loss = 0.041 (1630.7 examples/sec; 0.025 sec/batch)
+2024-09-08 21:46:47.621741: step [62,  1500/1500], acc=100.0000, loss = 0.071 (1688.5 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 21:47:29.622635, epoch: 62, acc_TOP1: 98.5100, acc_TOP5: 99.9900, loss_test: 0.044, avg_time: 0.023252, avg_FPS:43.007
+SGD	0.0001
+2024-09-08 21:48:32.587681: step [63,   100/1500], acc=100.0000, loss = 0.048 (950.7 examples/sec; 0.042 sec/batch)
+2024-09-08 21:49:13.492686: step [63,   200/1500], acc=100.0000, loss = 0.072 (1624.0 examples/sec; 0.025 sec/batch)
+2024-09-08 21:49:54.408879: step [63,   300/1500], acc=100.0000, loss = 0.059 (1639.5 examples/sec; 0.024 sec/batch)
+2024-09-08 21:50:35.541514: step [63,   400/1500], acc=95.0000, loss = 0.053 (1600.9 examples/sec; 0.025 sec/batch)
+2024-09-08 21:51:16.593755: step [63,   500/1500], acc=97.5000, loss = 0.060 (1595.4 examples/sec; 0.025 sec/batch)
+2024-09-08 21:51:57.968551: step [63,   600/1500], acc=97.5000, loss = 0.049 (1631.0 examples/sec; 0.025 sec/batch)
+2024-09-08 21:52:39.094548: step [63,   700/1500], acc=97.5000, loss = 0.060 (1600.2 examples/sec; 0.025 sec/batch)
+2024-09-08 21:53:20.440496: step [63,   800/1500], acc=100.0000, loss = 0.051 (871.0 examples/sec; 0.046 sec/batch)
+2024-09-08 21:54:01.356377: step [63,   900/1500], acc=97.5000, loss = 0.054 (1622.4 examples/sec; 0.025 sec/batch)
+2024-09-08 21:54:42.333333: step [63,  1000/1500], acc=100.0000, loss = 0.046 (1574.3 examples/sec; 0.025 sec/batch)
+2024-09-08 21:55:23.534801: step [63,  1100/1500], acc=100.0000, loss = 0.053 (1553.1 examples/sec; 0.026 sec/batch)
+2024-09-08 21:56:04.853851: step [63,  1200/1500], acc=100.0000, loss = 0.056 (1581.8 examples/sec; 0.025 sec/batch)
+2024-09-08 21:56:45.882614: step [63,  1300/1500], acc=100.0000, loss = 0.054 (1636.2 examples/sec; 0.024 sec/batch)
+2024-09-08 21:57:27.450345: step [63,  1400/1500], acc=90.0000, loss = 0.056 (1663.4 examples/sec; 0.024 sec/batch)
+2024-09-08 21:58:08.831790: step [63,  1500/1500], acc=100.0000, loss = 0.052 (1646.9 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 21:58:50.519968, epoch: 63, acc_TOP1: 98.5200, acc_TOP5: 99.9900, loss_test: 0.044, avg_time: 0.022811, avg_FPS:43.839
+SGD	0.0001
+2024-09-08 21:59:52.827879: step [64,   100/1500], acc=97.5000, loss = 0.051 (1614.2 examples/sec; 0.025 sec/batch)
+2024-09-08 22:00:33.767539: step [64,   200/1500], acc=97.5000, loss = 0.050 (1517.1 examples/sec; 0.026 sec/batch)
+2024-09-08 22:01:14.770131: step [64,   300/1500], acc=100.0000, loss = 0.056 (1608.8 examples/sec; 0.025 sec/batch)
+2024-09-08 22:01:56.129203: step [64,   400/1500], acc=97.5000, loss = 0.048 (1578.0 examples/sec; 0.025 sec/batch)
+2024-09-08 22:02:37.561910: step [64,   500/1500], acc=100.0000, loss = 0.055 (1629.9 examples/sec; 0.025 sec/batch)
+2024-09-08 22:03:18.894698: step [64,   600/1500], acc=97.5000, loss = 0.051 (952.9 examples/sec; 0.042 sec/batch)
+2024-09-08 22:04:00.220463: step [64,   700/1500], acc=100.0000, loss = 0.051 (1633.8 examples/sec; 0.024 sec/batch)
+2024-09-08 22:04:41.633807: step [64,   800/1500], acc=97.5000, loss = 0.059 (1631.2 examples/sec; 0.025 sec/batch)
+2024-09-08 22:05:22.949508: step [64,   900/1500], acc=97.5000, loss = 0.061 (1584.9 examples/sec; 0.025 sec/batch)
+2024-09-08 22:06:03.954971: step [64,  1000/1500], acc=97.5000, loss = 0.056 (1280.3 examples/sec; 0.031 sec/batch)
+2024-09-08 22:06:44.917829: step [64,  1100/1500], acc=97.5000, loss = 0.050 (1546.0 examples/sec; 0.026 sec/batch)
+2024-09-08 22:07:25.845929: step [64,  1200/1500], acc=95.0000, loss = 0.059 (1655.0 examples/sec; 0.024 sec/batch)
+2024-09-08 22:08:06.801276: step [64,  1300/1500], acc=97.5000, loss = 0.060 (1621.0 examples/sec; 0.025 sec/batch)
+2024-09-08 22:08:47.777206: step [64,  1400/1500], acc=97.5000, loss = 0.057 (1620.5 examples/sec; 0.025 sec/batch)
+2024-09-08 22:09:28.745903: step [64,  1500/1500], acc=97.5000, loss = 0.057 (1716.3 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 22:10:10.335499, epoch: 64, acc_TOP1: 98.5100, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.023347, avg_FPS:42.833
+SGD	0.0001
+2024-09-08 22:11:13.229231: step [65,   100/1500], acc=97.5000, loss = 0.053 (1571.1 examples/sec; 0.025 sec/batch)
+2024-09-08 22:11:54.341167: step [65,   200/1500], acc=100.0000, loss = 0.054 (1535.5 examples/sec; 0.026 sec/batch)
+2024-09-08 22:12:35.404022: step [65,   300/1500], acc=100.0000, loss = 0.058 (1601.1 examples/sec; 0.025 sec/batch)
+2024-09-08 22:13:16.627168: step [65,   400/1500], acc=100.0000, loss = 0.058 (1640.6 examples/sec; 0.024 sec/batch)
+2024-09-08 22:13:57.869420: step [65,   500/1500], acc=97.5000, loss = 0.061 (1630.7 examples/sec; 0.025 sec/batch)
+2024-09-08 22:14:39.052170: step [65,   600/1500], acc=100.0000, loss = 0.048 (1636.6 examples/sec; 0.024 sec/batch)
+2024-09-08 22:15:20.145331: step [65,   700/1500], acc=100.0000, loss = 0.049 (1533.3 examples/sec; 0.026 sec/batch)
+2024-09-08 22:16:01.153534: step [65,   800/1500], acc=100.0000, loss = 0.057 (1616.0 examples/sec; 0.025 sec/batch)
+2024-09-08 22:16:42.314160: step [65,   900/1500], acc=97.5000, loss = 0.056 (1625.3 examples/sec; 0.025 sec/batch)
+2024-09-08 22:17:23.380524: step [65,  1000/1500], acc=100.0000, loss = 0.051 (1648.1 examples/sec; 0.024 sec/batch)
+2024-09-08 22:18:04.620231: step [65,  1100/1500], acc=100.0000, loss = 0.059 (1173.1 examples/sec; 0.034 sec/batch)
+2024-09-08 22:18:45.810483: step [65,  1200/1500], acc=100.0000, loss = 0.052 (1623.2 examples/sec; 0.025 sec/batch)
+2024-09-08 22:19:26.958358: step [65,  1300/1500], acc=100.0000, loss = 0.047 (1596.5 examples/sec; 0.025 sec/batch)
+2024-09-08 22:20:07.937031: step [65,  1400/1500], acc=100.0000, loss = 0.059 (1631.0 examples/sec; 0.025 sec/batch)
+2024-09-08 22:20:49.203675: step [65,  1500/1500], acc=92.5000, loss = 0.057 (1713.0 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 22:21:30.159524, epoch: 65, acc_TOP1: 98.4600, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.022559, avg_FPS:44.329
+SGD	0.0001
+2024-09-08 22:22:32.846589: step [66,   100/1500], acc=100.0000, loss = 0.060 (1506.8 examples/sec; 0.027 sec/batch)
+2024-09-08 22:23:13.679245: step [66,   200/1500], acc=100.0000, loss = 0.062 (1576.9 examples/sec; 0.025 sec/batch)
+2024-09-08 22:23:54.658821: step [66,   300/1500], acc=100.0000, loss = 0.051 (1627.7 examples/sec; 0.025 sec/batch)
+2024-09-08 22:24:35.808568: step [66,   400/1500], acc=100.0000, loss = 0.057 (1614.4 examples/sec; 0.025 sec/batch)
+2024-09-08 22:25:16.938177: step [66,   500/1500], acc=95.0000, loss = 0.060 (1618.1 examples/sec; 0.025 sec/batch)
+2024-09-08 22:25:57.885048: step [66,   600/1500], acc=97.5000, loss = 0.047 (1345.9 examples/sec; 0.030 sec/batch)
+2024-09-08 22:26:39.078507: step [66,   700/1500], acc=97.5000, loss = 0.052 (1063.4 examples/sec; 0.038 sec/batch)
+2024-09-08 22:27:20.586398: step [66,   800/1500], acc=100.0000, loss = 0.058 (1598.6 examples/sec; 0.025 sec/batch)
+2024-09-08 22:28:01.860990: step [66,   900/1500], acc=100.0000, loss = 0.065 (1581.0 examples/sec; 0.025 sec/batch)
+2024-09-08 22:28:43.007220: step [66,  1000/1500], acc=97.5000, loss = 0.057 (1083.3 examples/sec; 0.037 sec/batch)
+2024-09-08 22:29:23.943935: step [66,  1100/1500], acc=100.0000, loss = 0.051 (1602.3 examples/sec; 0.025 sec/batch)
+2024-09-08 22:30:04.922900: step [66,  1200/1500], acc=100.0000, loss = 0.057 (1432.2 examples/sec; 0.028 sec/batch)
+2024-09-08 22:30:46.064611: step [66,  1300/1500], acc=100.0000, loss = 0.057 (1588.5 examples/sec; 0.025 sec/batch)
+2024-09-08 22:31:27.266459: step [66,  1400/1500], acc=97.5000, loss = 0.051 (929.3 examples/sec; 0.043 sec/batch)
+2024-09-08 22:32:08.462065: step [66,  1500/1500], acc=92.5000, loss = 0.055 (1539.3 examples/sec; 0.026 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 22:32:50.454567, epoch: 66, acc_TOP1: 98.6000, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.023091, avg_FPS:43.307
+SGD	0.0001
+2024-09-08 22:33:54.247866: step [67,   100/1500], acc=97.5000, loss = 0.059 (1646.9 examples/sec; 0.024 sec/batch)
+2024-09-08 22:34:35.058895: step [67,   200/1500], acc=100.0000, loss = 0.061 (1629.1 examples/sec; 0.025 sec/batch)
+2024-09-08 22:35:16.232606: step [67,   300/1500], acc=100.0000, loss = 0.054 (1597.0 examples/sec; 0.025 sec/batch)
+2024-09-08 22:35:57.194438: step [67,   400/1500], acc=100.0000, loss = 0.046 (1443.9 examples/sec; 0.028 sec/batch)
+2024-09-08 22:36:38.403816: step [67,   500/1500], acc=100.0000, loss = 0.043 (1545.4 examples/sec; 0.026 sec/batch)
+2024-09-08 22:37:19.668763: step [67,   600/1500], acc=97.5000, loss = 0.051 (1393.1 examples/sec; 0.029 sec/batch)
+2024-09-08 22:38:00.664159: step [67,   700/1500], acc=95.0000, loss = 0.054 (1412.2 examples/sec; 0.028 sec/batch)
+2024-09-08 22:38:41.660958: step [67,   800/1500], acc=100.0000, loss = 0.056 (1392.3 examples/sec; 0.029 sec/batch)
+2024-09-08 22:39:22.764330: step [67,   900/1500], acc=97.5000, loss = 0.056 (1472.9 examples/sec; 0.027 sec/batch)
+2024-09-08 22:40:03.690317: step [67,  1000/1500], acc=95.0000, loss = 0.059 (1603.5 examples/sec; 0.025 sec/batch)
+2024-09-08 22:40:44.958281: step [67,  1100/1500], acc=100.0000, loss = 0.065 (904.7 examples/sec; 0.044 sec/batch)
+2024-09-08 22:41:25.829106: step [67,  1200/1500], acc=100.0000, loss = 0.052 (1259.9 examples/sec; 0.032 sec/batch)
+2024-09-08 22:42:06.825419: step [67,  1300/1500], acc=100.0000, loss = 0.052 (1460.9 examples/sec; 0.027 sec/batch)
+2024-09-08 22:42:47.795812: step [67,  1400/1500], acc=97.5000, loss = 0.057 (937.4 examples/sec; 0.043 sec/batch)
+2024-09-08 22:43:28.777711: step [67,  1500/1500], acc=95.0000, loss = 0.061 (1596.8 examples/sec; 0.025 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 22:44:10.012666, epoch: 67, acc_TOP1: 98.4900, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.024058, avg_FPS:41.566
+SGD	0.0001
+2024-09-08 22:45:12.590209: step [68,   100/1500], acc=97.5000, loss = 0.063 (1571.8 examples/sec; 0.025 sec/batch)
+2024-09-08 22:45:53.546049: step [68,   200/1500], acc=100.0000, loss = 0.055 (1679.5 examples/sec; 0.024 sec/batch)
+2024-09-08 22:46:34.518292: step [68,   300/1500], acc=97.5000, loss = 0.057 (1501.4 examples/sec; 0.027 sec/batch)
+2024-09-08 22:47:15.406218: step [68,   400/1500], acc=97.5000, loss = 0.053 (1645.9 examples/sec; 0.024 sec/batch)
+2024-09-08 22:47:56.381465: step [68,   500/1500], acc=95.0000, loss = 0.057 (1499.5 examples/sec; 0.027 sec/batch)
+2024-09-08 22:48:37.382698: step [68,   600/1500], acc=100.0000, loss = 0.051 (1481.4 examples/sec; 0.027 sec/batch)
+2024-09-08 22:49:18.404082: step [68,   700/1500], acc=100.0000, loss = 0.047 (1616.2 examples/sec; 0.025 sec/batch)
+2024-09-08 22:49:59.557977: step [68,   800/1500], acc=97.5000, loss = 0.057 (1610.4 examples/sec; 0.025 sec/batch)
+2024-09-08 22:50:40.592310: step [68,   900/1500], acc=100.0000, loss = 0.052 (1600.2 examples/sec; 0.025 sec/batch)
+2024-09-08 22:51:21.650706: step [68,  1000/1500], acc=100.0000, loss = 0.056 (1591.5 examples/sec; 0.025 sec/batch)
+2024-09-08 22:52:02.606073: step [68,  1100/1500], acc=100.0000, loss = 0.054 (1587.3 examples/sec; 0.025 sec/batch)
+2024-09-08 22:52:43.583716: step [68,  1200/1500], acc=97.5000, loss = 0.045 (1591.7 examples/sec; 0.025 sec/batch)
+2024-09-08 22:53:24.304684: step [68,  1300/1500], acc=100.0000, loss = 0.051 (1615.1 examples/sec; 0.025 sec/batch)
+2024-09-08 22:54:05.077293: step [68,  1400/1500], acc=100.0000, loss = 0.060 (1051.7 examples/sec; 0.038 sec/batch)
+2024-09-08 22:54:46.233783: step [68,  1500/1500], acc=100.0000, loss = 0.051 (1703.5 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 22:55:27.655215, epoch: 68, acc_TOP1: 98.5700, acc_TOP5: 99.9900, loss_test: 0.044, avg_time: 0.023073, avg_FPS:43.341
+SGD	0.0001
+2024-09-08 22:56:30.451326: step [69,   100/1500], acc=100.0000, loss = 0.057 (1583.6 examples/sec; 0.025 sec/batch)
+2024-09-08 22:57:11.446843: step [69,   200/1500], acc=95.0000, loss = 0.062 (1089.9 examples/sec; 0.037 sec/batch)
+2024-09-08 22:57:52.420316: step [69,   300/1500], acc=100.0000, loss = 0.064 (1570.5 examples/sec; 0.025 sec/batch)
+2024-09-08 22:58:33.358091: step [69,   400/1500], acc=95.0000, loss = 0.053 (1654.2 examples/sec; 0.024 sec/batch)
+2024-09-08 22:59:14.347035: step [69,   500/1500], acc=100.0000, loss = 0.041 (1616.4 examples/sec; 0.025 sec/batch)
+2024-09-08 22:59:55.472468: step [69,   600/1500], acc=100.0000, loss = 0.054 (1602.5 examples/sec; 0.025 sec/batch)
+2024-09-08 23:00:36.614085: step [69,   700/1500], acc=100.0000, loss = 0.054 (1619.2 examples/sec; 0.025 sec/batch)
+2024-09-08 23:01:17.630202: step [69,   800/1500], acc=95.0000, loss = 0.057 (1658.0 examples/sec; 0.024 sec/batch)
+2024-09-08 23:01:58.774486: step [69,   900/1500], acc=97.5000, loss = 0.058 (1622.3 examples/sec; 0.025 sec/batch)
+2024-09-08 23:02:39.785499: step [69,  1000/1500], acc=100.0000, loss = 0.054 (1620.8 examples/sec; 0.025 sec/batch)
+2024-09-08 23:03:20.895266: step [69,  1100/1500], acc=100.0000, loss = 0.050 (1549.5 examples/sec; 0.026 sec/batch)
+2024-09-08 23:04:01.864921: step [69,  1200/1500], acc=100.0000, loss = 0.056 (831.4 examples/sec; 0.048 sec/batch)
+2024-09-08 23:04:42.762870: step [69,  1300/1500], acc=97.5000, loss = 0.054 (1574.8 examples/sec; 0.025 sec/batch)
+2024-09-08 23:05:23.758577: step [69,  1400/1500], acc=97.5000, loss = 0.049 (1604.9 examples/sec; 0.025 sec/batch)
+2024-09-08 23:06:04.618683: step [69,  1500/1500], acc=100.0000, loss = 0.060 (1716.4 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 23:06:46.466995, epoch: 69, acc_TOP1: 98.4700, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.023392, avg_FPS:42.749
+SGD	0.0001
+2024-09-08 23:07:49.114519: step [70,   100/1500], acc=100.0000, loss = 0.053 (1606.8 examples/sec; 0.025 sec/batch)
+2024-09-08 23:08:29.693105: step [70,   200/1500], acc=97.5000, loss = 0.053 (1590.2 examples/sec; 0.025 sec/batch)
+2024-09-08 23:09:10.514893: step [70,   300/1500], acc=100.0000, loss = 0.047 (999.6 examples/sec; 0.040 sec/batch)
+2024-09-08 23:09:51.429532: step [70,   400/1500], acc=97.5000, loss = 0.062 (1621.3 examples/sec; 0.025 sec/batch)
+2024-09-08 23:10:32.443404: step [70,   500/1500], acc=100.0000, loss = 0.060 (1640.9 examples/sec; 0.024 sec/batch)
+2024-09-08 23:11:13.645140: step [70,   600/1500], acc=100.0000, loss = 0.056 (1621.5 examples/sec; 0.025 sec/batch)
+2024-09-08 23:11:54.966265: step [70,   700/1500], acc=97.5000, loss = 0.052 (1613.4 examples/sec; 0.025 sec/batch)
+2024-09-08 23:12:35.982516: step [70,   800/1500], acc=97.5000, loss = 0.047 (1552.0 examples/sec; 0.026 sec/batch)
+2024-09-08 23:13:17.451842: step [70,   900/1500], acc=100.0000, loss = 0.056 (1506.1 examples/sec; 0.027 sec/batch)
+2024-09-08 23:13:58.686449: step [70,  1000/1500], acc=100.0000, loss = 0.052 (1627.7 examples/sec; 0.025 sec/batch)
+2024-09-08 23:14:40.028752: step [70,  1100/1500], acc=97.5000, loss = 0.053 (894.2 examples/sec; 0.045 sec/batch)
+2024-09-08 23:15:21.396248: step [70,  1200/1500], acc=100.0000, loss = 0.054 (1587.8 examples/sec; 0.025 sec/batch)
+2024-09-08 23:16:03.721698: step [70,  1300/1500], acc=97.5000, loss = 0.049 (1335.0 examples/sec; 0.030 sec/batch)
+2024-09-08 23:16:47.047375: step [70,  1400/1500], acc=100.0000, loss = 0.057 (1611.0 examples/sec; 0.025 sec/batch)
+2024-09-08 23:17:33.178327: step [70,  1500/1500], acc=100.0000, loss = 0.057 (1707.5 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 23:18:19.876455, epoch: 70, acc_TOP1: 98.5200, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.023359, avg_FPS:42.810
+SGD	0.0001
+2024-09-08 23:19:27.456118: step [71,   100/1500], acc=100.0000, loss = 0.055 (1504.6 examples/sec; 0.027 sec/batch)
+2024-09-08 23:20:11.230595: step [71,   200/1500], acc=97.5000, loss = 0.059 (1593.3 examples/sec; 0.025 sec/batch)
+2024-09-08 23:20:54.844973: step [71,   300/1500], acc=95.0000, loss = 0.048 (1524.7 examples/sec; 0.026 sec/batch)
+2024-09-08 23:21:38.634096: step [71,   400/1500], acc=100.0000, loss = 0.060 (1570.3 examples/sec; 0.025 sec/batch)
+2024-09-08 23:22:23.426731: step [71,   500/1500], acc=100.0000, loss = 0.047 (1623.0 examples/sec; 0.025 sec/batch)
+2024-09-08 23:23:10.671608: step [71,   600/1500], acc=97.5000, loss = 0.055 (1497.2 examples/sec; 0.027 sec/batch)
+2024-09-08 23:23:58.759884: step [71,   700/1500], acc=95.0000, loss = 0.055 (1605.4 examples/sec; 0.025 sec/batch)
+2024-09-08 23:24:47.984359: step [71,   800/1500], acc=100.0000, loss = 0.051 (1554.3 examples/sec; 0.026 sec/batch)
+2024-09-08 23:25:38.323518: step [71,   900/1500], acc=95.0000, loss = 0.046 (1468.4 examples/sec; 0.027 sec/batch)
+2024-09-08 23:26:29.054872: step [71,  1000/1500], acc=97.5000, loss = 0.052 (1640.6 examples/sec; 0.024 sec/batch)
+2024-09-08 23:27:20.339634: step [71,  1100/1500], acc=100.0000, loss = 0.048 (1537.8 examples/sec; 0.026 sec/batch)
+2024-09-08 23:28:11.943342: step [71,  1200/1500], acc=97.5000, loss = 0.060 (1539.3 examples/sec; 0.026 sec/batch)
+2024-09-08 23:29:02.349277: step [71,  1300/1500], acc=100.0000, loss = 0.047 (1079.8 examples/sec; 0.037 sec/batch)
+2024-09-08 23:29:49.455447: step [71,  1400/1500], acc=100.0000, loss = 0.055 (1218.1 examples/sec; 0.033 sec/batch)
+2024-09-08 23:30:37.267690: step [71,  1500/1500], acc=100.0000, loss = 0.058 (1651.0 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 23:31:24.559586, epoch: 71, acc_TOP1: 98.5000, acc_TOP5: 99.9900, loss_test: 0.045, avg_time: 0.025218, avg_FPS:39.654
+SGD	0.0001
+2024-09-08 23:32:35.549466: step [72,   100/1500], acc=95.0000, loss = 0.059 (1508.3 examples/sec; 0.027 sec/batch)
+2024-09-08 23:33:25.161672: step [72,   200/1500], acc=97.5000, loss = 0.053 (1475.4 examples/sec; 0.027 sec/batch)
+2024-09-08 23:34:16.182650: step [72,   300/1500], acc=100.0000, loss = 0.047 (1306.0 examples/sec; 0.031 sec/batch)
+2024-09-08 23:35:08.051245: step [72,   400/1500], acc=100.0000, loss = 0.048 (1246.2 examples/sec; 0.032 sec/batch)
+2024-09-08 23:35:59.664103: step [72,   500/1500], acc=97.5000, loss = 0.052 (1514.0 examples/sec; 0.026 sec/batch)
+2024-09-08 23:36:52.085568: step [72,   600/1500], acc=97.5000, loss = 0.062 (1481.9 examples/sec; 0.027 sec/batch)
+2024-09-08 23:37:44.787493: step [72,   700/1500], acc=95.0000, loss = 0.053 (1171.5 examples/sec; 0.034 sec/batch)
+2024-09-08 23:38:36.879749: step [72,   800/1500], acc=97.5000, loss = 0.049 (1531.2 examples/sec; 0.026 sec/batch)
+2024-09-08 23:39:28.797780: step [72,   900/1500], acc=100.0000, loss = 0.053 (1419.6 examples/sec; 0.028 sec/batch)
+2024-09-08 23:40:19.113289: step [72,  1000/1500], acc=100.0000, loss = 0.059 (1616.6 examples/sec; 0.025 sec/batch)
+2024-09-08 23:41:06.219296: step [72,  1100/1500], acc=100.0000, loss = 0.061 (1593.3 examples/sec; 0.025 sec/batch)
+2024-09-08 23:41:51.523207: step [72,  1200/1500], acc=90.0000, loss = 0.062 (1552.2 examples/sec; 0.026 sec/batch)
+2024-09-08 23:42:36.148173: step [72,  1300/1500], acc=100.0000, loss = 0.049 (1613.2 examples/sec; 0.025 sec/batch)
+2024-09-08 23:43:19.683788: step [72,  1400/1500], acc=97.5000, loss = 0.059 (1619.3 examples/sec; 0.025 sec/batch)
+2024-09-08 23:44:02.831990: step [72,  1500/1500], acc=100.0000, loss = 0.049 (1723.0 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 23:44:46.203673, epoch: 72, acc_TOP1: 98.4800, acc_TOP5: 99.9900, loss_test: 0.044, avg_time: 0.023183, avg_FPS:43.135
+SGD	0.0001
+2024-09-08 23:45:50.067417: step [73,   100/1500], acc=97.5000, loss = 0.043 (1617.6 examples/sec; 0.025 sec/batch)
+2024-09-08 23:46:31.638654: step [73,   200/1500], acc=100.0000, loss = 0.056 (1585.7 examples/sec; 0.025 sec/batch)
+2024-09-08 23:47:13.280355: step [73,   300/1500], acc=97.5000, loss = 0.054 (1606.1 examples/sec; 0.025 sec/batch)
+2024-09-08 23:47:55.080429: step [73,   400/1500], acc=97.5000, loss = 0.054 (1525.3 examples/sec; 0.026 sec/batch)
+2024-09-08 23:48:37.054315: step [73,   500/1500], acc=100.0000, loss = 0.054 (1653.7 examples/sec; 0.024 sec/batch)
+2024-09-08 23:49:18.663520: step [73,   600/1500], acc=97.5000, loss = 0.047 (1634.7 examples/sec; 0.024 sec/batch)
+2024-09-08 23:50:00.560719: step [73,   700/1500], acc=100.0000, loss = 0.050 (1649.2 examples/sec; 0.024 sec/batch)
+2024-09-08 23:50:42.139106: step [73,   800/1500], acc=100.0000, loss = 0.049 (901.2 examples/sec; 0.044 sec/batch)
+2024-09-08 23:51:23.516310: step [73,   900/1500], acc=97.5000, loss = 0.060 (1614.0 examples/sec; 0.025 sec/batch)
+2024-09-08 23:52:05.297189: step [73,  1000/1500], acc=100.0000, loss = 0.064 (1581.7 examples/sec; 0.025 sec/batch)
+2024-09-08 23:52:46.656951: step [73,  1100/1500], acc=100.0000, loss = 0.057 (1600.7 examples/sec; 0.025 sec/batch)
+2024-09-08 23:53:28.121784: step [73,  1200/1500], acc=100.0000, loss = 0.048 (1569.9 examples/sec; 0.025 sec/batch)
+2024-09-08 23:54:09.865894: step [73,  1300/1500], acc=100.0000, loss = 0.061 (1565.1 examples/sec; 0.026 sec/batch)
+2024-09-08 23:54:51.614199: step [73,  1400/1500], acc=97.5000, loss = 0.056 (1581.4 examples/sec; 0.025 sec/batch)
+2024-09-08 23:55:33.173374: step [73,  1500/1500], acc=97.5000, loss = 0.053 (1730.5 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-08 23:56:14.843362, epoch: 73, acc_TOP1: 98.5300, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.022972, avg_FPS:43.532
+SGD	0.0001
+2024-09-08 23:57:17.932782: step [74,   100/1500], acc=95.0000, loss = 0.050 (1626.2 examples/sec; 0.025 sec/batch)
+2024-09-08 23:57:58.954209: step [74,   200/1500], acc=100.0000, loss = 0.055 (1615.9 examples/sec; 0.025 sec/batch)
+2024-09-08 23:58:40.275358: step [74,   300/1500], acc=95.0000, loss = 0.049 (1619.0 examples/sec; 0.025 sec/batch)
+2024-09-08 23:59:21.224280: step [74,   400/1500], acc=95.0000, loss = 0.050 (1633.7 examples/sec; 0.024 sec/batch)
+2024-09-09 00:00:02.284132: step [74,   500/1500], acc=97.5000, loss = 0.062 (1570.3 examples/sec; 0.025 sec/batch)
+2024-09-09 00:00:43.412536: step [74,   600/1500], acc=100.0000, loss = 0.051 (1601.3 examples/sec; 0.025 sec/batch)
+2024-09-09 00:01:24.608595: step [74,   700/1500], acc=97.5000, loss = 0.052 (1640.3 examples/sec; 0.024 sec/batch)
+2024-09-09 00:02:05.970178: step [74,   800/1500], acc=100.0000, loss = 0.053 (1597.4 examples/sec; 0.025 sec/batch)
+2024-09-09 00:02:47.178216: step [74,   900/1500], acc=95.0000, loss = 0.059 (1639.2 examples/sec; 0.024 sec/batch)
+2024-09-09 00:03:28.452093: step [74,  1000/1500], acc=97.5000, loss = 0.044 (1589.7 examples/sec; 0.025 sec/batch)
+2024-09-09 00:04:10.041578: step [74,  1100/1500], acc=97.5000, loss = 0.051 (1635.0 examples/sec; 0.024 sec/batch)
+2024-09-09 00:04:51.454453: step [74,  1200/1500], acc=100.0000, loss = 0.058 (1560.8 examples/sec; 0.026 sec/batch)
+2024-09-09 00:05:32.812698: step [74,  1300/1500], acc=100.0000, loss = 0.060 (1664.8 examples/sec; 0.024 sec/batch)
+2024-09-09 00:06:13.995848: step [74,  1400/1500], acc=100.0000, loss = 0.060 (1620.0 examples/sec; 0.025 sec/batch)
+2024-09-09 00:06:55.330350: step [74,  1500/1500], acc=97.5000, loss = 0.053 (1718.0 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 00:07:37.216339, epoch: 74, acc_TOP1: 98.5700, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.022909, avg_FPS:43.651
+SGD	0.0001
+2024-09-09 00:08:40.149875: step [75,   100/1500], acc=100.0000, loss = 0.053 (1585.2 examples/sec; 0.025 sec/batch)
+2024-09-09 00:09:21.381874: step [75,   200/1500], acc=100.0000, loss = 0.052 (1629.8 examples/sec; 0.025 sec/batch)
+2024-09-09 00:10:02.576210: step [75,   300/1500], acc=97.5000, loss = 0.053 (1627.2 examples/sec; 0.025 sec/batch)
+2024-09-09 00:10:44.342539: step [75,   400/1500], acc=100.0000, loss = 0.053 (1608.6 examples/sec; 0.025 sec/batch)
+2024-09-09 00:11:25.732167: step [75,   500/1500], acc=97.5000, loss = 0.062 (1668.2 examples/sec; 0.024 sec/batch)
+2024-09-09 00:12:07.112665: step [75,   600/1500], acc=100.0000, loss = 0.046 (1650.1 examples/sec; 0.024 sec/batch)
+2024-09-09 00:12:48.808715: step [75,   700/1500], acc=100.0000, loss = 0.056 (1597.2 examples/sec; 0.025 sec/batch)
+2024-09-09 00:13:30.391738: step [75,   800/1500], acc=97.5000, loss = 0.053 (1626.8 examples/sec; 0.025 sec/batch)
+2024-09-09 00:14:12.032474: step [75,   900/1500], acc=100.0000, loss = 0.052 (1612.7 examples/sec; 0.025 sec/batch)
+2024-09-09 00:14:53.794682: step [75,  1000/1500], acc=97.5000, loss = 0.067 (1652.5 examples/sec; 0.024 sec/batch)
+2024-09-09 00:15:35.240231: step [75,  1100/1500], acc=100.0000, loss = 0.043 (1551.1 examples/sec; 0.026 sec/batch)
+2024-09-09 00:16:16.777504: step [75,  1200/1500], acc=97.5000, loss = 0.055 (1615.3 examples/sec; 0.025 sec/batch)
+2024-09-09 00:16:58.496633: step [75,  1300/1500], acc=100.0000, loss = 0.056 (1597.8 examples/sec; 0.025 sec/batch)
+2024-09-09 00:17:39.852471: step [75,  1400/1500], acc=95.0000, loss = 0.052 (1573.4 examples/sec; 0.025 sec/batch)
+2024-09-09 00:18:21.401472: step [75,  1500/1500], acc=100.0000, loss = 0.050 (1712.7 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 00:19:04.320128, epoch: 75, acc_TOP1: 98.4900, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.022951, avg_FPS:43.571
+SGD	0.0001
+2024-09-09 00:20:06.987563: step [76,   100/1500], acc=95.0000, loss = 0.056 (1605.3 examples/sec; 0.025 sec/batch)
+2024-09-09 00:20:48.322685: step [76,   200/1500], acc=100.0000, loss = 0.052 (1618.7 examples/sec; 0.025 sec/batch)
+2024-09-09 00:21:29.613158: step [76,   300/1500], acc=100.0000, loss = 0.051 (1673.6 examples/sec; 0.024 sec/batch)
+2024-09-09 00:22:10.958128: step [76,   400/1500], acc=97.5000, loss = 0.058 (1591.5 examples/sec; 0.025 sec/batch)
+2024-09-09 00:22:52.457180: step [76,   500/1500], acc=100.0000, loss = 0.050 (1663.0 examples/sec; 0.024 sec/batch)
+2024-09-09 00:23:34.175871: step [76,   600/1500], acc=95.0000, loss = 0.059 (1630.2 examples/sec; 0.025 sec/batch)
+2024-09-09 00:24:15.413830: step [76,   700/1500], acc=97.5000, loss = 0.053 (1628.8 examples/sec; 0.025 sec/batch)
+2024-09-09 00:24:56.979089: step [76,   800/1500], acc=100.0000, loss = 0.054 (1575.4 examples/sec; 0.025 sec/batch)
+2024-09-09 00:25:38.329154: step [76,   900/1500], acc=100.0000, loss = 0.052 (1660.7 examples/sec; 0.024 sec/batch)
+2024-09-09 00:26:19.452365: step [76,  1000/1500], acc=95.0000, loss = 0.061 (1609.4 examples/sec; 0.025 sec/batch)
+2024-09-09 00:27:00.811495: step [76,  1100/1500], acc=100.0000, loss = 0.051 (1657.4 examples/sec; 0.024 sec/batch)
+2024-09-09 00:27:41.975006: step [76,  1200/1500], acc=95.0000, loss = 0.058 (1614.2 examples/sec; 0.025 sec/batch)
+2024-09-09 00:28:23.392645: step [76,  1300/1500], acc=100.0000, loss = 0.061 (1473.9 examples/sec; 0.027 sec/batch)
+2024-09-09 00:29:05.110097: step [76,  1400/1500], acc=97.5000, loss = 0.051 (1608.2 examples/sec; 0.025 sec/batch)
+2024-09-09 00:29:46.276393: step [76,  1500/1500], acc=100.0000, loss = 0.050 (1714.3 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 00:30:27.941892, epoch: 76, acc_TOP1: 98.6000, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.024316, avg_FPS:41.125
+SGD	0.0001
+2024-09-09 00:31:31.149426: step [77,   100/1500], acc=100.0000, loss = 0.052 (1240.1 examples/sec; 0.032 sec/batch)
+2024-09-09 00:32:12.072697: step [77,   200/1500], acc=97.5000, loss = 0.052 (1616.4 examples/sec; 0.025 sec/batch)
+2024-09-09 00:32:53.468812: step [77,   300/1500], acc=100.0000, loss = 0.049 (1596.8 examples/sec; 0.025 sec/batch)
+2024-09-09 00:33:34.458081: step [77,   400/1500], acc=95.0000, loss = 0.060 (1643.2 examples/sec; 0.024 sec/batch)
+2024-09-09 00:34:15.611791: step [77,   500/1500], acc=100.0000, loss = 0.055 (1612.3 examples/sec; 0.025 sec/batch)
+2024-09-09 00:34:56.800201: step [77,   600/1500], acc=97.5000, loss = 0.065 (1601.3 examples/sec; 0.025 sec/batch)
+2024-09-09 00:35:38.136883: step [77,   700/1500], acc=100.0000, loss = 0.048 (1628.5 examples/sec; 0.025 sec/batch)
+2024-09-09 00:36:19.490382: step [77,   800/1500], acc=97.5000, loss = 0.051 (1567.9 examples/sec; 0.026 sec/batch)
+2024-09-09 00:37:01.073218: step [77,   900/1500], acc=97.5000, loss = 0.059 (1636.5 examples/sec; 0.024 sec/batch)
+2024-09-09 00:37:42.646126: step [77,  1000/1500], acc=100.0000, loss = 0.043 (1585.0 examples/sec; 0.025 sec/batch)
+2024-09-09 00:38:24.223559: step [77,  1100/1500], acc=100.0000, loss = 0.065 (1677.4 examples/sec; 0.024 sec/batch)
+2024-09-09 00:39:05.598080: step [77,  1200/1500], acc=97.5000, loss = 0.049 (1578.2 examples/sec; 0.025 sec/batch)
+2024-09-09 00:39:46.866941: step [77,  1300/1500], acc=97.5000, loss = 0.057 (1589.6 examples/sec; 0.025 sec/batch)
+2024-09-09 00:40:28.094486: step [77,  1400/1500], acc=100.0000, loss = 0.055 (1588.6 examples/sec; 0.025 sec/batch)
+2024-09-09 00:41:09.535389: step [77,  1500/1500], acc=97.5000, loss = 0.057 (1738.4 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 00:41:51.186996, epoch: 77, acc_TOP1: 98.6200, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.023091, avg_FPS:43.308
+SGD	0.0001
+2024-09-09 00:42:54.935514: step [78,   100/1500], acc=95.0000, loss = 0.061 (1621.7 examples/sec; 0.025 sec/batch)
+2024-09-09 00:43:35.940828: step [78,   200/1500], acc=100.0000, loss = 0.061 (1567.6 examples/sec; 0.026 sec/batch)
+2024-09-09 00:44:17.114049: step [78,   300/1500], acc=100.0000, loss = 0.052 (1622.1 examples/sec; 0.025 sec/batch)
+2024-09-09 00:44:58.296002: step [78,   400/1500], acc=100.0000, loss = 0.044 (1628.2 examples/sec; 0.025 sec/batch)
+2024-09-09 00:45:39.449804: step [78,   500/1500], acc=100.0000, loss = 0.054 (1639.1 examples/sec; 0.024 sec/batch)
+2024-09-09 00:46:20.851421: step [78,   600/1500], acc=100.0000, loss = 0.053 (1594.8 examples/sec; 0.025 sec/batch)
+2024-09-09 00:47:02.619091: step [78,   700/1500], acc=97.5000, loss = 0.053 (1652.5 examples/sec; 0.024 sec/batch)
+2024-09-09 00:47:44.162610: step [78,   800/1500], acc=100.0000, loss = 0.054 (1604.2 examples/sec; 0.025 sec/batch)
+2024-09-09 00:48:25.755494: step [78,   900/1500], acc=100.0000, loss = 0.059 (1643.2 examples/sec; 0.024 sec/batch)
+2024-09-09 00:49:07.182305: step [78,  1000/1500], acc=97.5000, loss = 0.051 (1649.0 examples/sec; 0.024 sec/batch)
+2024-09-09 00:49:48.885445: step [78,  1100/1500], acc=100.0000, loss = 0.049 (1597.6 examples/sec; 0.025 sec/batch)
+2024-09-09 00:50:30.092035: step [78,  1200/1500], acc=92.5000, loss = 0.059 (1630.8 examples/sec; 0.025 sec/batch)
+2024-09-09 00:51:11.838435: step [78,  1300/1500], acc=97.5000, loss = 0.057 (1650.2 examples/sec; 0.024 sec/batch)
+2024-09-09 00:51:53.448290: step [78,  1400/1500], acc=97.5000, loss = 0.052 (1636.7 examples/sec; 0.024 sec/batch)
+2024-09-09 00:52:35.031367: step [78,  1500/1500], acc=97.5000, loss = 0.061 (1700.7 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 00:53:17.251559, epoch: 78, acc_TOP1: 98.5900, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.023054, avg_FPS:43.376
+SGD	0.0001
+2024-09-09 00:54:20.173063: step [79,   100/1500], acc=100.0000, loss = 0.054 (1637.9 examples/sec; 0.024 sec/batch)
+2024-09-09 00:55:01.616790: step [79,   200/1500], acc=100.0000, loss = 0.055 (1643.1 examples/sec; 0.024 sec/batch)
+2024-09-09 00:55:42.760499: step [79,   300/1500], acc=97.5000, loss = 0.049 (1619.0 examples/sec; 0.025 sec/batch)
+2024-09-09 00:56:24.239799: step [79,   400/1500], acc=97.5000, loss = 0.061 (1552.9 examples/sec; 0.026 sec/batch)
+2024-09-09 00:57:06.022457: step [79,   500/1500], acc=97.5000, loss = 0.060 (1600.5 examples/sec; 0.025 sec/batch)
+2024-09-09 00:57:47.723638: step [79,   600/1500], acc=97.5000, loss = 0.051 (1617.8 examples/sec; 0.025 sec/batch)
+2024-09-09 00:58:29.554272: step [79,   700/1500], acc=97.5000, loss = 0.050 (1657.4 examples/sec; 0.024 sec/batch)
+2024-09-09 00:59:11.094776: step [79,   800/1500], acc=100.0000, loss = 0.054 (1622.9 examples/sec; 0.025 sec/batch)
+2024-09-09 00:59:52.648273: step [79,   900/1500], acc=100.0000, loss = 0.054 (1596.1 examples/sec; 0.025 sec/batch)
+2024-09-09 01:00:34.626748: step [79,  1000/1500], acc=100.0000, loss = 0.051 (1657.7 examples/sec; 0.024 sec/batch)
+2024-09-09 01:01:16.641588: step [79,  1100/1500], acc=100.0000, loss = 0.056 (1627.6 examples/sec; 0.025 sec/batch)
+2024-09-09 01:01:58.625511: step [79,  1200/1500], acc=97.5000, loss = 0.068 (1622.9 examples/sec; 0.025 sec/batch)
+2024-09-09 01:02:40.348016: step [79,  1300/1500], acc=100.0000, loss = 0.053 (1586.0 examples/sec; 0.025 sec/batch)
+2024-09-09 01:03:22.051299: step [79,  1400/1500], acc=100.0000, loss = 0.056 (1569.8 examples/sec; 0.025 sec/batch)
+2024-09-09 01:04:03.762544: step [79,  1500/1500], acc=100.0000, loss = 0.050 (1703.1 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 01:04:45.386416, epoch: 79, acc_TOP1: 98.5300, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.023012, avg_FPS:43.456
+SGD	1e-05
+2024-09-09 01:05:48.289873: step [80,   100/1500], acc=95.0000, loss = 0.047 (1635.3 examples/sec; 0.024 sec/batch)
+2024-09-09 01:06:29.317836: step [80,   200/1500], acc=97.5000, loss = 0.060 (1586.5 examples/sec; 0.025 sec/batch)
+2024-09-09 01:07:10.399784: step [80,   300/1500], acc=100.0000, loss = 0.049 (1617.8 examples/sec; 0.025 sec/batch)
+2024-09-09 01:07:51.786689: step [80,   400/1500], acc=95.0000, loss = 0.062 (1642.6 examples/sec; 0.024 sec/batch)
+2024-09-09 01:08:33.455680: step [80,   500/1500], acc=100.0000, loss = 0.047 (1642.3 examples/sec; 0.024 sec/batch)
+2024-09-09 01:09:14.850854: step [80,   600/1500], acc=100.0000, loss = 0.051 (1596.2 examples/sec; 0.025 sec/batch)
+2024-09-09 01:09:56.199253: step [80,   700/1500], acc=97.5000, loss = 0.044 (1637.2 examples/sec; 0.024 sec/batch)
+2024-09-09 01:10:37.570587: step [80,   800/1500], acc=100.0000, loss = 0.049 (1648.6 examples/sec; 0.024 sec/batch)
+2024-09-09 01:11:19.170367: step [80,   900/1500], acc=97.5000, loss = 0.054 (1638.9 examples/sec; 0.024 sec/batch)
+2024-09-09 01:12:00.885617: step [80,  1000/1500], acc=100.0000, loss = 0.067 (1463.5 examples/sec; 0.027 sec/batch)
+2024-09-09 01:12:42.491198: step [80,  1100/1500], acc=100.0000, loss = 0.048 (878.4 examples/sec; 0.046 sec/batch)
+2024-09-09 01:13:23.639783: step [80,  1200/1500], acc=100.0000, loss = 0.060 (1595.1 examples/sec; 0.025 sec/batch)
+2024-09-09 01:14:04.866770: step [80,  1300/1500], acc=100.0000, loss = 0.049 (1623.6 examples/sec; 0.025 sec/batch)
+2024-09-09 01:14:46.368349: step [80,  1400/1500], acc=97.5000, loss = 0.058 (1652.8 examples/sec; 0.024 sec/batch)
+2024-09-09 01:15:27.557135: step [80,  1500/1500], acc=97.5000, loss = 0.045 (1672.2 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 01:16:09.713513, epoch: 80, acc_TOP1: 98.5100, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.022987, avg_FPS:43.503
+SGD	1e-05
+2024-09-09 01:17:12.961312: step [81,   100/1500], acc=97.5000, loss = 0.051 (1602.8 examples/sec; 0.025 sec/batch)
+2024-09-09 01:17:53.772556: step [81,   200/1500], acc=100.0000, loss = 0.048 (1586.7 examples/sec; 0.025 sec/batch)
+2024-09-09 01:18:34.988549: step [81,   300/1500], acc=95.0000, loss = 0.051 (1644.5 examples/sec; 0.024 sec/batch)
+2024-09-09 01:19:16.524086: step [81,   400/1500], acc=100.0000, loss = 0.043 (873.9 examples/sec; 0.046 sec/batch)
+2024-09-09 01:19:57.725217: step [81,   500/1500], acc=97.5000, loss = 0.050 (1568.4 examples/sec; 0.026 sec/batch)
+2024-09-09 01:20:39.229563: step [81,   600/1500], acc=100.0000, loss = 0.053 (1636.3 examples/sec; 0.024 sec/batch)
+2024-09-09 01:21:20.618656: step [81,   700/1500], acc=100.0000, loss = 0.059 (1626.1 examples/sec; 0.025 sec/batch)
+2024-09-09 01:22:02.258225: step [81,   800/1500], acc=100.0000, loss = 0.057 (1643.0 examples/sec; 0.024 sec/batch)
+2024-09-09 01:22:43.790426: step [81,   900/1500], acc=97.5000, loss = 0.051 (1605.2 examples/sec; 0.025 sec/batch)
+2024-09-09 01:23:25.552731: step [81,  1000/1500], acc=100.0000, loss = 0.050 (1101.7 examples/sec; 0.036 sec/batch)
+2024-09-09 01:24:07.180069: step [81,  1100/1500], acc=100.0000, loss = 0.053 (1612.3 examples/sec; 0.025 sec/batch)
+2024-09-09 01:24:48.706444: step [81,  1200/1500], acc=97.5000, loss = 0.052 (1613.6 examples/sec; 0.025 sec/batch)
+2024-09-09 01:25:30.346616: step [81,  1300/1500], acc=100.0000, loss = 0.049 (1616.1 examples/sec; 0.025 sec/batch)
+2024-09-09 01:26:12.063863: step [81,  1400/1500], acc=100.0000, loss = 0.052 (1584.6 examples/sec; 0.025 sec/batch)
+2024-09-09 01:26:53.389809: step [81,  1500/1500], acc=100.0000, loss = 0.052 (1718.0 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 01:27:35.742229, epoch: 81, acc_TOP1: 98.5600, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.023142, avg_FPS:43.212
+SGD	1e-05
+2024-09-09 01:28:38.650231: step [82,   100/1500], acc=97.5000, loss = 0.048 (1593.2 examples/sec; 0.025 sec/batch)
+2024-09-09 01:29:19.645141: step [82,   200/1500], acc=97.5000, loss = 0.037 (1622.1 examples/sec; 0.025 sec/batch)
+2024-09-09 01:30:00.704208: step [82,   300/1500], acc=100.0000, loss = 0.055 (1539.1 examples/sec; 0.026 sec/batch)
+2024-09-09 01:30:42.030218: step [82,   400/1500], acc=100.0000, loss = 0.051 (1654.7 examples/sec; 0.024 sec/batch)
+2024-09-09 01:31:23.381812: step [82,   500/1500], acc=100.0000, loss = 0.046 (1641.8 examples/sec; 0.024 sec/batch)
+2024-09-09 01:32:05.264793: step [82,   600/1500], acc=100.0000, loss = 0.050 (1603.9 examples/sec; 0.025 sec/batch)
+2024-09-09 01:32:46.532509: step [82,   700/1500], acc=97.5000, loss = 0.056 (1606.7 examples/sec; 0.025 sec/batch)
+2024-09-09 01:33:27.724852: step [82,   800/1500], acc=97.5000, loss = 0.050 (1599.5 examples/sec; 0.025 sec/batch)
+2024-09-09 01:34:08.985562: step [82,   900/1500], acc=100.0000, loss = 0.048 (1646.8 examples/sec; 0.024 sec/batch)
+2024-09-09 01:34:50.166228: step [82,  1000/1500], acc=100.0000, loss = 0.057 (1578.3 examples/sec; 0.025 sec/batch)
+2024-09-09 01:35:31.845737: step [82,  1100/1500], acc=100.0000, loss = 0.047 (1654.4 examples/sec; 0.024 sec/batch)
+2024-09-09 01:36:13.430249: step [82,  1200/1500], acc=100.0000, loss = 0.049 (1623.7 examples/sec; 0.025 sec/batch)
+2024-09-09 01:36:54.842711: step [82,  1300/1500], acc=100.0000, loss = 0.051 (1629.9 examples/sec; 0.025 sec/batch)
+2024-09-09 01:37:36.384771: step [82,  1400/1500], acc=95.0000, loss = 0.053 (1615.2 examples/sec; 0.025 sec/batch)
+2024-09-09 01:38:17.956480: step [82,  1500/1500], acc=100.0000, loss = 0.066 (1700.6 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 01:38:59.627644, epoch: 82, acc_TOP1: 98.5400, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.022845, avg_FPS:43.773
+SGD	1e-05
+2024-09-09 01:40:02.883026: step [83,   100/1500], acc=95.0000, loss = 0.055 (1553.5 examples/sec; 0.026 sec/batch)
+2024-09-09 01:40:44.070656: step [83,   200/1500], acc=100.0000, loss = 0.042 (1049.5 examples/sec; 0.038 sec/batch)
+2024-09-09 01:41:25.516469: step [83,   300/1500], acc=100.0000, loss = 0.040 (1513.5 examples/sec; 0.026 sec/batch)
+2024-09-09 01:42:06.896403: step [83,   400/1500], acc=100.0000, loss = 0.050 (1557.1 examples/sec; 0.026 sec/batch)
+2024-09-09 01:42:48.244248: step [83,   500/1500], acc=100.0000, loss = 0.060 (1371.4 examples/sec; 0.029 sec/batch)
+2024-09-09 01:43:29.404673: step [83,   600/1500], acc=97.5000, loss = 0.054 (1582.9 examples/sec; 0.025 sec/batch)
+2024-09-09 01:44:10.382471: step [83,   700/1500], acc=97.5000, loss = 0.049 (1196.9 examples/sec; 0.033 sec/batch)
+2024-09-09 01:44:51.544651: step [83,   800/1500], acc=100.0000, loss = 0.055 (1584.3 examples/sec; 0.025 sec/batch)
+2024-09-09 01:45:32.904709: step [83,   900/1500], acc=100.0000, loss = 0.059 (1619.8 examples/sec; 0.025 sec/batch)
+2024-09-09 01:46:13.852566: step [83,  1000/1500], acc=100.0000, loss = 0.054 (1581.1 examples/sec; 0.025 sec/batch)
+2024-09-09 01:46:54.948128: step [83,  1100/1500], acc=100.0000, loss = 0.055 (1623.7 examples/sec; 0.025 sec/batch)
+2024-09-09 01:47:35.988333: step [83,  1200/1500], acc=97.5000, loss = 0.056 (1592.9 examples/sec; 0.025 sec/batch)
+2024-09-09 01:48:17.328538: step [83,  1300/1500], acc=95.0000, loss = 0.052 (1621.3 examples/sec; 0.025 sec/batch)
+2024-09-09 01:48:58.739319: step [83,  1400/1500], acc=97.5000, loss = 0.049 (1619.0 examples/sec; 0.025 sec/batch)
+2024-09-09 01:49:40.457180: step [83,  1500/1500], acc=100.0000, loss = 0.053 (1695.2 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 01:50:22.150346, epoch: 83, acc_TOP1: 98.5500, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.022848, avg_FPS:43.767
+SGD	1e-05
+2024-09-09 01:51:24.883599: step [84,   100/1500], acc=100.0000, loss = 0.060 (1617.0 examples/sec; 0.025 sec/batch)
+2024-09-09 01:52:05.882828: step [84,   200/1500], acc=100.0000, loss = 0.050 (1623.0 examples/sec; 0.025 sec/batch)
+2024-09-09 01:52:47.055022: step [84,   300/1500], acc=100.0000, loss = 0.039 (1635.8 examples/sec; 0.024 sec/batch)
+2024-09-09 01:53:28.437473: step [84,   400/1500], acc=92.5000, loss = 0.054 (1596.5 examples/sec; 0.025 sec/batch)
+2024-09-09 01:54:09.612743: step [84,   500/1500], acc=100.0000, loss = 0.053 (1100.9 examples/sec; 0.036 sec/batch)
+2024-09-09 01:54:50.772553: step [84,   600/1500], acc=100.0000, loss = 0.050 (1640.2 examples/sec; 0.024 sec/batch)
+2024-09-09 01:55:32.180510: step [84,   700/1500], acc=100.0000, loss = 0.054 (1643.8 examples/sec; 0.024 sec/batch)
+2024-09-09 01:56:13.566208: step [84,   800/1500], acc=100.0000, loss = 0.053 (1635.2 examples/sec; 0.024 sec/batch)
+2024-09-09 01:56:55.252020: step [84,   900/1500], acc=95.0000, loss = 0.047 (1653.7 examples/sec; 0.024 sec/batch)
+2024-09-09 01:57:36.717134: step [84,  1000/1500], acc=97.5000, loss = 0.054 (1545.3 examples/sec; 0.026 sec/batch)
+2024-09-09 01:58:18.227743: step [84,  1100/1500], acc=97.5000, loss = 0.044 (1075.4 examples/sec; 0.037 sec/batch)
+2024-09-09 01:58:59.826495: step [84,  1200/1500], acc=97.5000, loss = 0.049 (924.3 examples/sec; 0.043 sec/batch)
+2024-09-09 01:59:40.966297: step [84,  1300/1500], acc=97.5000, loss = 0.052 (1585.4 examples/sec; 0.025 sec/batch)
+2024-09-09 02:00:22.091492: step [84,  1400/1500], acc=97.5000, loss = 0.054 (1648.5 examples/sec; 0.024 sec/batch)
+2024-09-09 02:01:03.115229: step [84,  1500/1500], acc=95.0000, loss = 0.048 (1682.0 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 02:01:44.491148, epoch: 84, acc_TOP1: 98.5500, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.022726, avg_FPS:44.003
+SGD	1e-05
+2024-09-09 02:02:47.840561: step [85,   100/1500], acc=100.0000, loss = 0.050 (1610.3 examples/sec; 0.025 sec/batch)
+2024-09-09 02:03:28.702973: step [85,   200/1500], acc=100.0000, loss = 0.052 (1550.8 examples/sec; 0.026 sec/batch)
+2024-09-09 02:04:09.790867: step [85,   300/1500], acc=100.0000, loss = 0.052 (1616.3 examples/sec; 0.025 sec/batch)
+2024-09-09 02:04:51.002358: step [85,   400/1500], acc=95.0000, loss = 0.046 (888.8 examples/sec; 0.045 sec/batch)
+2024-09-09 02:05:32.197784: step [85,   500/1500], acc=97.5000, loss = 0.041 (1631.5 examples/sec; 0.025 sec/batch)
+2024-09-09 02:06:13.354174: step [85,   600/1500], acc=100.0000, loss = 0.063 (1635.3 examples/sec; 0.024 sec/batch)
+2024-09-09 02:06:54.502064: step [85,   700/1500], acc=100.0000, loss = 0.053 (1617.3 examples/sec; 0.025 sec/batch)
+2024-09-09 02:07:35.596798: step [85,   800/1500], acc=97.5000, loss = 0.054 (1659.2 examples/sec; 0.024 sec/batch)
+2024-09-09 02:08:16.856905: step [85,   900/1500], acc=100.0000, loss = 0.060 (1602.6 examples/sec; 0.025 sec/batch)
+2024-09-09 02:08:57.811111: step [85,  1000/1500], acc=97.5000, loss = 0.044 (1671.6 examples/sec; 0.024 sec/batch)
+2024-09-09 02:09:38.897897: step [85,  1100/1500], acc=95.0000, loss = 0.049 (1584.2 examples/sec; 0.025 sec/batch)
+2024-09-09 02:10:20.193544: step [85,  1200/1500], acc=100.0000, loss = 0.046 (1647.0 examples/sec; 0.024 sec/batch)
+2024-09-09 02:11:01.721772: step [85,  1300/1500], acc=95.0000, loss = 0.056 (1566.7 examples/sec; 0.026 sec/batch)
+2024-09-09 02:11:42.679002: step [85,  1400/1500], acc=100.0000, loss = 0.044 (1611.6 examples/sec; 0.025 sec/batch)
+2024-09-09 02:12:23.592921: step [85,  1500/1500], acc=100.0000, loss = 0.049 (1665.7 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 02:13:04.829724, epoch: 85, acc_TOP1: 98.5600, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.022572, avg_FPS:44.303
+SGD	1e-05
+2024-09-09 02:14:07.506426: step [86,   100/1500], acc=100.0000, loss = 0.048 (1650.1 examples/sec; 0.024 sec/batch)
+2024-09-09 02:14:48.019373: step [86,   200/1500], acc=100.0000, loss = 0.052 (931.3 examples/sec; 0.043 sec/batch)
+2024-09-09 02:15:28.836390: step [86,   300/1500], acc=97.5000, loss = 0.041 (1618.1 examples/sec; 0.025 sec/batch)
+2024-09-09 02:16:09.976425: step [86,   400/1500], acc=100.0000, loss = 0.050 (1591.4 examples/sec; 0.025 sec/batch)
+2024-09-09 02:16:50.779921: step [86,   500/1500], acc=95.0000, loss = 0.048 (1596.6 examples/sec; 0.025 sec/batch)
+2024-09-09 02:17:31.997262: step [86,   600/1500], acc=97.5000, loss = 0.064 (1372.2 examples/sec; 0.029 sec/batch)
+2024-09-09 02:18:12.976353: step [86,   700/1500], acc=97.5000, loss = 0.049 (1604.6 examples/sec; 0.025 sec/batch)
+2024-09-09 02:18:53.787279: step [86,   800/1500], acc=100.0000, loss = 0.060 (1617.5 examples/sec; 0.025 sec/batch)
+2024-09-09 02:19:34.957718: step [86,   900/1500], acc=97.5000, loss = 0.056 (1594.9 examples/sec; 0.025 sec/batch)
+2024-09-09 02:20:16.100294: step [86,  1000/1500], acc=97.5000, loss = 0.054 (1613.4 examples/sec; 0.025 sec/batch)
+2024-09-09 02:20:57.095990: step [86,  1100/1500], acc=100.0000, loss = 0.060 (1633.0 examples/sec; 0.024 sec/batch)
+2024-09-09 02:21:38.255588: step [86,  1200/1500], acc=100.0000, loss = 0.050 (1650.1 examples/sec; 0.024 sec/batch)
+2024-09-09 02:22:19.279148: step [86,  1300/1500], acc=100.0000, loss = 0.044 (1048.6 examples/sec; 0.038 sec/batch)
+2024-09-09 02:23:00.430770: step [86,  1400/1500], acc=97.5000, loss = 0.045 (1653.1 examples/sec; 0.024 sec/batch)
+2024-09-09 02:23:41.545781: step [86,  1500/1500], acc=100.0000, loss = 0.048 (1708.3 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 02:24:23.380606, epoch: 86, acc_TOP1: 98.5500, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.022719, avg_FPS:44.017
+SGD	1e-05
+2024-09-09 02:25:26.172135: step [87,   100/1500], acc=95.0000, loss = 0.053 (1545.1 examples/sec; 0.026 sec/batch)
+2024-09-09 02:26:06.792389: step [87,   200/1500], acc=100.0000, loss = 0.051 (1623.7 examples/sec; 0.025 sec/batch)
+2024-09-09 02:26:47.926156: step [87,   300/1500], acc=100.0000, loss = 0.045 (1573.1 examples/sec; 0.025 sec/batch)
+2024-09-09 02:27:28.829103: step [87,   400/1500], acc=100.0000, loss = 0.060 (1609.5 examples/sec; 0.025 sec/batch)
+2024-09-09 02:28:09.838016: step [87,   500/1500], acc=100.0000, loss = 0.050 (1591.4 examples/sec; 0.025 sec/batch)
+2024-09-09 02:28:50.957762: step [87,   600/1500], acc=100.0000, loss = 0.046 (1608.9 examples/sec; 0.025 sec/batch)
+2024-09-09 02:29:31.959719: step [87,   700/1500], acc=97.5000, loss = 0.048 (1532.0 examples/sec; 0.026 sec/batch)
+2024-09-09 02:30:13.048929: step [87,   800/1500], acc=100.0000, loss = 0.050 (1628.3 examples/sec; 0.025 sec/batch)
+2024-09-09 02:30:53.910362: step [87,   900/1500], acc=100.0000, loss = 0.049 (1601.1 examples/sec; 0.025 sec/batch)
+2024-09-09 02:31:35.029917: step [87,  1000/1500], acc=97.5000, loss = 0.047 (1527.4 examples/sec; 0.026 sec/batch)
+2024-09-09 02:32:15.652484: step [87,  1100/1500], acc=100.0000, loss = 0.054 (1622.6 examples/sec; 0.025 sec/batch)
+2024-09-09 02:32:56.405312: step [87,  1200/1500], acc=97.5000, loss = 0.051 (1604.5 examples/sec; 0.025 sec/batch)
+2024-09-09 02:33:37.305469: step [87,  1300/1500], acc=97.5000, loss = 0.047 (1619.8 examples/sec; 0.025 sec/batch)
+2024-09-09 02:34:18.032537: step [87,  1400/1500], acc=100.0000, loss = 0.044 (1643.5 examples/sec; 0.024 sec/batch)
+2024-09-09 02:34:59.002960: step [87,  1500/1500], acc=97.5000, loss = 0.054 (1663.9 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 02:35:39.997485, epoch: 87, acc_TOP1: 98.5700, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.022724, avg_FPS:44.006
+SGD	1e-05
+2024-09-09 02:36:42.640377: step [88,   100/1500], acc=97.5000, loss = 0.050 (1579.2 examples/sec; 0.025 sec/batch)
+2024-09-09 02:37:23.541206: step [88,   200/1500], acc=95.0000, loss = 0.046 (1555.2 examples/sec; 0.026 sec/batch)
+2024-09-09 02:38:04.688226: step [88,   300/1500], acc=100.0000, loss = 0.054 (1608.9 examples/sec; 0.025 sec/batch)
+2024-09-09 02:38:45.728838: step [88,   400/1500], acc=100.0000, loss = 0.050 (1630.1 examples/sec; 0.025 sec/batch)
+2024-09-09 02:39:26.729966: step [88,   500/1500], acc=100.0000, loss = 0.051 (1697.4 examples/sec; 0.024 sec/batch)
+2024-09-09 02:40:07.608360: step [88,   600/1500], acc=95.0000, loss = 0.056 (1655.4 examples/sec; 0.024 sec/batch)
+2024-09-09 02:40:48.761647: step [88,   700/1500], acc=97.5000, loss = 0.038 (1630.2 examples/sec; 0.025 sec/batch)
+2024-09-09 02:41:29.786536: step [88,   800/1500], acc=97.5000, loss = 0.050 (1090.4 examples/sec; 0.037 sec/batch)
+2024-09-09 02:42:10.782291: step [88,   900/1500], acc=100.0000, loss = 0.051 (1552.3 examples/sec; 0.026 sec/batch)
+2024-09-09 02:42:51.459992: step [88,  1000/1500], acc=97.5000, loss = 0.052 (1642.0 examples/sec; 0.024 sec/batch)
+2024-09-09 02:43:32.438683: step [88,  1100/1500], acc=100.0000, loss = 0.046 (1594.1 examples/sec; 0.025 sec/batch)
+2024-09-09 02:44:13.338274: step [88,  1200/1500], acc=100.0000, loss = 0.054 (1613.8 examples/sec; 0.025 sec/batch)
+2024-09-09 02:44:54.286285: step [88,  1300/1500], acc=97.5000, loss = 0.061 (894.3 examples/sec; 0.045 sec/batch)
+2024-09-09 02:45:35.274009: step [88,  1400/1500], acc=97.5000, loss = 0.041 (1635.0 examples/sec; 0.024 sec/batch)
+2024-09-09 02:46:16.239491: step [88,  1500/1500], acc=100.0000, loss = 0.056 (1647.6 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 02:46:57.719450, epoch: 88, acc_TOP1: 98.5600, acc_TOP5: 99.9900, loss_test: 0.043, avg_time: 0.023301, avg_FPS:42.917
+SGD	1e-05
+2024-09-09 02:48:00.466919: step [89,   100/1500], acc=100.0000, loss = 0.052 (1649.5 examples/sec; 0.024 sec/batch)
+2024-09-09 02:48:40.941172: step [89,   200/1500], acc=100.0000, loss = 0.053 (1602.1 examples/sec; 0.025 sec/batch)
+2024-09-09 02:49:21.805903: step [89,   300/1500], acc=92.5000, loss = 0.053 (1587.1 examples/sec; 0.025 sec/batch)
+2024-09-09 02:50:02.777453: step [89,   400/1500], acc=100.0000, loss = 0.054 (1641.8 examples/sec; 0.024 sec/batch)
+2024-09-09 02:50:43.756567: step [89,   500/1500], acc=100.0000, loss = 0.051 (1629.6 examples/sec; 0.025 sec/batch)
+2024-09-09 02:51:24.702977: step [89,   600/1500], acc=97.5000, loss = 0.048 (1589.2 examples/sec; 0.025 sec/batch)
+2024-09-09 02:52:05.781791: step [89,   700/1500], acc=100.0000, loss = 0.049 (1582.6 examples/sec; 0.025 sec/batch)
+2024-09-09 02:52:46.658338: step [89,   800/1500], acc=100.0000, loss = 0.047 (1089.7 examples/sec; 0.037 sec/batch)
+2024-09-09 02:53:27.499000: step [89,   900/1500], acc=100.0000, loss = 0.043 (1572.4 examples/sec; 0.025 sec/batch)
+2024-09-09 02:54:08.249590: step [89,  1000/1500], acc=97.5000, loss = 0.050 (1645.8 examples/sec; 0.024 sec/batch)
+2024-09-09 02:54:49.164176: step [89,  1100/1500], acc=100.0000, loss = 0.056 (1655.7 examples/sec; 0.024 sec/batch)
+2024-09-09 02:55:29.975307: step [89,  1200/1500], acc=97.5000, loss = 0.052 (1642.6 examples/sec; 0.024 sec/batch)
+2024-09-09 02:56:10.791975: step [89,  1300/1500], acc=100.0000, loss = 0.056 (1632.9 examples/sec; 0.024 sec/batch)
+2024-09-09 02:56:51.692619: step [89,  1400/1500], acc=100.0000, loss = 0.045 (1624.5 examples/sec; 0.025 sec/batch)
+2024-09-09 02:57:32.544880: step [89,  1500/1500], acc=97.5000, loss = 0.051 (1670.8 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 02:58:14.109858, epoch: 89, acc_TOP1: 98.5700, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.023121, avg_FPS:43.251
+SGD	1e-05
+2024-09-09 02:59:17.050604: step [90,   100/1500], acc=100.0000, loss = 0.060 (1619.4 examples/sec; 0.025 sec/batch)
+2024-09-09 02:59:57.730845: step [90,   200/1500], acc=97.5000, loss = 0.046 (1567.7 examples/sec; 0.026 sec/batch)
+2024-09-09 03:00:38.681196: step [90,   300/1500], acc=100.0000, loss = 0.044 (1544.7 examples/sec; 0.026 sec/batch)
+2024-09-09 03:01:19.504474: step [90,   400/1500], acc=97.5000, loss = 0.052 (1068.7 examples/sec; 0.037 sec/batch)
+2024-09-09 03:02:00.550365: step [90,   500/1500], acc=100.0000, loss = 0.046 (1590.3 examples/sec; 0.025 sec/batch)
+2024-09-09 03:02:41.522896: step [90,   600/1500], acc=100.0000, loss = 0.050 (1609.6 examples/sec; 0.025 sec/batch)
+2024-09-09 03:03:22.477043: step [90,   700/1500], acc=100.0000, loss = 0.050 (1477.1 examples/sec; 0.027 sec/batch)
+2024-09-09 03:04:03.479556: step [90,   800/1500], acc=100.0000, loss = 0.044 (1597.7 examples/sec; 0.025 sec/batch)
+2024-09-09 03:04:44.458132: step [90,   900/1500], acc=100.0000, loss = 0.059 (1602.2 examples/sec; 0.025 sec/batch)
+2024-09-09 03:05:25.302470: step [90,  1000/1500], acc=100.0000, loss = 0.057 (1534.4 examples/sec; 0.026 sec/batch)
+2024-09-09 03:06:06.395815: step [90,  1100/1500], acc=100.0000, loss = 0.048 (1618.4 examples/sec; 0.025 sec/batch)
+2024-09-09 03:06:47.382504: step [90,  1200/1500], acc=97.5000, loss = 0.050 (1593.1 examples/sec; 0.025 sec/batch)
+2024-09-09 03:07:28.076861: step [90,  1300/1500], acc=100.0000, loss = 0.054 (1581.5 examples/sec; 0.025 sec/batch)
+2024-09-09 03:08:09.055687: step [90,  1400/1500], acc=100.0000, loss = 0.047 (1612.4 examples/sec; 0.025 sec/batch)
+2024-09-09 03:08:50.027604: step [90,  1500/1500], acc=95.0000, loss = 0.059 (1683.0 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 03:09:31.535421, epoch: 90, acc_TOP1: 98.5700, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.023294, avg_FPS:42.929
+SGD	1e-05
+2024-09-09 03:10:33.838405: step [91,   100/1500], acc=100.0000, loss = 0.057 (1605.0 examples/sec; 0.025 sec/batch)
+2024-09-09 03:11:14.416788: step [91,   200/1500], acc=100.0000, loss = 0.059 (1676.4 examples/sec; 0.024 sec/batch)
+2024-09-09 03:11:54.952054: step [91,   300/1500], acc=100.0000, loss = 0.050 (1642.9 examples/sec; 0.024 sec/batch)
+2024-09-09 03:12:35.619530: step [91,   400/1500], acc=100.0000, loss = 0.054 (1566.9 examples/sec; 0.026 sec/batch)
+2024-09-09 03:13:16.501681: step [91,   500/1500], acc=97.5000, loss = 0.046 (1643.7 examples/sec; 0.024 sec/batch)
+2024-09-09 03:13:57.599876: step [91,   600/1500], acc=100.0000, loss = 0.052 (1617.3 examples/sec; 0.025 sec/batch)
+2024-09-09 03:14:38.447952: step [91,   700/1500], acc=97.5000, loss = 0.043 (1585.8 examples/sec; 0.025 sec/batch)
+2024-09-09 03:15:19.502445: step [91,   800/1500], acc=100.0000, loss = 0.053 (1615.1 examples/sec; 0.025 sec/batch)
+2024-09-09 03:16:00.435916: step [91,   900/1500], acc=95.0000, loss = 0.046 (1572.1 examples/sec; 0.025 sec/batch)
+2024-09-09 03:16:41.393095: step [91,  1000/1500], acc=100.0000, loss = 0.047 (1600.2 examples/sec; 0.025 sec/batch)
+2024-09-09 03:17:22.212579: step [91,  1100/1500], acc=97.5000, loss = 0.044 (1631.2 examples/sec; 0.025 sec/batch)
+2024-09-09 03:18:02.996063: step [91,  1200/1500], acc=100.0000, loss = 0.055 (1597.2 examples/sec; 0.025 sec/batch)
+2024-09-09 03:18:44.020414: step [91,  1300/1500], acc=100.0000, loss = 0.045 (1577.0 examples/sec; 0.025 sec/batch)
+2024-09-09 03:19:24.824461: step [91,  1400/1500], acc=100.0000, loss = 0.060 (1641.5 examples/sec; 0.024 sec/batch)
+2024-09-09 03:20:05.795565: step [91,  1500/1500], acc=100.0000, loss = 0.043 (1686.8 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 03:20:48.007233, epoch: 91, acc_TOP1: 98.5800, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.022738, avg_FPS:43.979
+SGD	1e-05
+2024-09-09 03:21:50.370761: step [92,   100/1500], acc=97.5000, loss = 0.051 (1577.2 examples/sec; 0.025 sec/batch)
+2024-09-09 03:22:30.843784: step [92,   200/1500], acc=100.0000, loss = 0.063 (1611.9 examples/sec; 0.025 sec/batch)
+2024-09-09 03:23:11.591193: step [92,   300/1500], acc=97.5000, loss = 0.054 (1630.2 examples/sec; 0.025 sec/batch)
+2024-09-09 03:23:52.536970: step [92,   400/1500], acc=97.5000, loss = 0.058 (1670.4 examples/sec; 0.024 sec/batch)
+2024-09-09 03:24:33.535901: step [92,   500/1500], acc=100.0000, loss = 0.049 (1625.6 examples/sec; 0.025 sec/batch)
+2024-09-09 03:25:14.499817: step [92,   600/1500], acc=100.0000, loss = 0.056 (1594.4 examples/sec; 0.025 sec/batch)
+2024-09-09 03:25:55.214606: step [92,   700/1500], acc=100.0000, loss = 0.054 (1524.4 examples/sec; 0.026 sec/batch)
+2024-09-09 03:26:36.132979: step [92,   800/1500], acc=100.0000, loss = 0.048 (1607.8 examples/sec; 0.025 sec/batch)
+2024-09-09 03:27:16.917155: step [92,   900/1500], acc=100.0000, loss = 0.039 (1634.4 examples/sec; 0.024 sec/batch)
+2024-09-09 03:27:57.580079: step [92,  1000/1500], acc=100.0000, loss = 0.046 (1595.7 examples/sec; 0.025 sec/batch)
+2024-09-09 03:28:38.190541: step [92,  1100/1500], acc=100.0000, loss = 0.045 (1537.3 examples/sec; 0.026 sec/batch)
+2024-09-09 03:29:19.239444: step [92,  1200/1500], acc=97.5000, loss = 0.043 (1642.9 examples/sec; 0.024 sec/batch)
+2024-09-09 03:29:59.753911: step [92,  1300/1500], acc=97.5000, loss = 0.049 (1623.6 examples/sec; 0.025 sec/batch)
+2024-09-09 03:30:40.507431: step [92,  1400/1500], acc=97.5000, loss = 0.058 (1589.9 examples/sec; 0.025 sec/batch)
+2024-09-09 03:31:21.189805: step [92,  1500/1500], acc=97.5000, loss = 0.052 (1690.9 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 03:32:02.183965, epoch: 92, acc_TOP1: 98.5500, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.023243, avg_FPS:43.023
+SGD	1e-05
+2024-09-09 03:33:04.508811: step [93,   100/1500], acc=92.5000, loss = 0.051 (1630.4 examples/sec; 0.025 sec/batch)
+2024-09-09 03:33:44.868539: step [93,   200/1500], acc=100.0000, loss = 0.055 (1449.3 examples/sec; 0.028 sec/batch)
+2024-09-09 03:34:25.464028: step [93,   300/1500], acc=100.0000, loss = 0.051 (1624.3 examples/sec; 0.025 sec/batch)
+2024-09-09 03:35:06.187020: step [93,   400/1500], acc=100.0000, loss = 0.053 (1624.9 examples/sec; 0.025 sec/batch)
+2024-09-09 03:35:47.028639: step [93,   500/1500], acc=97.5000, loss = 0.044 (1565.7 examples/sec; 0.026 sec/batch)
+2024-09-09 03:36:28.124878: step [93,   600/1500], acc=100.0000, loss = 0.059 (1619.8 examples/sec; 0.025 sec/batch)
+2024-09-09 03:37:09.214329: step [93,   700/1500], acc=97.5000, loss = 0.057 (1598.1 examples/sec; 0.025 sec/batch)
+2024-09-09 03:37:50.115740: step [93,   800/1500], acc=100.0000, loss = 0.044 (1652.6 examples/sec; 0.024 sec/batch)
+2024-09-09 03:38:31.169633: step [93,   900/1500], acc=100.0000, loss = 0.047 (1673.3 examples/sec; 0.024 sec/batch)
+2024-09-09 03:39:12.166992: step [93,  1000/1500], acc=100.0000, loss = 0.047 (1615.8 examples/sec; 0.025 sec/batch)
+2024-09-09 03:39:52.963161: step [93,  1100/1500], acc=100.0000, loss = 0.059 (1635.1 examples/sec; 0.024 sec/batch)
+2024-09-09 03:40:33.966744: step [93,  1200/1500], acc=97.5000, loss = 0.047 (1629.8 examples/sec; 0.025 sec/batch)
+2024-09-09 03:41:15.318522: step [93,  1300/1500], acc=95.0000, loss = 0.052 (1582.1 examples/sec; 0.025 sec/batch)
+2024-09-09 03:41:55.826545: step [93,  1400/1500], acc=100.0000, loss = 0.043 (1526.2 examples/sec; 0.026 sec/batch)
+2024-09-09 03:42:36.454785: step [93,  1500/1500], acc=100.0000, loss = 0.051 (1720.7 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 03:43:17.723956, epoch: 93, acc_TOP1: 98.5500, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.022480, avg_FPS:44.484
+SGD	1e-05
+2024-09-09 03:44:19.695491: step [94,   100/1500], acc=100.0000, loss = 0.044 (1595.1 examples/sec; 0.025 sec/batch)
+2024-09-09 03:44:59.998313: step [94,   200/1500], acc=97.5000, loss = 0.054 (1522.9 examples/sec; 0.026 sec/batch)
+2024-09-09 03:45:40.775016: step [94,   300/1500], acc=100.0000, loss = 0.058 (1075.5 examples/sec; 0.037 sec/batch)
+2024-09-09 03:46:21.396742: step [94,   400/1500], acc=100.0000, loss = 0.050 (1602.5 examples/sec; 0.025 sec/batch)
+2024-09-09 03:47:02.192561: step [94,   500/1500], acc=97.5000, loss = 0.048 (1640.7 examples/sec; 0.024 sec/batch)
+2024-09-09 03:47:43.110270: step [94,   600/1500], acc=97.5000, loss = 0.052 (1652.3 examples/sec; 0.024 sec/batch)
+2024-09-09 03:48:23.974086: step [94,   700/1500], acc=97.5000, loss = 0.048 (1652.2 examples/sec; 0.024 sec/batch)
+2024-09-09 03:49:04.780954: step [94,   800/1500], acc=95.0000, loss = 0.055 (1614.0 examples/sec; 0.025 sec/batch)
+2024-09-09 03:49:45.488276: step [94,   900/1500], acc=100.0000, loss = 0.044 (1626.6 examples/sec; 0.025 sec/batch)
+2024-09-09 03:50:26.636467: step [94,  1000/1500], acc=100.0000, loss = 0.041 (1580.8 examples/sec; 0.025 sec/batch)
+2024-09-09 03:51:07.667167: step [94,  1100/1500], acc=97.5000, loss = 0.050 (1097.3 examples/sec; 0.036 sec/batch)
+2024-09-09 03:51:48.490312: step [94,  1200/1500], acc=100.0000, loss = 0.057 (1625.9 examples/sec; 0.025 sec/batch)
+2024-09-09 03:52:29.413287: step [94,  1300/1500], acc=97.5000, loss = 0.052 (1565.0 examples/sec; 0.026 sec/batch)
+2024-09-09 03:53:10.161550: step [94,  1400/1500], acc=95.0000, loss = 0.054 (1556.7 examples/sec; 0.026 sec/batch)
+2024-09-09 03:53:50.937576: step [94,  1500/1500], acc=100.0000, loss = 0.053 (1695.8 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 03:54:33.154427, epoch: 94, acc_TOP1: 98.6100, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.023017, avg_FPS:43.447
+SGD	1e-05
+2024-09-09 03:55:35.367877: step [95,   100/1500], acc=100.0000, loss = 0.037 (1574.2 examples/sec; 0.025 sec/batch)
+2024-09-09 03:56:15.526095: step [95,   200/1500], acc=97.5000, loss = 0.061 (1607.3 examples/sec; 0.025 sec/batch)
+2024-09-09 03:56:56.426813: step [95,   300/1500], acc=100.0000, loss = 0.052 (1637.5 examples/sec; 0.024 sec/batch)
+2024-09-09 03:57:36.907980: step [95,   400/1500], acc=100.0000, loss = 0.054 (1659.9 examples/sec; 0.024 sec/batch)
+2024-09-09 03:58:17.238880: step [95,   500/1500], acc=97.5000, loss = 0.052 (1608.7 examples/sec; 0.025 sec/batch)
+2024-09-09 03:58:57.816137: step [95,   600/1500], acc=100.0000, loss = 0.049 (1385.8 examples/sec; 0.029 sec/batch)
+2024-09-09 03:59:38.644437: step [95,   700/1500], acc=100.0000, loss = 0.046 (1669.6 examples/sec; 0.024 sec/batch)
+2024-09-09 04:00:19.469851: step [95,   800/1500], acc=100.0000, loss = 0.051 (1641.1 examples/sec; 0.024 sec/batch)
+2024-09-09 04:01:00.085206: step [95,   900/1500], acc=100.0000, loss = 0.043 (876.4 examples/sec; 0.046 sec/batch)
+2024-09-09 04:01:40.533642: step [95,  1000/1500], acc=100.0000, loss = 0.048 (1617.4 examples/sec; 0.025 sec/batch)
+2024-09-09 04:02:21.287090: step [95,  1100/1500], acc=100.0000, loss = 0.055 (1208.0 examples/sec; 0.033 sec/batch)
+2024-09-09 04:03:01.885501: step [95,  1200/1500], acc=100.0000, loss = 0.041 (1613.4 examples/sec; 0.025 sec/batch)
+2024-09-09 04:03:42.723210: step [95,  1300/1500], acc=100.0000, loss = 0.059 (1625.9 examples/sec; 0.025 sec/batch)
+2024-09-09 04:04:23.575569: step [95,  1400/1500], acc=97.5000, loss = 0.045 (1612.8 examples/sec; 0.025 sec/batch)
+2024-09-09 04:05:04.259235: step [95,  1500/1500], acc=97.5000, loss = 0.048 (1712.5 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 04:05:45.106186, epoch: 95, acc_TOP1: 98.6100, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.023545, avg_FPS:42.471
+SGD	1e-05
+2024-09-09 04:06:47.549962: step [96,   100/1500], acc=100.0000, loss = 0.048 (1516.2 examples/sec; 0.026 sec/batch)
+2024-09-09 04:07:27.924448: step [96,   200/1500], acc=100.0000, loss = 0.045 (1592.0 examples/sec; 0.025 sec/batch)
+2024-09-09 04:08:08.391318: step [96,   300/1500], acc=97.5000, loss = 0.052 (837.8 examples/sec; 0.048 sec/batch)
+2024-09-09 04:08:48.970801: step [96,   400/1500], acc=97.5000, loss = 0.048 (1084.9 examples/sec; 0.037 sec/batch)
+2024-09-09 04:09:29.533327: step [96,   500/1500], acc=97.5000, loss = 0.055 (1605.8 examples/sec; 0.025 sec/batch)
+2024-09-09 04:10:10.094424: step [96,   600/1500], acc=100.0000, loss = 0.054 (1606.7 examples/sec; 0.025 sec/batch)
+2024-09-09 04:10:50.790339: step [96,   700/1500], acc=100.0000, loss = 0.049 (1091.0 examples/sec; 0.037 sec/batch)
+2024-09-09 04:11:31.543391: step [96,   800/1500], acc=100.0000, loss = 0.042 (1648.0 examples/sec; 0.024 sec/batch)
+2024-09-09 04:12:11.878232: step [96,   900/1500], acc=100.0000, loss = 0.052 (1663.0 examples/sec; 0.024 sec/batch)
+2024-09-09 04:12:52.520985: step [96,  1000/1500], acc=97.5000, loss = 0.046 (1641.3 examples/sec; 0.024 sec/batch)
+2024-09-09 04:13:32.929713: step [96,  1100/1500], acc=97.5000, loss = 0.049 (1668.6 examples/sec; 0.024 sec/batch)
+2024-09-09 04:14:13.351198: step [96,  1200/1500], acc=97.5000, loss = 0.056 (1583.1 examples/sec; 0.025 sec/batch)
+2024-09-09 04:14:53.897641: step [96,  1300/1500], acc=97.5000, loss = 0.052 (1626.5 examples/sec; 0.025 sec/batch)
+2024-09-09 04:15:34.710599: step [96,  1400/1500], acc=100.0000, loss = 0.051 (1584.5 examples/sec; 0.025 sec/batch)
+2024-09-09 04:16:15.398542: step [96,  1500/1500], acc=97.5000, loss = 0.052 (1695.3 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 04:16:56.239965, epoch: 96, acc_TOP1: 98.5800, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.022646, avg_FPS:44.159
+SGD	1e-05
+2024-09-09 04:17:58.268663: step [97,   100/1500], acc=95.0000, loss = 0.055 (1656.3 examples/sec; 0.024 sec/batch)
+2024-09-09 04:18:38.623202: step [97,   200/1500], acc=97.5000, loss = 0.050 (1373.2 examples/sec; 0.029 sec/batch)
+2024-09-09 04:19:19.440348: step [97,   300/1500], acc=97.5000, loss = 0.050 (1575.5 examples/sec; 0.025 sec/batch)
+2024-09-09 04:20:00.320610: step [97,   400/1500], acc=100.0000, loss = 0.039 (1607.7 examples/sec; 0.025 sec/batch)
+2024-09-09 04:20:41.043015: step [97,   500/1500], acc=100.0000, loss = 0.057 (1084.2 examples/sec; 0.037 sec/batch)
+2024-09-09 04:21:21.999032: step [97,   600/1500], acc=100.0000, loss = 0.046 (1651.2 examples/sec; 0.024 sec/batch)
+2024-09-09 04:22:02.909172: step [97,   700/1500], acc=97.5000, loss = 0.046 (1595.1 examples/sec; 0.025 sec/batch)
+2024-09-09 04:22:43.773608: step [97,   800/1500], acc=100.0000, loss = 0.051 (1595.6 examples/sec; 0.025 sec/batch)
+2024-09-09 04:23:24.675935: step [97,   900/1500], acc=97.5000, loss = 0.052 (1623.7 examples/sec; 0.025 sec/batch)
+2024-09-09 04:24:05.341670: step [97,  1000/1500], acc=97.5000, loss = 0.055 (1628.3 examples/sec; 0.025 sec/batch)
+2024-09-09 04:24:46.364726: step [97,  1100/1500], acc=100.0000, loss = 0.050 (1648.0 examples/sec; 0.024 sec/batch)
+2024-09-09 04:25:27.217344: step [97,  1200/1500], acc=97.5000, loss = 0.045 (1616.1 examples/sec; 0.025 sec/batch)
+2024-09-09 04:26:07.894105: step [97,  1300/1500], acc=95.0000, loss = 0.051 (1618.3 examples/sec; 0.025 sec/batch)
+2024-09-09 04:26:48.561049: step [97,  1400/1500], acc=97.5000, loss = 0.047 (1630.3 examples/sec; 0.025 sec/batch)
+2024-09-09 04:27:29.041502: step [97,  1500/1500], acc=100.0000, loss = 0.050 (1737.0 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 04:28:09.904671, epoch: 97, acc_TOP1: 98.5800, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.023179, avg_FPS:43.142
+SGD	1e-05
+2024-09-09 04:29:12.049381: step [98,   100/1500], acc=100.0000, loss = 0.053 (1640.6 examples/sec; 0.024 sec/batch)
+2024-09-09 04:29:52.280235: step [98,   200/1500], acc=97.5000, loss = 0.050 (1606.1 examples/sec; 0.025 sec/batch)
+2024-09-09 04:30:33.076605: step [98,   300/1500], acc=100.0000, loss = 0.054 (1620.0 examples/sec; 0.025 sec/batch)
+2024-09-09 04:31:13.531658: step [98,   400/1500], acc=100.0000, loss = 0.056 (1635.9 examples/sec; 0.024 sec/batch)
+2024-09-09 04:31:54.086452: step [98,   500/1500], acc=100.0000, loss = 0.044 (1633.0 examples/sec; 0.024 sec/batch)
+2024-09-09 04:32:34.839761: step [98,   600/1500], acc=97.5000, loss = 0.047 (1636.1 examples/sec; 0.024 sec/batch)
+2024-09-09 04:33:15.482134: step [98,   700/1500], acc=95.0000, loss = 0.054 (1626.9 examples/sec; 0.025 sec/batch)
+2024-09-09 04:33:55.935386: step [98,   800/1500], acc=100.0000, loss = 0.039 (1625.2 examples/sec; 0.025 sec/batch)
+2024-09-09 04:34:36.494959: step [98,   900/1500], acc=97.5000, loss = 0.045 (1553.8 examples/sec; 0.026 sec/batch)
+2024-09-09 04:35:17.167303: step [98,  1000/1500], acc=100.0000, loss = 0.047 (1365.8 examples/sec; 0.029 sec/batch)
+2024-09-09 04:35:57.888459: step [98,  1100/1500], acc=100.0000, loss = 0.048 (1636.8 examples/sec; 0.024 sec/batch)
+2024-09-09 04:36:38.790724: step [98,  1200/1500], acc=95.0000, loss = 0.045 (1648.9 examples/sec; 0.024 sec/batch)
+2024-09-09 04:37:19.294645: step [98,  1300/1500], acc=95.0000, loss = 0.054 (1576.0 examples/sec; 0.025 sec/batch)
+2024-09-09 04:37:59.754529: step [98,  1400/1500], acc=97.5000, loss = 0.059 (1534.9 examples/sec; 0.026 sec/batch)
+2024-09-09 04:38:40.560506: step [98,  1500/1500], acc=97.5000, loss = 0.049 (1726.3 examples/sec; 0.023 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 04:39:21.716756, epoch: 98, acc_TOP1: 98.6100, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.022724, avg_FPS:44.006
+SGD	1e-05
+2024-09-09 04:40:23.724140: step [99,   100/1500], acc=97.5000, loss = 0.056 (1610.5 examples/sec; 0.025 sec/batch)
+2024-09-09 04:41:04.036477: step [99,   200/1500], acc=97.5000, loss = 0.053 (1625.5 examples/sec; 0.025 sec/batch)
+2024-09-09 04:41:44.510101: step [99,   300/1500], acc=97.5000, loss = 0.049 (1627.5 examples/sec; 0.025 sec/batch)
+2024-09-09 04:42:25.193610: step [99,   400/1500], acc=97.5000, loss = 0.046 (1572.6 examples/sec; 0.025 sec/batch)
+2024-09-09 04:43:05.886144: step [99,   500/1500], acc=100.0000, loss = 0.044 (1634.9 examples/sec; 0.024 sec/batch)
+2024-09-09 04:43:46.741184: step [99,   600/1500], acc=95.0000, loss = 0.049 (1599.2 examples/sec; 0.025 sec/batch)
+2024-09-09 04:44:27.482511: step [99,   700/1500], acc=97.5000, loss = 0.047 (1627.2 examples/sec; 0.025 sec/batch)
+2024-09-09 04:45:08.256427: step [99,   800/1500], acc=100.0000, loss = 0.054 (1572.5 examples/sec; 0.025 sec/batch)
+2024-09-09 04:45:48.644047: step [99,   900/1500], acc=100.0000, loss = 0.043 (1638.4 examples/sec; 0.024 sec/batch)
+2024-09-09 04:46:29.320707: step [99,  1000/1500], acc=95.0000, loss = 0.046 (1624.0 examples/sec; 0.025 sec/batch)
+2024-09-09 04:47:09.863947: step [99,  1100/1500], acc=95.0000, loss = 0.055 (1466.4 examples/sec; 0.027 sec/batch)
+2024-09-09 04:47:50.641328: step [99,  1200/1500], acc=97.5000, loss = 0.047 (1641.2 examples/sec; 0.024 sec/batch)
+2024-09-09 04:48:31.419886: step [99,  1300/1500], acc=97.5000, loss = 0.044 (1651.4 examples/sec; 0.024 sec/batch)
+2024-09-09 04:49:12.234488: step [99,  1400/1500], acc=97.5000, loss = 0.053 (1613.1 examples/sec; 0.025 sec/batch)
+2024-09-09 04:49:52.926365: step [99,  1500/1500], acc=100.0000, loss = 0.052 (1698.8 examples/sec; 0.024 sec/batch)
+process 100/334 images
+process 200/334 images
+process 300/334 images
+2024-09-09 04:50:34.548212, epoch: 99, acc_TOP1: 98.6000, acc_TOP5: 99.9900, loss_test: 0.042, avg_time: 0.022936, avg_FPS:43.601
+Finished Training
