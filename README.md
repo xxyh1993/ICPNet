@@ -13,10 +13,12 @@ Fashion_MNIST and AG_Fashion_MNIST: https://drive.google.com/file/d/11tp84BY0vA_
 
 
 ## Environment
-  'pytorch==2.2.1
+  '''
+  pytorch==2.2.1
   numpy==1.24.4
   opencv-python==4.2.0
-  scikit-image==0.21.0'
+  scikit-image==0.21.0
+  '''
 
 
 ## Training and testing on MNIST and Fashion_MNIST
