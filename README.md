@@ -5,11 +5,11 @@ A biological vision inspired framework for machine perception of abutting gratin
 ## Dataset
 Downloading datasets from google drive and unzip it to your computer.
 
-AG_MNIST: https://drive.google.com/file/d/1831nP9CLYym_cX53Tta7ndgGN2yyYMl4/view?usp=drive_link](https://share.multcloud.link/share/4aec12b4-f2c1-4c8b-a85e-8e625933af4c
+AG_MNIST: https://share.multcloud.link/share/4aec12b4-f2c1-4c8b-a85e-8e625933af4c
 
-MNIST and its edge pseudo labels: https://drive.google.com/file/d/19WcR-1PwrztavkrzvlrtxhQNL-Z8eUZP/view?usp=drive_link ](https://share.multcloud.link/share/a41afedf-107f-44c0-9091-b56240b4ce51
+MNIST and its edge pseudo labels: https://share.multcloud.link/share/a41afedf-107f-44c0-9091-b56240b4ce51
 
-Fashion_MNIST and AG_Fashion_MNIST: https://drive.google.com/file/d/11tp84BY0vA_8mbrihTGMu6nW6ZvgLODP/view?usp=drive_link](https://share.multcloud.link/share/985a693a-d31b-4df8-9eb4-71e90f82899b
+Fashion_MNIST and AG_Fashion_MNIST: https://share.multcloud.link/share/985a693a-d31b-4df8-9eb4-71e90f82899b
 
 
 ## Environment
