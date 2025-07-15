@@ -11,4 +11,7 @@ MNIST and its edge pseudo labels: https://drive.google.com/file/d/19WcR-1Pwrztav
 
 Fashion_MNIST and AG_Fashion_MNIST: https://drive.google.com/file/d/11tp84BY0vA_8mbrihTGMu6nW6ZvgLODP/view?usp=drive_link
 
-# 
+# Training and testing on MNIST and Fashion_MNIST
+The training and test are integrated to a python file. You also run the "all_models_test_illusory.py" to evaluate directly the performance of models on the AG_MNIST and AG_Fashion_MNIST test sets.
+
+The “icpnet_train_classifier_mnist.py” is 
