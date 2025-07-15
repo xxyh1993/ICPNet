@@ -13,12 +13,11 @@ Fashion_MNIST and AG_Fashion_MNIST: https://drive.google.com/file/d/11tp84BY0vA_
 
 
 ## Environment
-```
-pytorch==2.2.1
-numpy==1.24.4
-opencv-python==4.2.0
-scikit-image==0.21.0
-```
+  pytorch==2.2.1
+  numpy==1.24.4
+  opencv-python==4.2.0
+  scikit-image==0.21.0
+
 
 ## Training and testing on MNIST and Fashion_MNIST
 The training and test are integrated to a python file. You can also run the "all_models_test_illusory.py" to evaluate directly the performance of the pre-trained models on the AG_MNIST and AG_Fashion_MNIST test sets.
