@@ -24,7 +24,7 @@ einops==0.7.0
 
 ## model weights
 The weights of all models can be downloaded from the link as follows:
-
+https://share.multcloud.link/share/a1d22606-8572-46b7-b395-8c0c2b072139
 
 Unzip the file into a directory. And then modifying the path of the models in ".yaml" files.
 
