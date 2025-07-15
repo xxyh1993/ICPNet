@@ -3,7 +3,7 @@ A biological vision inspired framework for machine perception of abutting gratin
 
 
 ## Dataset
-Downloading datasets from google drive and unzip it to your computer.
+Downloading datasets from google drive and unzip it into your computer.
 
 AG_MNIST: https://share.multcloud.link/share/4aec12b4-f2c1-4c8b-a85e-8e625933af4c
 
@@ -24,6 +24,9 @@ einops==0.7.0
 
 ## model weights
 The weights of all models can be downloaded from the link as follows:
+
+
+Unzip the file into a directory. And then modifying the path of the models in ".yaml" files.
 
 
 ## Training and testing on MNIST and Fashion_MNIST
