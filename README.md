@@ -1,7 +1,7 @@
-## ICPNet
+### ICPNet
 A biological vision inspired framework for machine perception of abutting grating illusory contours
 
-## Dataset
+### Dataset
 Downloading datasets from google drive and unzip it to your computer.
 
 AG_MNIST: https://drive.google.com/file/d/1831nP9CLYym_cX53Tta7ndgGN2yyYMl4/view?usp=drive_link
