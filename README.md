@@ -12,7 +12,7 @@ MNIST and its edge pseudo labels: https://drive.google.com/file/d/19WcR-1Pwrztav
 Fashion_MNIST and AG_Fashion_MNIST: https://drive.google.com/file/d/11tp84BY0vA_8mbrihTGMu6nW6ZvgLODP/view?usp=drive_link
 
 
-##Environment
+## Environment
 ```bash
 torch==2.2.1
 numpy==1.24.4
