@@ -23,8 +23,7 @@ einops==0.7.0
 ```
 
 ## model weights
-All weights of models can be downloaded from the link as follows:
-
+The weights of all models can be downloaded from the link as follows:
 
 
 ## Training and testing on MNIST and Fashion_MNIST
