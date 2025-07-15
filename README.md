@@ -14,10 +14,12 @@ Fashion_MNIST and AG_Fashion_MNIST: https://drive.google.com/file/d/11tp84BY0vA_
 
 ## Environment
 ```bash
-pytorch==2.2.1
-numpy==1.24.4
-opencv-python==4.2.0
-scikit-image==0.21.0
+pytorch==2.0.1
+numpy==1.22.4
+python==3.9.17
+torchvision==0.15.2 
+pyyaml==6.0.1
+einops==0.7.0
 ```
 
 ## Training and testing on MNIST and Fashion_MNIST
