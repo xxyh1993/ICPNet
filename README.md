@@ -1,5 +1,5 @@
 ## Title
-A biological vision inspired framework for machine perception of abutting grating illusory contours
+A biological vision inspired framework for machine perception of illusory contours
 
 
 ## Dataset
