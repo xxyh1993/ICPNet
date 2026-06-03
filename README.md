@@ -1,6 +1,7 @@
 ## Title
 A biological vision inspired framework for machine perception of illusory contours
-![image](https://github.com/xxyh1993/ICPNet/blob/main/outline.png)
+![Fig3.pdf](https://github.com/user-attachments/files/28539301/Fig3.pdf)
+)
 
 ## Dataset
 Downloading datasets from google drive and unzip it into your computer.
